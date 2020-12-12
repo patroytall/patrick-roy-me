@@ -32,6 +32,14 @@ Hosting -> Add custom domains:
   - @   A   1h   151.101.1.195 and 151.101.65.195
   - www  A   1h   151.101.1.195 and 151.101.65.195
 
+# Development
+
+    yarn run dev
+
+or
+
+    firebase serve
+
 # Deployment
 
     firebase deploy
