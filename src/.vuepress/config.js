@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  title: 'Patrick Roy Site',
+  title: 'Patrick Roy',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
