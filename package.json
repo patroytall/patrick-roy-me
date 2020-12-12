@@ -1,0 +1,19 @@
+{
+  "name": "patrick-roy-me",
+  "version": "0.0.1",
+  "description": "Patrick Roy Me",
+  "main": "index.js",
+  "authors": {
+    "name": "Patrick Roy",
+    "email": "patroytall@gmail.com"
+  },
+  "repository": "https://github.com/patroytall/patrick-roy-me/patrick-roy-me",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
