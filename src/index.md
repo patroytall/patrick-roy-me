@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg
-tagline: Software architect, artisan and hopefully magician.
+tagline: Software architect and craftsman
 actionText: Quick Start →
 actionLink: /guide/
 features:
@@ -12,4 +12,6 @@ features:
 - title: Feature 3 Title
   details: Feature 3 Description
 footer: Made by Patrick Roy with ❤️
+tags: Patrick Roy, Software, Architect, Craftsman
 ---
+<social-share :networks="['linkedin', 'email']" />
