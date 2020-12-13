@@ -1,7 +1,7 @@
 {
   "name": "patrick-roy-me",
   "version": "0.0.1",
-  "description": "Patrick Roy Me",
+  "description": "Pragmatic software development insight based on 25 years of experience",
   "main": "index.js",
   "authors": {
     "name": "Patrick Roy",
@@ -14,7 +14,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3",
-    "vuepress-plugin-social-share": "^1.0.0"
+    "vuepress": "^1.5.3"
   }
 }
