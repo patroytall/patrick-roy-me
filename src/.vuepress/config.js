@@ -1,4 +1,6 @@
 const { description } = require('../../package')
+const fs = require('fs');
+const path = require('path');
 
 module.exports = {
   title: 'Patrick Roy',
@@ -36,16 +38,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/about/': [
-        {
-          title: 'about',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
+      '/blog/': getSideBar('blog', 'Blog'),
     }
   },
 
@@ -56,4 +49,18 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
   ]
+}
+
+function getSideBar(folder, title) {
+  const extension = [".md"];
+
+  const files = fs
+    .readdirSync(path.join(`${__dirname}/../${folder}`))
+    .filter(
+      (item) =>
+        item.toLowerCase() != "index.md" &&
+        fs.statSync(path.join(`${__dirname}/../${folder}`, item)).isFile() &&
+        extension.includes(path.extname(item))
+    );
+  return [{ title: title, children: [...files] }];
 }
