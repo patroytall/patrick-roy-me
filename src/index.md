@@ -3,16 +3,16 @@ home: true
 heroImage: https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg
 heroText:
 tagline: Software architect and craftsman
-actionText: Blog →
-actionLink: /blog/
-footer: Experience I have gathered. Let me share some pragmatic insights from it.
+actionText: Articles →
+actionLink: /articles/
+footer: Software development a chaos of art, science, and engineering; pragmatic insights from my experience.
 tags: Patrick Roy, Software, Architect, Craftsman
 ---
 
 # [About](/about)
-About me. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/).
+About me. 25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/). For feedback, please email me at `patroytall@gmail.com`.
 
-# [Blog](/blog)
+# [Articles](/articles)
 Opinions in the form of short articles about software development.
 
 # [References](/references)
@@ -23,4 +23,4 @@ Reference documents about software development organized in a hierarchy. The inf
 
 **Disclaimer**
 
-Information on this site comes from my 25 years of experience. It is not based on in-depth analysis or research. I hope the material helps you in your software development endeavors. For feedback, please email me at `patroytall@gmail.com`.
+Information on this site is based on my years of experience not on in-depth analysis or research. I hope the material helps you in your software development endeavors.
