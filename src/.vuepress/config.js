@@ -25,8 +25,8 @@ module.exports = {
         link: '/about/',
       },
       {
-        text: 'Blog',
-        link: '/blog/'
+        text: 'Articles',
+        link: '/articles/'
       },
       {
         text: 'References',
@@ -38,7 +38,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/blog/': getSideBar('blog', 'Blog'),
+      '/articles/': getSideBar('articles', 'Articles'),
     }
   },
 
