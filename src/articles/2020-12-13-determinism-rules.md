@@ -1,1 +1,28 @@
-# Determinism rules (2020-12-13)
+# Determinism rules (work in progress)
+(2020-12-13)
+
+When faced with a decision facts line up on both sides. Your gut feeling can sometimes interferes by pushing you in one direction but more often than not you are stuck in the middle needing to make a choice. A day of work is a sequence of these events. A career is an infinite repetition of this.
+
+Determinism is appeasing. Having a clear path to resolve decision points is equivalent to voiding them. The result is a great gain of efficiency because making decisions takes time and is demanding.
+
+## Absolute simplicity
+
+We have rules, best practices, conventions about everything. Exceptions are the bulky annoyance. Exceptions grow from seeds of ambiguity watered by demanded perfectionism.
+
+Instead of keeping tack of exceptions why not ignore them in some case? A rule without exception is a best friend. It helps you when you need it without a burden.
+
+### Code formatting convention
+
+A big debate in computer history has been about how to format code. Individuals have not relinquish their individuality for years in the name of betterhood. Code formatters have evolved and become a blessing but still you can configure them to your project liking which leads to debates.
+
+Take the time to resolve this topic expediently. Arm wrestle, cry, or yell but get it done, then close this topic forever. Adopting the default settings of your development tool is simple way out.
+
+The tool has to rule. Do not let humans do special formatting here and there because it is needed. Let the tool flow and miss-align everything if need be. Always ensure you can reformat your whole project in a click. Go have a beer with the people feeling hurt.
+
+Global conventions seem to be emerging. Code published on the internet appears to be converging toward similar formatting. We should be able to analyze the sum of the code published, weight it based on relevancy, to extract this wisdom eventually.
+
+### Less is more
+
+#### Ternary operator
+
+### Extreme camel case naming

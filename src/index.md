@@ -23,4 +23,7 @@ Reference documents about software development organized in a hierarchy. The inf
 
 **Disclaimer**
 
+My experience in frontend rendering frameworks is primarily at the architectural level. I have built this site using Google Firebase and VuePress to learn about these technologies. Source code is available in GitHub.
+
 Information on this site is based on my years of experience not on in-depth analysis or research. I hope the material helps you in your software development endeavors.
+
