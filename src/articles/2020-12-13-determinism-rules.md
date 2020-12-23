@@ -7,7 +7,7 @@ Determinism is appeasing. Having a clear path to resolve decision points is equi
 
 ## Absolute for simplicity
 
-We have rules, best practices, conventions about everything. Exceptions are the bulky annoyance. Exceptions grow from seeds of uncertainty watered by demanded perfectionism.
+We have rules, best practices, and conventions about everything. Exceptions are the bulky annoyance. Exceptions grow from seeds of uncertainty watered by demanded perfectionism.
 
 Instead of keeping track of exceptions why not ignore them in some cases? A rule without exception is a best friend. It helps you when you need it without a burden. Absolute rules are simple.
 
