@@ -10,7 +10,7 @@ tags: Patrick Roy, Software, Architect, Craftsman
 ---
 
 # [About](/about)
-About me; 25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/). For feedback, please email me at `patroytall@gmail.com` .
+About me.
 
 # [Articles](/articles)
 Opinions in the form of short articles about software development.
@@ -28,3 +28,5 @@ Eloquence is not a given. My prose is rough and direct; likely incorrect at time
 My experience with frontend implementation is minimal. I built this site using [Google Firebase](https://firebase.google.com/) and [VuePress](https://vuepress.vuejs.org/) to learn about these technologies. Source code is available in [GitHub](https://github.com/patroytall/patrick-roy-me).
 
 Information on this site is based on my years of experience not on in-depth analysis or research. I hope the material helps you in your software development endeavors.
+
+For feedback, please email me at `patroytall@gmail.com` .
