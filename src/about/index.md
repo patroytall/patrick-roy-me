@@ -4,8 +4,8 @@
 
 Committed technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
 
-- QUB musique; 60 million songs - https://musique.qub.ca
-- TVA+; top 3 Canadian video service - https://www.qub.ca/tvaplus
+- [QUB musique](https://musique.qub.ca); 60 million songs - https://musique.qub.ca
+- [TVA+](https://www.qub.ca/tvaplus); top 3 Canadian video service - https://www.qub.ca/tvaplus
 
 My beliefs somehow grouped by topic:
 
