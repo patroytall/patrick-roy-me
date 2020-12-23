@@ -19,7 +19,7 @@ Results is what you leave behind. The sweat and tears dry up.
 
 Efficiency includes respect and empathy.
 
-How many failed initiatives does it take to get a success? Does it matter?
+How many failed initiatives does it take to get to a success? Does it matter?
 
 ## Fundamentals
 
@@ -75,6 +75,6 @@ Precise production systems monitoring now allows for production only issues to b
 
 Automate, automate, automate.
 
-Code is the precious. Nurture it with best practices and it will give you back for years.
+Code is still the precious. Nurture it with best practices and it will give you back for years.
 
 AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.
