@@ -1,6 +1,6 @@
 # About
 
-25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/).
+25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/) and [GitHub](https://github.com/patroytall).
 
 Committed technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
 

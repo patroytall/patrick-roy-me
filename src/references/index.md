@@ -1,4 +1,6 @@
-# References
+# References (work in progress)
+
+TODO: restore the links to the reference contents
 
 ## Videos
 - Robert Cecil Martin (Uncle Bob) Clean Code video series: Clean Coders - first video
