@@ -10,7 +10,6 @@ References I have found useful:
 - [8th Light authors](https://8thlight.com/blog/)
 
 ## Paper
-- [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm)
 
 ## Sites
 - The Pragmatic Engineer: [Gergely Orosz](https://blog.pragmaticengineer.com/)
@@ -21,6 +20,7 @@ References I have found useful:
 - [Kent Beck](https://www.kentbeck.com/)
 
 ## Books
+- Clean Code by Robert Cecil Martin (Uncle Bob)
 - Release It! Second Edition by Michael T. Nygard
 - Implementation Patterns by Kent Beck
 - Code Complete Second Edition by Steve McConnell
