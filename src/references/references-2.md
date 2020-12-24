@@ -1,6 +1,5 @@
 # References - Tier 2
 
-References I have found useful:
 
 ## Videos
 - [Uncle Bob - The Three Laws of TDD (Featuring Kotlin)](https://www.youtube.com/watch?v=qkblc5WRn-U) - coding example of TDD
@@ -9,12 +8,10 @@ References I have found useful:
 ## Blogs
 - [8th Light authors](https://8thlight.com/blog/)
 
-## Paper
-
 ## Sites
 - The Pragmatic Engineer: [Gergely Orosz](https://blog.pragmaticengineer.com/)
 - [GeeksforGeeks - Java](http://www.geeksforgeeks.org/java/)
-- [Joel Spolsky - on Software](https://www.joelonsoftware.com/)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
 - [Steve McConnell](http://www.stevemcconnell.com/index.htm) - commercial biased
 - [Jim Coplien](http://www.stevemcconnell.com/index.htm)
 - [Kent Beck](https://www.kentbeck.com/)
