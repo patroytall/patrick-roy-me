@@ -11,17 +11,20 @@ My most influential references which I recommend perusing.
 ## Leaders
 - Robert C. Martin (Uncle Bob)
   - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
-  - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📹 and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📹
+  - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📽️ and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📽️
 
-- [Martin Fowler](https://martinfowler.com/tags/index.html) 📹 📝
+- [Martin Fowler](https://martinfowler.com/tags/index.html) 📽️ 📝
+
+- Gergely Orosz - [Pragmatic engineer](https://blog.pragmaticengineer.com/book/) ✍
+  - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ✍
+  - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ✍
 
 ## Architecture
-- [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ✍
 - [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
 - [Big Ball of Mud](http://www.laputan.org/mud/) 📝
 
 ## Cloud
-- [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📹
+- [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📽️
 
 ## Testing
 - [Testing Microservices, the sane way](http://www.laputan.org/mud/) 📝
@@ -31,6 +34,3 @@ My most influential references which I recommend perusing.
 
 ## Principles
 - [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
-
-## Mentoring
-- [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ✍
