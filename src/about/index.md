@@ -2,12 +2,12 @@
 
 25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/) and [GitHub](https://github.com/patroytall).
 
-Committed technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
+I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
 
 - [QUB musique](https://musique.qub.ca); 60 million songs - https://musique.qub.ca
 - [TVA+](https://www.qub.ca/tvaplus); top 3 Canadian video service - https://www.qub.ca/tvaplus
 
-My beliefs somehow grouped by topic:
+A software project is controlled chaos. Brillant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
 ## Lessons
 
@@ -15,17 +15,19 @@ Things change. No point trying to predict in which direction.
 
 Risk is here to stay. Decide and live with the consequences.
 
-Results is what you leave behind. The sweat and tears dry up. 
-
 Efficiency includes respect and empathy.
 
-How many failed initiatives does it take to get to a success? Does it matter?
+How many failed initiatives can you afford to get to a success? Does it matter?
+
+Results is what you leave behind. The sweat and tears dry up. 
 
 ## Fundamentals
 
-Honesty - The truth can hurt sometimes but it leaves you free to focus on the essential.
+Respect - We disagree. If not we would not have jobs. 
 
-Learning - Learn alone and together every day. The sky will be your limit.
+Honesty - The truth hurts sometimes but it leaves you free to focus on the essential.
+
+Learning - Learn alone and together every day. There is no limit.
 
 Accomplishment - Is a happy customer using software you wrote not beautiful?
 
@@ -49,17 +51,19 @@ I love to make people smile with my not so funny humour. They seem to enjoy it s
 
 Software is never perfect; it must be good enough to generate revenue exceeding its development costs.
 
-Architecture is about picking the right technology mix while considering risk. With delivery timeliness in mind favor short term requirements.
-
-Programming is a craftsmanship. Clean code must be readable and factorized to reduce documentation and minimize maintenance costs.
-
 Developing an application feature set is half the work. The other half is deploying it in production.
+
+Architecture - With delivery timeliness in mind favor short term requirements and proven technologies. Share information for the team to be the architect. You will never get it right but keep trying.
+
+Programming is a craftsmanship. Clean code must be readable and factorized to reduce documentation. 
+
+Design software that ages well. You would not want you maintenance costs to ruin your lucrative business.
+
+Performance always matter but keep in mind "Premature optimization is the root of all evil" -- Donald Knuth
 
 API between components deserve the utmost design attention.
 
 Ensure you invest in focused automated testing at the appropriate layer.
-
-Design software that ages well. You would not want you maintenance costs to ruin your lucrative business.
 
 Code reviews; the best teaching tool.
 
@@ -71,10 +75,11 @@ Creation of quality enterprise products requires adapted processes and tooling.
 
 Cloud based applications are the biggest paradigm shift I have experienced. Write as little code as possible to deliver the most functionality.
 
-Precise production systems monitoring now allows for production only issues to be diagnosed much more easily.
+AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.
 
 Automate, automate, automate.
 
+Precise production systems monitoring now allows for production only issues to be diagnosed easily.
+
 Code is still the precious. Nurture it with best practices and it will give you back for years.
 
-AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.

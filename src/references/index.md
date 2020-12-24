@@ -8,28 +8,29 @@ My most influential references which I recommend perusing.
 - [Hacker News](https://news.ycombinator.com/)
 - [Slashdot](https://slashdot.org/)
 
-## Videos
-- Robert Cecil Martin (Uncle Bob): [Clean Coders - first video](https://cleancoders.com/episode/clean-code-episode-1/show) and [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show)
-- [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0)
-  
-## Blogs
-- Robert C. Martin (Uncle Bob): 2011+ [Clean Coder](http://blog.cleancoder.com/) 2006- [Uncle Bob](http://butunclebob.com/)
-- [Jeff Atwood Coding Horror](https://blog.codinghorror.com/). See "Older Posts" at the bottom right for blog history.
+## Leaders
+- Robert C. Martin (Uncle Bob)
+  - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
+  - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📹 and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📹
 
-## Sites
-- [Martin Fowler - articles and videos](https://martinfowler.com/tags/index.html) - Articles and vidéos
+- [Martin Fowler](https://martinfowler.com/tags/index.html) 📹 📝
 
-## Paper
-- [Big Ball of Mud](http://www.laputan.org/mud/)
+## Architecture
+- [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ✍
+- [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
+- [Big Ball of Mud](http://www.laputan.org/mud/) 📝
+
+## Cloud
+- [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📹
 
 ## Testing
-- [Testing Microservices, the sane way](http://www.laputan.org/mud/)
+- [Testing Microservices, the sane way](http://www.laputan.org/mud/) 📝
 
-## Continuous Integration / Delivery
-- [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell)
+## Continuous Integration
+- [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell) 🏠
 
 ## Principles
-- [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/)
+- [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
 
-## Books
-- Clean Code by Robert Cecil Martin (Uncle Bob)
+## Mentoring
+- [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ✍
