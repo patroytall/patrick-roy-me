@@ -1,50 +1,35 @@
-# References (work in progress)
+# References - Tier 1
 
-TODO: restore the links to the reference contents
+## See also [References - Tier 2](./references-2.md) for other useful references.
+
+My most influential references which I recommend perusing.
+
+## News
+- [Hacker News](https://news.ycombinator.com/)
+- [Slashdot](https://slashdot.org/)
 
 ## Videos
-- Robert Cecil Martin (Uncle Bob) Clean Code video series: Clean Coders - first video
-- Martin Fowler multiple videos on various topics: Martin Fowler - videos
-- Robert Cecil Martin (Uncle Bob): Last Programming Language
-- Robert Cecil Martin (Uncle Bob) coding example of TDD: YouTube - The Three Laws of TDD (Featuring Kotlin)
-
+- Robert Cecil Martin (Uncle Bob): [Clean Coders - first video](https://cleancoders.com/episode/clean-code-episode-1/show) and [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show)
+- [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0)
+  
 ## Blogs
-- Robert C. Martin (Uncle Bob) from 2011 to now: Clean Coder - blog
-- Multiple authors from 8th Light including Uncle Bob: 8th Light - blog
-- Robert Cecil Martin (Uncle Bob) from 2004 to 2006: Uncle Bob - blog
-- Jeff Atwood Coding Horror: Coding Horror - current blogs. See "Older Posts" at the bottom right of the page for old blogs.
+- Robert C. Martin (Uncle Bob): 2011+ [Clean Coder](http://blog.cleancoder.com/) 2006- [Uncle Bob](http://butunclebob.com/)
+- [Jeff Atwood Coding Horror](https://blog.codinghorror.com/). See "Older Posts" at the bottom right for blog history.
 
 ## Sites
-- The Pragmatic Engineer: Gergely Orosz
-- GeeksforGeeks: GeeksforGeeks - Java
-- Martin Fowler content: Martin Fowler - index
-- Joel Spolsky: Joel on Software
-- Steve McConnell links to his content and training company, commercially biased: Steve McConnell
-- Jim Coplien (Cope) content: Jim Coplien
-
-## Authors
-- Kent Beck: Wikipedia - Kent Beck
-
-## Books
-- Clean Code by Robert Cecil Martin (Uncle Bob): Safari - Clean Code
-- Implementation Patterns by Kent Beck: Safari - Implementation Patterns
-- Code Complete Second Edition by Steve McConnell: Safari - Code Complete
-- xUnit Test Patterns Refactoring Test Code by Gerard Meszaros: Web Site - xUnit patterns and Safari - xUnit Test Patterns
-- Effective Unit Testing: A guide for Java Developers by Lasse Koskela: Safari - Effective Unit Testing
-- Refactoring: Improving the Design of Existing Code by Don Roberts, William Opdyke, Kent Beck, Martin Fowler, John Brant : Safari - Refactoring 
-- Working Effectively with Legacy Code by Michael Feathers: Safari - Working Effectively with Legacy Code
-- Building Microservices by Sam Newman: O'Reilly
-- Release It! Second Edition by Michael T. Nygard: O'Reilly
+- [Martin Fowler - articles and videos](https://martinfowler.com/tags/index.html) - Articles and vidéos
 
 ## Paper
-- Big Ball of Mud
+- [Big Ball of Mud](http://www.laputan.org/mud/)
 
 ## Testing
-- Micro service testing: Testing Microservices, the sane way
+- [Testing Microservices, the sane way](http://www.laputan.org/mud/)
 
 ## Continuous Integration / Delivery
-- Are you really doing continuous integration
+- [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell)
 
-## TO-DOs
-
+## Principles
 - [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/)
+
+## Books
+- Clean Code by Robert Cecil Martin (Uncle Bob)
