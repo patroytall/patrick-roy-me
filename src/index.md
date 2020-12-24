@@ -19,11 +19,11 @@ Opinions in the form of short articles about software development.
 References to people who influenced me. Links to content I recommend.
 
 # [Documents](/documents)
-Documents about software development organized in a hierarchy. The information is fine grained for easy referencing. Document relevancy is often linked to the organization I was working for at the time of writing.
+Documents about software development organized in a hierarchy. Relevancy is linked to the organization I was working for at the time of writing.
 
 **Disclaimer**
 
-Eloquence is not a given. My prose is rough and direct; likely incorrect at times.
+Eloquence is not a given. My prose is rough and direct; likely incorrect at times. Nuances are skipped for efficiency reasons.
 
 My experience with frontend implementation is minimal. I built this site using [Google Firebase](https://firebase.google.com/) and [VuePress](https://vuepress.vuejs.org/) to learn about these technologies. Source code is available in [GitHub](https://github.com/patroytall/patrick-roy-me).
 
