@@ -34,11 +34,9 @@ Hosting -> Add custom domains:
 
 # Development
 
-    yarn run dev
+    yarn build && firebase serve
 
-or
-
-    firebase serve
+Vue hot reloading does not appear to work wich is why `yarn run dev` is not recommended.
 
 # Deployment
 

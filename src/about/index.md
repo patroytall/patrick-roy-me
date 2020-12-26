@@ -1,6 +1,6 @@
 # About
 
-25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/) and [GitHub](https://github.com/patroytall). My native language is French. I am fluent in English.
+25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [GitHub](https://github.com/patroytall) and [recent influences](../references/references.md).
 
 I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
 
@@ -10,6 +10,8 @@ I am a technical leader with broad enterprise software development experience fr
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
 This performance testing tool company published [my testimony](https://k6.io/testimonials).
+
+My native language is French. I am fluent in English.
 
 ## Lessons
 

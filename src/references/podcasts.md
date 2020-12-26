@@ -9,4 +9,5 @@ Workouts and podcasts are perfect together.
 
 ## Listened
 
-- [Complacency with Tyler Cowen](https://open.spotify.com/episode/0WTQWfrOXQfVovDC79IeW8) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/> 2020-12-24
+- [Complacency with Tyler Cowen](https://open.spotify.com/episode/0WTQWfrOXQfVovDC79IeW8) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
+- [Episode 224: Sven Johann and Eberhard Wolff on Technical Debt](http://www.se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/)

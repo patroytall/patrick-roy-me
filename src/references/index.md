@@ -1,12 +1,12 @@
 # References
 
-## [References - Tier 1](./references.md)
+## [References - Current](./references.md)
 My most influential references which I recommend perusing.
 
 ## [Podcasts](./podcasts.md)
 Listened and queued podcasts.
 
-## [References - Tier 2](./references-2.md)
-Other references I have found useful.
+## [References - History](./references-history.md)
+Other references I have consulted.
 
 
