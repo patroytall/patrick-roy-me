@@ -9,6 +9,12 @@ I am a technical leader with broad enterprise software development experience fr
 
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
+I strongly believe in continuous delivery because it increases average feature availability and supports agile development. Without broad automated tests there is no point trying. DevOps is a necessity: builds, delivery pipeline, infrastructure as code, production monitoring, and so much more.
+
+I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications. State management will be more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
+
+Serverless, yes.
+
 This performance testing tool company published [my testimony](https://k6.io/testimonials).
 
 My native language is French. I am fluent in English.
@@ -61,13 +67,13 @@ Coordination between teams is a hard problem. It can consume more resources than
 
 Architecture is tied to your organization. With delivery timeliness in mind favor short term requirements and proven technologies. Share information for the team to be the architect. You will never get it right but keep trying.
 
+API between components deserve the utmost design attention.
+
 Programming is a craftsmanship. Clean code must be readable and factorized to reduce documentation. 
 
 Design software that ages well. You would not want you maintenance costs to ruin your lucrative business.
 
 Performance always matter but keep in mind "Premature optimization is the root of all evil" -- Donald Knuth
-
-API between components deserve the utmost design attention.
 
 Ensure you invest in focused automated testing at the appropriate layer.
 
@@ -81,14 +87,16 @@ Creation of quality enterprise products requires adapted processes and tooling.
 
 ## Trend
 
-Deliver fast and often so you can fix without costly investigation.
+Deliver fast and often so you can fix without costly investigation. Production monitoring is a new form of tests. System tracing tools are game changers. Many bugs only happen in production. At least now, we can catch them.
 
-Cloud based applications is the largest paradigm shift I have experienced. A mesh of services tied with a small amount of code to deliver giant functionality.
+Cloud based applications is the largest paradigm shift I have experienced. A mesh of services tied with a small amount of code to deliver massive functionality.
+
+Testing strategies in microservice environments need to be adapted. Consumer-driven contract testing is costly but will safeguard your system in the long run.
 
 AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.
 
 Automate, automate, automate.
 
-Production monitoring is a new form of tests. Many bugs only happen in production. At least now, we can catch them.
+[Kubernetes](https://kubernetes.io/), the defacto container orchestration, is not your friend; it will cost you an arm and a leg in configuration and maintenance. Consider hosted versions or better a more managed platform if you can.
 
 Code is still the precious. Nurture it with best practices and it will give you back for years.
