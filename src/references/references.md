@@ -16,6 +16,7 @@
   - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ✍
 
 ## Architecture
+- [Chris Richardson on Microservice Patterns](https://open.spotify.com/episode/5YKkCC9iNi3idHxqVeBXS0?si=z-2jIT7qTx6UR--twdLJCA) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
 - [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
 - [Big Ball of Mud](http://www.laputan.org/mud/) 📝
 - [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📽️
