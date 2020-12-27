@@ -41,7 +41,7 @@ Learning - Learn alone and together every day. There is no limit.
 
 Accomplishment - Is a happy customer using software you wrote not beautiful?
 
-Dream - Software engineers are magicians. They create what used to be impossible.
+Dream - Software engineers are magicians; they create what used to be impossible.
 
 ## People
 
