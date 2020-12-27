@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 module.exports = {
-  title: 'Patrick Roy',
+  title: 'Software Aficionado',
   description: description,
 
   head: [

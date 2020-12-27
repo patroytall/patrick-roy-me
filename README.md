@@ -1,6 +1,6 @@
-# patrickroy.me
+# Software Aficionado
 
-This is the repository for the web site [patrickroy.me](https://patrickroy.me). It is a VuePress site deployed in the Google Firebase environment.
+This is the repository for the web site [softwareaficionado.com](https://softwareaficionado.me) which is also reachable using [patrickroy.me](https://patrickroy.me). It is a VuePress site deployed in the Google Firebase environment.
 
 # Project setup
 
@@ -26,11 +26,24 @@ Settings:
 
 Hosting -> Add custom domains:
 
-- Domain: patrickroy.me. No redirect.
-- Add www.patrickroy.me to redirect to patrickroy.me.
+- Domain: softwareaficionado.com. No redirect.
+- Add www.softwareaficionado.com to redirect to softwareaficionado.com.
 - Custom resource record for Google Domains:
-  - @   A   1h   151.101.1.195 and 151.101.65.195
-  - www  A   1h   151.101.1.195 and 151.101.65.195
+  - `@   A   1h   151.101.1.195 and 151.101.65.195`
+  - `www  A   1h   151.101.1.195 and 151.101.65.195`
+
+Wait up to 24 hours for the SSL certificate to be updated.
+
+### Domain forwarding
+
+In Google domains -> My domains -> Manage -> Domain overview:
+- Permanent redirect (301)
+- Path forwarding enabled
+- SSL on
+
+Forward: patrickroy.me -> softwareaficionado.com
+
+Forward: softwareafficionado.com -> softwareaficionado.com
 
 # Development
 

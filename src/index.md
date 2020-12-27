@@ -2,15 +2,15 @@
 home: true
 heroImage: https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg
 heroText:
-tagline: Software aficionado
+tagline: Patrick Roy
 actionText: Articles →
 actionLink: /articles/
 footer: Software development a chaos of art, science, and engineering; pragmatic insights from my experience.
-tags: Patrick Roy, software, aficionado, architect, craftsman
+tags: Patrick Roy, software, aficionado, afficionado, architect, craftsman
 ---
 
 # [About](/about)
-About me. Software ~~architect~~, ~~craftsman~~, aficionado.
+About me. Software ~~architect~~, ~~craftsman~~, aficionado; a person who is very knowledgeable and enthusiastic about a subject.
 
 # [Articles](/articles)
 Opinions in the form of short articles about software development.
