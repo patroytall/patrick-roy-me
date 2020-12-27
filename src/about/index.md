@@ -1,6 +1,6 @@
-# About
+# About Me
 
-25 years of fun writing code. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [GitHub](https://github.com/patroytall) and [recent influences](../references/references.md).
+My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [GitHub](https://github.com/patroytall) and [recent influences](../references/references.md). I am fluent in French and English.
 
 I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
 
@@ -9,15 +9,15 @@ I am a technical leader with broad enterprise software development experience fr
 
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
+My guiding principles for software development are **simplicity** and **agile** which I summarize with the motto: there is no "what if" in agile.
+
 I strongly believe in continuous delivery because it increases average feature availability and supports agile development. Without broad automated tests there is no point trying. DevOps is a necessity: builds, delivery pipeline, infrastructure as code, production monitoring, and so much more.
 
-I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications. State management will be more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
+I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
 
-Serverless, yes.
+Serverless. Yes.
 
 This performance testing tool company published [my testimony](https://k6.io/testimonials).
-
-My native language is French. I am fluent in English.
 
 ## Lessons
 
