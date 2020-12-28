@@ -15,7 +15,7 @@ My guiding principles for software development are **simplicity** and **agile** 
 
 I strongly believe in continuous delivery because it increases average feature availability and supports agile development. Without broad automated tests there is no point trying. DevOps is a necessity: builds, delivery pipeline, infrastructure as code, production monitoring, and so much more.
 
-I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
+I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications with high availability. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
 
 Serverless. Yes.
 
@@ -89,7 +89,7 @@ If only we could live in a world where the time-quality-cost triangle does not a
 
 Creation of quality enterprise products requires adapted processes and tooling.
 
-## Trend
+## Trends
 
 Deliver fast and often so you can fix without costly investigation. Production monitoring is a new form of tests. System tracing tools are game changers. Many bugs only happen in production. At least now, we can catch them.
 
