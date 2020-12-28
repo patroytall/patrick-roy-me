@@ -7,6 +7,8 @@ I am a technical leader with broad enterprise software development experience fr
 - [QUB musique](https://musique.qub.ca); 60 million songs - https://musique.qub.ca
 - [TVA+](https://www.qub.ca/tvaplus); top 3 Canadian video service - https://www.qub.ca/tvaplus
 
+An accomplishment I am proud of in the Québecor project is the delivery of the cache and cache invalidation solution by my team which has allowed the platform to scale with minimal load on the backend services and support live updates.
+
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
 My guiding principles for software development are **simplicity** and **agile** which I summarize with the motto: there is no "what if" in agile.
@@ -66,6 +68,8 @@ Developing an application feature set is half the work. The other half is deploy
 Coordination between teams is a hard problem. It can consume more resources than the hardest technical challenges.
 
 Architecture is tied to your organization. With delivery timeliness in mind favor short term requirements and proven technologies. Share information for the team to be the architect. You will never get it right but keep trying.
+
+A good name makes a difference; it helps the mind remember, it guides people, and it prevents ambiguity.
 
 API between components deserve the utmost design attention.
 

@@ -20,6 +20,7 @@
 - [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
 - [Big Ball of Mud](http://www.laputan.org/mud/) 📝
 - [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📽️
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) 📽️
 
 ## Testing
 - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html?m=1) 📝
@@ -34,3 +35,6 @@
 
 ## Documentation
 - [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
+
+## Queue
+- [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
