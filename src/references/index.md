@@ -3,10 +3,11 @@
 ## [References - Current](./references.md)
 My most influential references which I recommend perusing.
 
+## [Videos](./videos.md)
+Candidates and viewed videos.
+
 ## [Podcasts](./podcasts.md)
-Listened and queued podcasts.
+Candidates and listened podcasts.
 
 ## [References - History](./references-history.md)
-Other references I have consulted.
-
-
+History of references I have consulted.
