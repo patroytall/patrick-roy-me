@@ -11,7 +11,7 @@ An accomplishment I am proud of in the Québecor project is the delivery of the 
 
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
 
-My guiding principles for software development are **simplicity** and **agile** which I summarize with the motto: there is no "what if" in agile.
+My guiding principles for software development are **simplicity** and **agility** which I summarize with the motto: there is no "what if" in agile.
 
 I strongly believe in continuous delivery because it increases average feature availability and supports agile development. Without broad automated tests there is no point trying. DevOps is a necessity: builds, delivery pipeline, infrastructure as code, production monitoring, and so much more.
 
