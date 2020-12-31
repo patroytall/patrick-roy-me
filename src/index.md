@@ -1,12 +1,11 @@
 ---
 home: true
 heroImage: https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg
-heroText:
-tagline: Patrick Roy
+heroText: Patrick Roy
+tagline: Pragmatic software development insights
 actionText: Articles →
 actionLink: /articles/
 footer: Software development a chaos of art, science, and engineering; pragmatic insights from my experience.
-tags: Patrick Roy, software, aficionado, afficionado, architect, craftsman
 ---
 
 # [About](/about)
