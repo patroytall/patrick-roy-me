@@ -1,50 +1,50 @@
-const { description } = require('../../package')
-const fs = require('fs');
-const path = require('path');
+const { description } = require("../../package")
+const fs = require("fs");
+const path = require("path");
 
 module.exports = {
-  title: 'Software Aficionado',
+  title: "Software Aficionado",
   description: description,
 
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+    ["link", { rel: "icon", href: "https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-32x32-1.png" }],
   ],
 
   themeConfig: {
-    repo: '',
+    repo: "",
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: "",
+    editLinkText: "",
     lastUpdated: false,
-    logo: 'https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg',
+    logo: "https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg",
     nav: [
       {
-        text: 'About',
-        link: '/about/',
+        text: "About",
+        link: "/about/",
       },
       {
-        text: 'Articles',
-        link: '/articles/'
+        text: "Articles",
+        link: "/articles/"
       },
       {
-        text: 'References',
-        link: '/references/'
+        text: "References",
+        link: "/references/"
       },
       {
-        text: 'Documents',
-        link: '/documents/'
+        text: "Documents",
+        link: "/documents/"
       },
     ],
     sidebar: {
-      '/articles/': getSideBar('articles', 'Articles'),
+      "/articles/": getSideBar("articles", "Articles"),
     }
   },
 
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    "@vuepress/plugin-medium-zoom",
   ]
 }
 

@@ -5,7 +5,7 @@ heroText: Patrick Roy
 tagline: Pragmatic software development insights
 actionText: Articles →
 actionLink: /articles/
-footer: Software development a chaos of art, science, and engineering; pragmatic insights from my experience.
+footer: Software development a chaos of art, science, and engineering
 ---
 
 # [About](/about)
