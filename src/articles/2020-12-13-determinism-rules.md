@@ -1,6 +1,10 @@
 # Determinism rules (work in progress)
 *2020*-*12*-*13*
 
+<p align="center">
+<img alt="Deterministic dices" width="250" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article/determinism-rules/dice-6times6-1.png"/>
+</p>
+
 When faced with a decision facts line up on both sides. Your gut feeling sometimes interferes by pushing you in one direction but more often than not you are stuck in the middle needing to make a choice. A day of work is a sequence of these moments. A career is an infinite repetition of this.
 
 Determinism is appeasing. Having a clear path to resolve decision points is equivalent to voiding them. The result is a gain of efficiency because making decisions takes time and is demanding.
