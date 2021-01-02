@@ -1,4 +1,4 @@
-# References - History
+# References (History)
 
 ## Channels
 - [IT Revolution](https://www.youtube.com/c/ITRevolution)
