@@ -39,7 +39,8 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/articles/": getSideBar("articles", "Articles"),
+      "/articles/": getSideBarReverse("articles", "Articles"),
+      "/references/": getSideBar("references", "References"),
     }
   },
 
@@ -48,16 +49,27 @@ module.exports = {
   ]
 }
 
-function getSideBar(folder, title) {
+function getSideBarFiles(folder) {
   const extension = [".md"];
-
-  const files = fs
+  return fs
     .readdirSync(path.join(`${__dirname}/../${folder}`))
     .filter(
       (item) =>
         item.toLowerCase() != "index.md" &&
         fs.statSync(path.join(`${__dirname}/../${folder}`, item)).isFile() &&
         extension.includes(path.extname(item))
-    );
+    )
+    .sort()
+}
+
+function getSideBarCommon(files, title) {
   return [{ title: title, children: [...files] }];
+}
+
+function getSideBar(folder, title) {
+    return getSideBarCommon(getSideBarFiles(folder), title)
+}
+
+function getSideBarReverse(folder, title) {
+  return getSideBarCommon(getSideBarFiles(folder).reverse(), title)
 }

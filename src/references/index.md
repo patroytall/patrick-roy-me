@@ -1,13 +1,13 @@
 # References
 
-## [References - Current](./references.md)
+## [References - Current](./1-references.md)
 My most influential references which I recommend perusing.
 
-## [Videos](./videos.md)
+## [Videos](./2-videos.md)
 Candidates and viewed videos.
 
-## [Podcasts](./podcasts.md)
+## [Podcasts](./3-podcasts.md)
 Candidates and listened podcasts.
 
-## [References - History](./references-history.md)
+## [References - History](./4-references-history.md)
 History of references I have consulted.
