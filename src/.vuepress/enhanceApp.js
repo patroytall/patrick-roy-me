@@ -2,9 +2,6 @@ function loadJavaScriptAsync(file, onload) {
   const script = document.createElement("script");
   script.type = "text/javascript";
   script.src = file;
-  if (onload) {
-    script.onload = onload;
-  }
   document.body.appendChild(script);
 }
 
@@ -16,9 +13,6 @@ export default ({
   isServer
 }) => {
   if (!isServer) {
-    loadJavaScriptAsync("/__/firebase/8.2.1/firebase-app.js",
-      () => loadJavaScriptAsync("/__/firebase/8.2.1/firebase-analytics.js",
-        () => loadJavaScriptAsync("/__/firebase/init.js"))
-    );
+    loadJavaScriptAsync("/__/firebase/init.js");
   }
 }
