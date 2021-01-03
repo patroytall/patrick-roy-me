@@ -13,7 +13,12 @@ export default ({
   siteData, // site metadata
   isServer
 }) => {
-  if (!isServer) {
-    loadJavaScriptAsync("/__/firebase/init.js", () => firebase.analytics());
+  if (!isServer && !window.location.href.startsWith("http://localhost")) {
+    loadJavaScriptAsync("/__/firebase/init.js", () => {
+      firebase.analytics();
+      router.afterEach(() => {
+        firebase.analytics().logEvent("page_view")
+      });
+    })
   }
 }
