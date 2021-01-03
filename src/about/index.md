@@ -31,7 +31,7 @@ Efficiency includes respect and empathy.
 
 How many failed initiatives can you afford to get to a success? Does it matter?
 
-Results is what you leave behind. The sweat and tears dry up. 
+Results is what you leave behind. The sweat and tears dry up.
 
 ## Fundamentals
 
@@ -69,13 +69,15 @@ Coordination between teams is a hard problem. It can consume more resources than
 
 Architecture is tied to your organization. With delivery timeliness in mind favor short term requirements and proven technologies. Share information for the team to be the architect. You will never get it right but keep trying.
 
+Key Performance Indicators (KPIs) are treacherous creatures. They affect the system they measure.
+
 A good name makes a difference; it helps the mind remember, it guides people, and it prevents ambiguity.
 
 API between components deserve the utmost design attention.
 
 Programming is a craftsmanship. Clean code must be readable and factorized to reduce documentation. 
 
-Design software that ages well. You would not want you maintenance costs to ruin your lucrative business.
+Design software that ages well. You would not want you maintenance costs to ruin your lucrative business. Refactor to death.
 
 Performance always matter but keep in mind "Premature optimization is the root of all evil" -- Donald Knuth
 
