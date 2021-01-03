@@ -11,6 +11,8 @@ module.exports = {
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
     ["link", { rel: "icon", href: "https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-32x32-1.png" }],
+    ["script", {src:"/__/firebase/8.2.1/firebase-app.js"}],
+    ["script", {src:"/__/firebase/8.2.1/firebase-analytics.js"}],
   ],
 
   themeConfig: {
