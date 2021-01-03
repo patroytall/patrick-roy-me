@@ -75,6 +75,8 @@ A good name makes a difference; it helps the mind remember, it guides people, an
 
 API between components deserve the utmost design attention.
 
+Feature flags are a double edge swords. Use them wisely.
+
 Programming is a craftsmanship. Clean code must be readable and factorized to reduce documentation. 
 
 Design software that ages well. You would not want you maintenance costs to ruin your lucrative business. Refactor to death.

@@ -17,6 +17,10 @@ Instead of keeping track of exceptions why not ignore them in some cases? A rule
 
 But "we" are different you say! Of course, you are different. Step back. Is your difference worth the cost of your exceptions? Because at the end of the day, "WE" run a business. Informing of the merits will go a long way in striving toward absolutes.
 
+Enforcing absolutes is a hard task. Even when well communicated, adopting a standard requires coordination and dedication. Team freedom is important because they often know better and must be listened to. The goal is to create a movement toward the objective. To get champions to propagate practices which augments the organization. In one organization I worked for, we had two primary development tools. The split was about 50/50. It took nine months to move to a single tool; one developer at a time voluntarily. The gain was substantial in the long run as only one set of configuration and plugins needed to be supported.
+
+### There is no "what if" in agile
+
 ### Code formatting convention
 
 Code formatting has triggered debates throughout computer programming history. Individuals have not relinquish their individuality for years in the name of betterness. Code formatters have evolved and become a blessing but still you can configure them to your project liking which leads to debates.
@@ -27,7 +31,11 @@ The tool has to rule. Do not let humans do special formatting here and there bec
 
 Global formatting conventions seem to be emerging. Code published on the web appears to be converging toward similar formatting. Eventually, we should be able to analyze the sum of the code published, weighted based on relevancy, to extract this wisdom.
 
-### Less is more
+### Less code is more
+
+When coding there often multiple way to express the same logic. The simplest approach is to always use the syntactically shortest expression. It might not be ideal is some cases but you will not spend a second wondering which one to use. The team will align to the convention rapidly because of its simplicity.
+
+Modern development tools will suggest transformations to your code to turn it into its shortest form. This seems an indicator that less is becoming a defacto standard. Making it an agreed standard is just a logical step.
 
 #### Ternary operator
 
