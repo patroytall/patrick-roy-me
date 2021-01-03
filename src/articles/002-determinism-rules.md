@@ -58,3 +58,12 @@ Separate your slow timing dependent tests from your fast and deterministic ones.
 The value of tests is based on numbers. Deleting a few does not have a significant impact on quality.
 
 It is often possible to mock time to implement time dependent tests. This is a great solution since it makes the tests fast and deterministic without loosing much accuracy.
+
+# Sum it up
+
+You are driving on the U.S. Route 50 across de desert in a convertible. The wind refreshes you. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going a beautiful day.
+
+<br/>
+<p align="center">
+<img alt="Deterministic dices" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article/determinism-rules/us50road-1.png"/>
+</p>
