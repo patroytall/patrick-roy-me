@@ -17,13 +17,13 @@ Instead of keeping track of exceptions why not ignore them in some cases? A rule
 
 But "we" are different you say! Of course, you are different. Step back. Is your difference worth the cost of your exceptions? Because at the end of the day, "WE" run a business. Informing of the merits will go a long way in striving toward absolutes.
 
-Absolute can be applied at multiple levels: organization, division, project, or team. The limit on freedom caused by enforcing an absolute must be carefully assessed especially at the higher levels. IBM is the company I know who enforced the most absolute standards at the organization level. This was referred as being blue or blue washed when you were acquired. Because IBM was competing in almost every market it felt it had to use its own technology for everything. This resulted in painful productivity deficiency. I say painful to underline the fact people knew work could be accomplish more effectively but could not because IBM dictated its standards. In some area, like single sign-on it paid off but in most it was a frustrating experience. My take on it is that absolutes should rise bottom up because they are believed to be the correct path. For example, by professionals sharing similar interest in guilds.
+Absolute can be applied at multiple levels: organization, division, project, or team. The limit on freedom caused by enforcing an absolute must be carefully assessed especially at the higher levels. IBM is the company I know who enforced the most absolute standards at the organization level. This was referred as being blue or blue washed when you were acquired. Because IBM was competing in almost every market it felt it had to use its own technology for everything. This resulted in painful productivity deficiency. I say painful to underline the fact people knew work could be accomplish more effectively but could not because IBM dictated its standards. In some area, like single sign-on, it paid off but in most it was a frustrating experience. My take on it is that absolutes should rise bottom up because they are believed to be the correct path. For example, by professionals sharing similar interest in guilds.
 
 Enforcing absolutes is a hard task. Even when well communicated, adopting a standard requires coordination and dedication. The goal is to create a movement toward the objective. To get champions to propagate practices which augments the organization. In a previous organization, we had two primary development tools for the same language. The split was about 50/50. Even though one of the tool was clearly superior, it took 15 months to adopt it; one developer at a time voluntarily. The gain was substantial in the long run as only one set of configuration and plugins needed to be supported.
 
 I had the chance to join a start-up at its beginning once and set many absolutes. The culmination of efficiency was demonstrated one day when a developer had to rebuild his environment starting with a newly formatted disk. Within one hour, he was able to submit a fully tested code change to the product. The standardization allowed for extensive automation and up to date documentation of the operating system, development tools and micro services of the organization.
 
-Absolute is great when there are no exceptions but even if your absolute scenario only brings the number of exceptions down it will still be a win. Once the count is reduced, it will allow you to document them to make it a semi-absolute.
+Absolute is great when there are no exceptions but even if your absolute scenario only brings the number of exceptions down it is still a win. Once the count is reduced, it will allow you to document them to make it a semi-absolute.
 
 Once a new absolute is agreed upon in an existing system, how do you introduce it? Progressively. But what about consistency? Life is a compromise. The absolute being simple you can migrate areas that are changed trivially. Over time, the knowledge gets shared and applied. The amount of time is less than you might expect since changes tend to be made in some areas much more frequently than others. This state becomes the new template. It documents your practices even though remote areas are still in an inconsistent state.
 
@@ -35,11 +35,11 @@ Take the time to resolve this topic expediently. Arm wrestle, cry, or yell but g
 
 The tool has to rule. Do not let humans do special formatting here and there because it is supposedly needed. Let the tool act and miss-align if need be. Always ensure you can reformat your whole project with a single action. Go have a beer with the people feeling hurt.
 
-Global formatting conventions seem to be emerging. Code published on the web appears to be converging toward similar formatting. Eventually, we should be able to analyze the sum of the code published, weighted based on relevancy, to extract this wisdom.
+Global formatting conventions seem to be emerging. Code published on the web appears to be converging toward similar formatting. Eventually, we should be able to analyze the sum of the code published, weighted on relevancy, to extract this wisdom.
 
 ### Less code is more
 
-When coding, there is often multiple way to express the same logic. An approach is to always use the syntactically shortest expression. It might not be ideal is some cases but you will not spend timed wondering which one to use. The team will align to the convention rapidly because of its simplicity.
+When coding, there is often multiple way to express the same logic. An approach is to always use the syntactically shortest expression. It might not be ideal is some cases but you will not spend time wondering which one to use. The team will align to the convention rapidly because of its simplicity.
 
 Modern development tools will suggest transformations to your code to convert it into its shortest form. This seems an indicator that less is becoming a defacto standard. Making it an absolute agreed standard is the next logical step.
 
@@ -58,7 +58,7 @@ I believe unit tests should be used to validate correctness not extra syntactic 
 ``` java
 if (!done || !first && countIsAcceptable(count) && o instanceof MyClass)
 ```
-A complete re-organization of the code could likely have avoided the awful condition in the first place. Thus allowing for extra brackets to make things clear can encourage poor coding practices.
+A complete re-organization of the code could likely have avoided the awful condition in the first place. Thus allowing for extra brackets to make things clearer can encourage poor coding practices.
 
 This scenario could result in a semi-absolute compromise but even then you will need to meet and agree on the exceptions.
 
@@ -95,9 +95,9 @@ What happens when you leave a warning in a project? A second one appears. Then m
 
 Bug hides in warning lists because once a few warnings become permanent nobody looks at the list anymore.
 
-Every warning should be addressed be it in the start sequence, build or deployment. Block your build or deployments if they have warnings.
+Every warning should be addressed be it in the start sequence, build or deployment. Block your builds or deployments if they have warnings.
 
-If you cannot disable a third party warning by any mean, document it in the project's README for example.
+If you cannot disable a third party warning by any means, document it in the project's README for example to ensure no one tries to silence it again.
 
 Tools being imperfect will produce warnings that are not relevant to your context; security tools for example often do. Use the broadest configuration possible to disable them. In code, you can often disable a warning locally. Do not permit this because you will have no way of tracking what justified the bypass. When disabling warnings, document why you did close to the disabling configuration. This is important because you do not want to second guess the bypasses. Configuring broadly will likely cause a few legit cases to be missed but the lack of pollution from fine grained disabling will benefit the system as a whole.
 
