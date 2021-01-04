@@ -17,8 +17,6 @@ I strongly believe in continuous delivery because it increases average feature a
 
 I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications with high availability. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
 
-Serverless. Yes.
-
 This performance testing tool company published [my testimony](https://k6.io/testimonials).
 
 ## Lessons
@@ -99,11 +97,13 @@ Deliver fast and often so you can fix without costly investigation. Production m
 
 Cloud based applications is the largest paradigm shift I have experienced. A mesh of services tied with a small amount of code to deliver massive functionality.
 
-Testing strategies in microservice environments need to be adapted. Consumer-driven contract testing is costly but will safeguard your system in the long run.
-
 AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.
 
-Automate, automate, automate.
+Configuration as code brings much needed automation and traceability but not everything is idempotent. You will need to get creative. Automate, automate, automate.
+
+Serverless. Yes.
+
+Testing strategies in microservice environments need to be adapted. Consumer-driven contract testing is costly but will safeguard your system in the long run.
 
 [Kubernetes](https://kubernetes.io/), the defacto container orchestration, is not your friend; it will cost you an arm and a leg in configuration and maintenance. Consider hosted versions or better a more managed platform if you can.
 

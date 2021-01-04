@@ -2,10 +2,10 @@
 
 ## Candidates
 - [Four Distributed Systems Architectural Patterns - Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
-- [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 
 ## Viewed
+- [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [TDD, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Empathy - Simon Sinek](https://www.youtube.com/watch?v=IJyNoJCAuzA)
 - [The Three Laws of TDD (Featuring Kotlin) - Uncle Bob](https://www.youtube.com/watch?v=qkblc5WRn-U) - coding example of TDD
