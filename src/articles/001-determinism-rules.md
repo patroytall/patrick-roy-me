@@ -11,7 +11,7 @@ Determinism is appeasing. Having a clear path to resolve decision points is equi
 
 ## Absolute for simplicity
 
-We have rules, best practices, and conventions about everything. Exceptions are the bulky annoyance. Exceptions grow from seeds of uncertainty watered by demanded perfectionism.
+We have rules, best practices, conventions, and standards about everything. Exceptions are the bulky annoyances. Exceptions grow from seeds of uncertainty watered by demanded perfectionism.
 
 Instead of keeping track of exceptions why not ignore them in some cases? A rule without exception is a best friend. It helps you when you need it without a burden. Absolute rules are simple.
 
@@ -21,7 +21,7 @@ Absolute can be applied at three levels: organization, project or team. The limi
 
 Enforcing absolutes is a hard task. Even when well communicated, adopting a standard requires coordination and dedication. The goal is to create a movement toward the objective. To get champions to propagate practices which augments the organization. In previous organization, we had two primary development tools for the same language. The split was about 50/50. Even though one of the tool was clearly superior, it took 15 months to be adopted; one developer at a time voluntarily. The gain was substantial in the long run as only one set of configuration and plugins needed to be supported.
 
-I had the chance to join a start up at its beginning once and set many absolutes. The culmination of efficiency was demonstrated one day when a developer had to rebuild his environment from a formatted disk. Within one hour, he was able to submit a fully tested code change to the product. The standardization allowed for extensive automation and up to date documentation for all the development tools and micro services of the organization.
+I had the chance to join a start-up at its beginning once and set many absolutes. The culmination of efficiency was demonstrated one day when a developer had to rebuild his environment from a newly formatted disk. Within one hour, he was able to submit a fully tested code change to the product. The standardization allowed for extensive automation and up to date documentation of all the development tools and micro services of the organization.
 
 ### Code formatting convention
 
@@ -39,9 +39,15 @@ When coding there often multiple way to express the same logic. The simplest app
 
 Modern development tools will suggest transformations to your code to turn it into its shortest form. This seems an indicator that less is becoming a defacto standard. Making it an agreed standard is just a logical step.
 
+TO-DO
+
 #### Ternary operator
 
+TO-DO
+
 ### Extreme camel case naming
+
+TO-DO
 
 ### 0 warning policy
 
@@ -49,7 +55,7 @@ What happens when you leave a warning in a project? A second one appears. Then m
 
 Bug hides in warning lists because once a few warnings become permanent nobody looks at the list anymore.
 
-Every warning should be addressed be it in the start up sequence, build or deployment. Block your build or deployments if they have warnings.
+Every warning should be addressed be it in the start sequence, build or deployment. Block your build or deployments if they have warnings.
 
 If you cannot disable a third party warning by any mean, document it in the project's README for example.
 
@@ -61,7 +67,7 @@ Intermittent test failures are a plague. A frequent cause of intermittency is ti
 
 An example of a test relying on timing, is a test writing to an eventually consistent database which reads the value later. This is just one of many pattern of timing dependencies for tests.
 
-An approach to writing timing dependent test cases is to add a time buffer. How much should the buffer be? 2x, 10x, 100x? I ran into a famous case where an operation took a few milliseconds so we added a second of buffer. A few days later, the build failed again. Over the weeks, we brought the buffer to 10 seconds. We really liked that test. Believe it or not, six months later the test failed on a build server because a thread was starved. Deleting the test was a boon. Buffers slow down your test and cost you precious delivery time.
+An approach to writing timing dependent test cases is to add a time buffer. How much should the buffer be? 2x, 10x, 100x? We ran into a case where an operation could be off by a few milliseconds so we added a second of buffer. A few days later, the build failed again. Over the weeks, we brought the buffer to 10 seconds. We really liked that test. Believe it or not, six months later the test failed on a build server because a thread was starved. Deleting the test was a boon. Buffers slow down your test and cost you precious delivery time.
 
 Separate your slow timing dependent tests from your fast and deterministic ones. False positive investigation are expensive. Non deterministic tests are like mine in a field. You always have to worry about stepping on one. The partitioning will save you costly debugging.
 
@@ -71,7 +77,7 @@ It is often possible to mock time to implement time dependent tests. This is a g
 
 # Sum it up
 
-You are driving on the U.S. Route 50 across de desert in a convertible. The wind refreshes you. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going a beautiful day.
+You are driving on the U.S. Route 50 across de desert in a convertible. The wind is refreshing. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going to be a beautiful day.
 
 <br/>
 <p align="center">
