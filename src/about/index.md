@@ -79,7 +79,7 @@ Programming is a craftsmanship. Clean code must be readable and factorized to re
 
 Design software that ages well. You would not want you maintenance costs to ruin your lucrative business. Refactor to death.
 
-Performance always matter but keep in mind "Premature optimization is the root of all evil" -- Donald Knuth
+Performance always matters but keep in mind "Premature optimization is the root of all evil" -- Donald Knuth
 
 Ensure you invest in focused automated testing at the appropriate layer.
 
