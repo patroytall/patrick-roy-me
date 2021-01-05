@@ -87,7 +87,13 @@ Although much more concise, I have found that developers tend to avoid the terna
 
 ### Extreme camel case naming
 
-Code identifiers and other names in computer systems can follow a convention for names called [camel case](https://en.wikipedia.org/wiki/Camel_case). The convention is easy to follow in most scenarios: myGreatVariableName or ClassForEverything. When acronyms are used in this convention people tend to keep them in upper case: siteURL or parseHTML. A problem occurs when the acronym come first or when there are two consecutive acronyms. 
+Code identifiers and other names in computer systems can follow a convention for names called [camel case](https://en.wikipedia.org/wiki/Camel_case). The convention is easy to follow in most scenarios: `myGreatVariableName` or `ClassForEverything`. 
+
+When acronyms are used in this convention people tend to write them in upper case: `siteURL` or `parseHTML`. A problem occurs when an acronym come firsts or when there are two consecutive acronyms. `HTMLand` looks like HTML but is really HTM followed by land. I experienced a similar case which took us three weeks to debug because our brain was fooled by the syntax. `HTMLURL` is obviously difficult and non-deterministic.
+
+Other form of ambiguity arise in compound words like filename, bus stop, or ice-axe. They can have alternate valid syntaxes with or without spaces and hyphens.
+
+Absolute solution is to camel case all words all the time: `htmlLand`, `fileName`, and `iceAxe`. The only time I have seen this absolute adopted is when I imposed it. I like it but it is clearly not a consensus.
 
 ### 0 warning policy
 
