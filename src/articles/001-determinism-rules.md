@@ -11,7 +11,7 @@ Determinism is appeasing. Having a clear path to resolve decision points is equi
 
 ## Absolute for simplicity
 
-We have rules, best practices, conventions, and standards about everything. Exceptions are the bulky annoyances. Exceptions grow from seeds of uncertainty watered by demanded perfectionism.
+We have rules, best practices, conventions, and standards about everything. Exceptions are the bulky annoyances. Exceptions grow from seeds of uncertainty watered by optimistic perfectionism.
 
 Instead of keeping track of exceptions why not ignore them in some cases? A rule without exception is a best friend. It helps you when you need it without a burden. Absolute rules are simple.
 
@@ -54,13 +54,13 @@ instead of
 if (!done || !first && myFunction(count) > 1 && o instanceof MyClass)
 ```
 
-I believe unit tests should be used to validate correctness not extra syntactic elements. Use of well named functions can also make it clearer:
+I believe unit tests should be used to validate correctness not extra syntactic elements. Use of a well named function can also make it clearer:
 ``` java
 if (!done || !first && countIsAcceptable(count) && o instanceof MyClass)
 ```
 A complete re-organization of the code could likely have avoided the awful condition in the first place. Thus allowing for extra brackets to make things clearer can encourage poor coding practices.
 
-This scenario could result in a semi-absolute compromise but even then you will need to meet and agree on the exceptions.
+If the scenario for conditions results in a semi-absolute, you will spend time to discuss, agree on the exceptions, and document them.
 
 #### Ternary operator example
 
@@ -80,7 +80,7 @@ static String color(int position) {
 Code with ternary operator
 ``` java
 static String color(int position) {
-    return a > 1 ? "red" : "green";
+    return position > 1 ? "red" : "green";
 }
 ```
 Although much more concise, I have found that developers tend to avoid the ternary operator. In this case, the vertical scrolling gain is significant: 5 lines to 1. As well as the single point of exit. It can take many months of code reviews for it to become a habit.
