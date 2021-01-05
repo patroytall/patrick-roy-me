@@ -17,7 +17,7 @@ Instead of keeping track of exceptions why not ignore them in some cases? A rule
 
 But "we" are different you say! Of course, you are different. Step back. Is your difference worth the cost of your exceptions? Because at the end of the day, "WE" run a business. Informing of the merits will go a long way in striving toward absolutes.
 
-Absolute can be applied at multiple levels: organization, division, project, or team. The limit on freedom caused by enforcing an absolute must be carefully assessed especially at the higher levels. IBM is the company I know who enforced the most absolute standards at the organization level. This was referred as being blue or blue washed when you were acquired. Because IBM was competing in almost every market it felt it had to use its own technology for everything. This resulted in painful productivity deficiency. I say painful to underline the fact people knew work could be accomplish more effectively but could not because IBM dictated its standards. In some area, like single sign-on, it paid off but in most it was a frustrating experience. My take on it is that absolutes should rise bottom up because they are believed to be the correct path. For example, by professionals sharing similar interest in guilds.
+Absolute can be applied at multiple levels: organization, division, project, or team. The limit on freedom caused by enforcing an absolute must be carefully assessed especially at the higher levels. IBM is the company I know who enforced the most absolute standards at the organization level. This was referred as being blue or blue washed when you were acquired. Because IBM was competing in almost every market it felt it had to use its own technology for everything. This resulted in painful productivity deficiencies. I say painful to underline the fact people knew work could be accomplish more effectively but could not because IBM dictated its standards. In some area, like single sign-on, it paid off but in most it was a frustrating experience. My take on it is that absolutes should rise bottom up because they are believed to be the correct path. For example, by professionals sharing similar interest in guilds.
 
 Enforcing absolutes is a hard task. Even when well communicated, adopting a standard requires coordination and dedication. The goal is to create a movement toward the objective. To get champions to propagate practices which augments the organization. In a previous organization, we had two primary development tools for the same language. The split was about 50/50. Even though one of the tool was clearly superior, it took 15 months to adopt it; one developer at a time voluntarily. The gain was substantial in the long run as only one set of configuration and plugins needed to be supported.
 
@@ -87,7 +87,7 @@ Although much more concise, I have found that developers tend to avoid the terna
 
 ### Extreme camel case naming
 
-TO-DO
+Code identifiers and other names in computer systems can follow a convention for names called [camel case](https://en.wikipedia.org/wiki/Camel_case). The convention is easy to follow in most scenarios: myGreatVariableName or ClassForEverything. When acronyms are used in this convention people tend to keep them in upper case: siteURL or parseHTML. A problem occurs when the acronym come first or when there are two consecutive acronyms. 
 
 ### 0 warning policy
 
@@ -115,7 +115,7 @@ The value of tests is based on numbers. Deleting a few does not have a significa
 
 It is often possible to mock time to implement time dependent tests. This is a great solution since it makes the tests fast and deterministic without loosing much accuracy.
 
-# Sum it up
+## Sum it up
 
 You are driving on the U.S. Route 50 across de desert in a convertible. The wind is refreshing. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going to be a beautiful day.
 
