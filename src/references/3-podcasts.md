@@ -7,6 +7,7 @@ Workouts and podcasts are perfect together.
 - [Orchestrating Microservices with Workflow Management - Bernd Rücker](https://open.spotify.com/episode/3hvYLpd2dv0Rxjnv9uh1IN) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
 - [Microservices - James Lewis](https://open.spotify.com/episode/4R15KAgioibOi0y6xXTOCt?si=93ebWNIcQ3apVVi-Rbxfcg) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
 - [Gitops - Alexis Richardson](https://open.spotify.com/episode/3ZqOusMOAR2Y8oowSYzC5A?si=bM7AR3SuTlOpyuNOUcUgFQ) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
+- [New Edition of Refactoring, Along With Thoughts on Evolutionary Architecture - Martin Fowler](https://soundcloud.com/infoq-channel/martin-fowler-discusses-new-edition-of-refactoring-along-with-thoughts-on-evolutionary-architecture)
 
 ## Listened
 
