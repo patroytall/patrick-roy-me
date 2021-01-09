@@ -1,6 +1,10 @@
 # Keep your fingers out of production (work in progress)
 
-TODO: header image
+<br/>
+<p align="center">
+<img alt="Deterministic dices" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article//keep-your-fingers-out-of-production/butterfly-effect-1.jpg"/>
+</p>
+<br/>
 
 It is 2 a.m. . The team is performing a nightly maintenance following the predefined [standard operating procedure](https://en.wikipedia.org/wiki/Standard_operating_procedure). The configuration file is updated as planed. The maintenance is over. Everyone goes back to bed.
 
@@ -52,6 +56,11 @@ Because administrative functionality in applications goes through the normal dev
 
 A more subtle way to bypass production state control is through normal feature's input. Special input can be sent manually to applications to perform administrative changes. Security becomes an issue. A common scheme is to tie these administrative functionality to predefined accounts. Im many cases though, the only security will be by obscurity; that is not making anyone aware that it is is available. 
 
-TODO: conclusion image
+## Conclusion
 
+Changes are needed but but they should follow a path of quietness without side effects. 
 
+<br/>
+<p align="center">
+<img alt="Deterministic dices" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article//keep-your-fingers-out-of-production/stable-lake-1.jpg"/>
+</p>
