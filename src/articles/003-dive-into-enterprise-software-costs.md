@@ -8,31 +8,48 @@
 
 This article extends on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
 
-The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have the highest impact on project velocity.
+The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have had high impact on project velocity.
 
-## Management illusion
+## Client illusion
 
-TO-DO
+When an application is demoed to a client its new features can enthrall him. He will start to think of everything else he wants the application to do then discuss it with product leadership. To the question "could we do this", he will inevitably get the answer "yes". Each "yes" answer is relatively true but the sum of the answers is most certainly false. The resulting perception from the client is thus an illusion.
+
+Features are not stacked side by side. They are integrated together in a complex maelstrom of entangled logic. New features often impact previous features in unexpected ways.
+
+The agile development approach primary emphasis is to only deliver what is being requested to increase speed to market. Thus what the client see is only and only what the application can do. Developers will pull ingenious engineering to deliver a narrow feature. Broadening such a feature can require a complete redesign. The client assumes that because a feature is present extending around it should be easy. This puts him deeper into the illusion.
 
 ## Performance is a hard problem
 
-The non-functional requirement for performance, and its sibling scalability, are the internal quality factors which have the most impact on a project. If your system needs to improve its performance or scale to a larger audience, it will have a broad and profound effect on your architecture.
+The non-functional requirement for performance, and its sibling scalability, are the internal quality factors which have the most impact on a project. If your system needs to improve its performance, scale to a larger audience or handle more data, it will have a broad and profound effect on the architecture.
 
 You can throw more hardware at the problem for a while but eventually you will reach the point where data flows have to be modified, where architecture elements have to be added, replaced, or updated, where you need new testing, or where you need to put in place new processes.
 
-The development team will tell management that the system can scale but this is likely a half truth. Every component in the system has a limit. As in security, performance is limited by the weakest link.
+The development team might tell management that the system can scale but this is likely a half truth. Every component in the system has a limit. As in security, performance is limited by the weakest link. Identifying the weakest link is difficult.
 
 You will test for performance but that will not prevent you from being surprised when the actual load occurs in production.
 
-People with experience building a similar system can help mitigated the performance headaches. In my experience though, there are always enough differences from system to system that the topic remains a major concern. The best practices you will have followed along the way will keep the issue a problem instead of a catastrophe if you had had no experience at all.
+People with experience building a similar system can help mitigated the performance headaches. In my experience though, there are always enough differences from system to system that the topic remains a major concern. The best practices you will have followed along the way will keep the issues a hard problem instead of a catastrophe if you had had no experience at all.
+
+Building an architecture focused on performance preemptively is generally a sure way to miss time to market dead lines. You will incur large costs early in the product life which on average will not be recuperated since many products change significantly in their early stage or never see the light of day.
+
+## Work coordination is non-linear
+
+Here is a trivial example of the non-linearity of work coordination in a growing system. When designing a new feature which involves N components you will consult with the component owners to ensure the design is sound. When things get complicated, you will try to gather everyone at the same time to resolve the issues. You will look at everyone's agenda and find a time slot. Your meeting will occur a few days later. Someone will not show up to the meeting but you will proceed anyway. A decision will be made. The person not present will eventually hear about the outcome and come up with an argument that invalidates the decision.
+
+The previous example was only in the scope of the development team. An organization has many professions intertwined to deliver products. The combinatorial explosion of collaborations required to deliver features has a major impact on the cost of software.
+
+## Backward compatibility deceleration
+
+Backward compatibility is to ensure that everything added to the system preserves existing behavior for the feature set to be unaffected. In a system without downtime, this multiplies the cost of delivering a given feature. There is no limit to the multiplier factor. I have seen changes ten times more costly because of backward compatibility.
+
+Cost of features before backward compatibility is a requirement versus after cannot be compared. Once it is a requirement, the multiplier factor will go up slightly over time in function of system coupling but not in a drastic manner.
 
 ## Architecture refactoring
 
-As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the divergence will justify an architectural refactoring to bring them back inline. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple source of truth. This situation can be detected when single logical changes have to be applied in multiple locations in the system.
+As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the duplication and divergence will justify an architectural refactoring to bring them back inline. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple sources of truth. This situation can be detected when single logical changes have to be applied in multiple locations in the system.
 
 TODO
 
-## Coordination is not linear
 
 ### Product owners
 
@@ -42,8 +59,17 @@ TO-DO
 
 TO-DO
 
-## Skills inadequacy
+## Workforce and skills inadequacy
 
 To-DO
 
 ## Testing times increase
+
+## Conclusion
+
+The client dreams of a system that does everything. Unless his pockets are infinitely deep, cruel prioritization of the feature set is the only way to success.
+
+<br/>
+<p align="center">
+<img alt="Deterministic dices" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article//dive-into-enterprise-software-costs/pyramid-1.png"/>
+</p>
