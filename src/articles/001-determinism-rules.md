@@ -1,5 +1,5 @@
-# Determinism rules (work in progress)
-*2020*-*12*-*13*
+# Determinism rules
+*2021*-*01*-*01*
 
 <p align="center">
 <img alt="Deterministic dices" width="250" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/article/determinism-rules/dice-6times6-1.png"/>
@@ -39,7 +39,7 @@ Global formatting conventions seem to be emerging. Code published on the web app
 
 ### Less code is more
 
-When coding, there is often multiple way to express the same logic. An approach is to always use the syntactically shortest expression. It might not be ideal is some cases but you will not spend time wondering which one to use. The team will align to the convention rapidly because of its simplicity.
+When coding, there is often multiple way to express the same logic. An approach is to always use the expressions with the least syntactic elements. It might not be ideal is some cases but you will not spend time wondering which one to use. The team will align to the convention rapidly because of its simplicity.
 
 Modern development tools will suggest transformations to your code to convert it into its shortest form. This seems an indicator that less is becoming a defacto standard. Making it an absolute agreed standard is the next logical step.
 

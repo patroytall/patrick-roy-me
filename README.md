@@ -45,6 +45,12 @@ Forward: patrickroy.me -> softwareaficionado.com
 
 Forward: softwareafficionado.com -> softwareaficionado.com
 
+## Configure Google search
+
+Ensure the sitemap file is used by Google:
+
+    https://search.google.com/search-console
+
 # Development
 
     yarn build && firebase serve
