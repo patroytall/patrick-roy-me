@@ -1,6 +1,5 @@
 ---
 Description: This article builds on Martin Fowler article "Is High Quality Software Worth the Cost?". It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
-
 ---
 
 # Dive into enterprise software costs (WIP)
@@ -13,7 +12,7 @@ Description: This article builds on Martin Fowler article "Is High Quality Softw
 
 This article builds on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
 
-The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have had high impact on project velocity.
+The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have had the highest impact on project velocity.
 
 ## Client illusion
 
@@ -21,7 +20,9 @@ When an application is demoed to a client its new features can enthrall him. He 
 
 Features are not stacked side by side. They are integrated together in a complex maelstrom of entangled logic. New features often impact previous features in unexpected ways.
 
-The agile development approach primary emphasis is to only deliver what is being requested to increase speed to market. Thus what the client see is only and only what the application can do. Developers will pull ingenious engineering to deliver a narrow feature. Broadening such a feature can require a complete redesign. The client assumes that because a feature is present extending around it should be easy. This puts him deeper into the illusion.
+The agile development approach primary emphasis is to only deliver what is being requested to increase speed to market. Thus what the client see is only and only what the application can do. Developers will pull ingenious engineering feats to deliver a narrow feature. Broadening such a feature can require a complete redesign. The client assumes that because a feature is present extending around it should be easy. This puts him deeper into the illusion.
+
+The client state of illusion affects his cost perception. By keeping his expectations high, the illusion causes the actual delivered software to appear punny in comparison to what he perceives should have been delivered.
 
 ## Performance is a hard problem
 
