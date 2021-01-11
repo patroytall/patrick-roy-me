@@ -1,3 +1,7 @@
+---
+description: We have rules, best practices, conventions, and standards about everything. Exceptions are the bulky annoyances. Instead of keeping track of them why not ignore them in some cases?
+---
+
 # Determinism rules
 *2021*-*01*-*01*
 

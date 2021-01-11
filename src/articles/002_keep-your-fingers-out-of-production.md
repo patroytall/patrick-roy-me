@@ -1,3 +1,7 @@
+---
+description: Dos and don’ts to preserve production stability through network changes, data migration, configuration updates, version upgrades, etc. Strategies oriented toward predictability, traceability, and correctness.
+---
+
 # Keep your fingers out of production
 *2021*-*01*-*09*
 
@@ -17,7 +21,7 @@ This is one of many stories I have lived where being human in a production syste
 
 The objective is stability; for the production system to deliver its features without interruption. Many inevitable non-standard activities need to occur in production: network changes, data migration, configuration updates, performance tests, version upgrades, etc. How we preserve stability through those is the challenge.
 
-Stability is expensive. It takes time and effort to achieve. It must be proportional to the impact of loosing it. In other words, invest slightly less in stability than the cost of having down time. As an organization builds its customer base and gains in maturity stability will justify itself naturally.
+Stability is expensive. It takes time and effort to achieve. It must be proportional to the impact of loosing it. In other words, invest slightly less in stability than the cost of having down time. As an organization builds its customer base and gains in maturity stability will justifies itself naturally.
 
 ## Cowboy changes
 
@@ -45,19 +49,19 @@ An other benefit of automating production state manipulations is that they are e
 
 Keep the number of people with administrative write permissions to your production system to a minimum. In the case of a mysterious behavior, it will be easier to investigate who could have made the change. Ensure credentials are revoked on termination.
 
-For emergency production issue debugging, temporary credentials can be created. 
+For emergency production issue debugging, temporary credentials can be handed over. 
 
 ## Bypass through administrative functionality
 
 Production systems are intended to be changed by their applications. We need to differentiate user feature driven changes from administrative functionality. A way to bypass production state change control is to implement administrative functionality in the applications. The administrative functionality is not available to the system's users but can be invoked without elevated permissions to the data state; for example through a VPN access. This is a common compromise to give developers control of their applications in production.
 
-Because administrative functionality in applications goes through the normal development life cycle, it has the warm fuzzy feeling of being safe. It does have a higher probability of being correct but will generally still lack proper predictability and traceability. For example, administrative functionality can be implemented through private REST end points which are only exposed to developers. The lack of predictability occurs when they are invoked manually. You cannot control when this occurs and how often. The fact it can be invoked in parallel by many people can also cause unexpected behavior.
+Because administrative functionality in applications goes through the normal development life cycle, it has the warm fuzzy feeling of being safe. It does have a higher probability of being correct but will generally still lack proper predictability and traceability. For example, administrative functionality can be implemented through private REST end points which are only available to developers. The lack of predictability occurs when it is invoked manually. You cannot control when this occurs and how often. The fact it can be invoked in parallel by many people can also cause unexpected behavior.
 
 ## Bypass through special feature input
 
-A more subtle way to bypass production state control is through normal feature's special input. It can be sent manually to applications to trigger administrative changes. For example, an end point might accept an optional hidden parameter which triggers the delete of history data. Security becomes an issue. A common scheme to limit access is to tie these administrative functionality to predefined accounts. Im many cases though, the only security will be by obscurity; that is not making anyone aware that it is is available.
+A more subtle way to bypass production state control is through normal feature's special input. It can be sent manually to applications to trigger administrative changes. For example, an end point might accept an optional hidden parameter which triggers the delete of history data. Security becomes an issue. A common scheme to limit access is to tie these administrative functionality to predefined accounts. In many cases though, the only security will be by obscurity; that is not making anyone aware that it is is available.
 
-Special input bypassed being hidden tend to get forgotten and stay in products. They suffer from the same predictability and traceability drawbacks as the administrative functionality bypasses.
+Special input bypasses being hidden tend to get forgotten and stay in products. They suffer from the same predictability and traceability drawbacks as the administrative functionality bypasses.
 
 ## Summary
 

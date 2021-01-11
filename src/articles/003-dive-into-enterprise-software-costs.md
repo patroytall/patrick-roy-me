@@ -1,3 +1,8 @@
+---
+Description: This article builds on Martin Fowler article "Is High Quality Software Worth the Cost?". It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
+
+---
+
 # Dive into enterprise software costs (WIP)
 
 <br/>
@@ -6,7 +11,7 @@
 </p>
 <br/>
 
-This article extends on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
+This article builds on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
 
 The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have had high impact on project velocity.
 
