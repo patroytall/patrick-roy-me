@@ -50,6 +50,8 @@ Backward compatibility is to ensure that everything added to the system preserve
 
 Cost of features before backward compatibility is a requirement versus after cannot be compared. Once it is a requirement, the multiplier factor will go up slightly over time in function of system coupling but not in a drastic manner.
 
+External third-party backward compatibility is the most constraining because you need to preserve APIs for extended periods of time. The code complexity associated to supporting long lasting APIs will cause important costs.  
+
 ## Architecture refactoring
 
 As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the duplication and divergence will justify an architectural refactoring to bring them back inline. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple sources of truth. This situation can be detected when single logical changes have to be applied in multiple locations in the system.
