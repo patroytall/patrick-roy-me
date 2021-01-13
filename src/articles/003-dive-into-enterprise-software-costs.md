@@ -54,22 +54,29 @@ Cost of features before backward compatibility is a requirement versus after can
 
 As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the duplication and divergence will justify an architectural refactoring to bring them back inline. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple sources of truth. This situation can be detected when single logical changes have to be applied in multiple locations in the system.
 
-TODO
-
+TODO - review above paragraph and add more 
 
 ### Product owners
 
-TO-DO
+The long term vision of product owners determines the success of the products. It is intangible and sometimes difficult to explain but you can feel it in their day to day decisions. Numerous road-map documents will be produced to concretize this vision. They are needed to reassure the people paying for the software. In an agile environnement though, change is so rapid that it is the vision of the product owners that guides the teams.
+
+Aligning a large amount of visions is impossible; it would take a ridiculous amount of time. Growing projects thus have to account for constant deviations toward loosely defined goals. Once implemented, paid for, it becomes possible to realign for the next stretch. Unnecessary functionality will be left dormant or removed if an organization is courageous. I remember a case of an unused functionality in a product. I raised it as a candidate for removal. I got a strong no response; it was paid for and could be useful in the future. I then started to record the additional complexity, cost, caused by the presence of this functionality. Over six months time, I demonstrated that 10% of my team efforts had been to support the unused functionality which finally permitted its removal.
 
 ## No one knows it all
 
-TO-DO
+In the early phases of a project, key individuals have broad knowledge of the system. They can steer the decision processes for most topics. As more and more components are added to the system, the decision processes needs to be democratized into committees. Analysis and debates and required for these committees to make decisions.
+
+As a project grows even more, it gets difficult to identify the people with the knowledge to make a decision about a topic. You need people who have the knowledge about who should be contacted for a given topic.
 
 ## Workforce and skills inadequacy
 
-To-DO
+The people who are good at starting projects are not necessarily the people that are adequate to bring you to the next phases. Creativity and innovation rapidly have to be supported with new skills: versioned APIs, system debugging, horizontal scaling, database optimization, etc. When the customer base grows, attention to details to prevent bugs becomes a must. Some will step up and grow with the system needs. Others will feel overwhelmed by the scope increase and hide in a bubble by oversimplifying the issues. They will hurt your growth by dragging down your key people.
+
+The most difficult part about the workforce is to complement the organic team growth with external elements; to introduce people who will drive growth solutions. Hiring these people is challenging because you have to trust their expertize without much verification. Uncertainty will be high because no one will have a clear idea of where these new solutions lead. The constant is that they will be expensive. Many will be throw away because what worked somewhere is by no mean guarantied to work somewhere else.
 
 ## Testing times increase
+
+The test suites grow to match the component sizes. They take longer to run. The objective is to protect against regression issues. Your development and deployment processes or hindered by the slowing testing.
 
 ## Conclusion
 
