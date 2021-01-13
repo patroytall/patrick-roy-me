@@ -50,7 +50,7 @@ Backward compatibility is to ensure that everything added to the system preserve
 
 Cost of features before backward compatibility is a requirement versus after cannot be compared. Once it is a requirement, the multiplier factor will go up slightly over time in function of system coupling but not in a drastic manner.
 
-External third-party backward compatibility is the most constraining because you need to preserve APIs for extended periods of time. The code complexity associated to supporting long lasting APIs will cause important costs.  
+External third-party backward compatibility is the most constraining because you need to preserve APIs for extended periods of time. The code complexity associated to supporting long lasting APIs will cause important costs.
 
 ## Architecture refactoring
 
