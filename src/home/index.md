@@ -1,4 +1,14 @@
-# Cooking
+---
+search: false
+sitemap:
+  exclude: true
+---
+
+# Home
+
+## [Television Series](./television-series.md)
+
+## Cooking
 
 [Chana Masala - La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/recipe/chana-masala/)
 
