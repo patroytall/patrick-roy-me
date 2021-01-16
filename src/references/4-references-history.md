@@ -1,5 +1,8 @@
 # References (History)
 
+## Leaders
+- [Mike Cohn](https://www.mountaingoatsoftware.com/blog) ✍
+
 ## Channels
 - [IT Revolution](https://www.youtube.com/c/ITRevolution)
 
@@ -27,8 +30,6 @@
 - [The Elements of Style](https://www.crockford.com/style.html)
 
 ## Books
-- Clean Code by Robert Cecil Martin (Uncle Bob)
-- Release It! Second Edition by Michael T. Nygard
 - Implementation Patterns by Kent Beck
 - Code Complete Second Edition by Steve McConnell
 - xUnit Test Patterns Refactoring Test Code by Gerard Meszaros
@@ -36,3 +37,4 @@
 - Refactoring: Improving the Design of Existing Code by Don Roberts, William Opdyke, Kent Beck, Martin Fowler, John Brant 
 - Working Effectively with Legacy Code by Michael Feathers
 - Building Microservices by Sam Newman
+- Getting to Yes - Negotiating Agreement Without Giving In by Roger Fisher, William L. Ury and Bruce Patton

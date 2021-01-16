@@ -1,4 +1,4 @@
-# References (Current)
+# References
 
 ## News
 - [Hacker News](https://news.ycombinator.com/) 🏠
@@ -9,9 +9,10 @@
   - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
   - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📽️ and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📽️
 
-- [Martin Fowler](https://martinfowler.com/tags/index.html) 📽️ 📝
-
-- [Mike Cohn](https://www.mountaingoatsoftware.com/blog) ✍
+- [Martin Fowler (ThoughtWorks)](https://martinfowler.com/tags/index.html) 🏠
+  - [Microservices](https://martinfowler.com/articles/microservices.html) 📝
+  - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) 📝
+  - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html) 📝
 
 - Gergely Orosz - [Pragmatic engineer](https://blog.pragmaticengineer.com/book/) ✍
   - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ✍
@@ -42,3 +43,8 @@
 
 ## Documentation
 - [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
+
+## Books
+- Clean Code by Robert Cecil Martin (Uncle Bob)
+- Release It! Second Edition by Michael T. Nygard
+- Building Microservices: Designing Fine-Grained Systems by Sam Newman
