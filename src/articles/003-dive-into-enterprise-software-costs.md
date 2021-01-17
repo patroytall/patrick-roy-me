@@ -10,9 +10,9 @@ Description: This article builds on Martin Fowler article "Is High Quality Softw
 </p>
 <br/>
 
-This article builds on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
+This article builds on Martin Fowler excellent article [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html). It explores scenarios I have experienced where software costs for equivalent features increased with project growth.
 
-The fact that system complexity taxes feature development more and more over time is taken as a given. I will dive into specific areas which have had the highest impact on project velocity.
+The fact that a growing system complexity taxes feature development more and more over time is taken as a given. I will dive into areas which had the highest impact on project velocity.
 
 ## Client illusion
 

@@ -6,5 +6,5 @@
 ## [Keep your fingers out of production](./002_keep-your-fingers-out-of-production/)
 *2021*-*01*-*09*
 
-## [Determinism rules](./001-determinism-rules/)
+## [Determinism rules](./001-determinism-rules2/)
 *2021*-*01*-*01*
