@@ -1,6 +1,6 @@
 # Code Quality
 
-Famous and funny illustration of code quality: [WTF per minute](https://www.osnews.com/story/19266/WTFs_m) .
+Famous and funny illustration of code quality: [WTFs per minute](https://www.osnews.com/story/19266/WTFs_m) .
 
 ## Code is read by other people
 Why is code quality needed? As said in Kent Beck Implementations Patterns book:
