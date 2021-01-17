@@ -1,6 +1,6 @@
 # References
 
-## [References - Current](./1-references.md)
+## [References](./1-references.md)
 My most influential references which I recommend perusing.
 
 ## [Videos](./2-videos.md)

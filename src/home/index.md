@@ -8,6 +8,8 @@ sitemap:
 
 ## [Television Series](./television-series.md)
 
+## [Restaurants](./restaurants.md)
+
 ## Cooking
 
 [Chana Masala - La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/recipe/chana-masala/)
