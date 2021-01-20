@@ -30,11 +30,13 @@
 - [The Elements of Style](https://www.crockford.com/style.html)
 
 ## Books
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
 - Implementation Patterns by Kent Beck
-- Code Complete Second Edition by Steve McConnell
 - xUnit Test Patterns Refactoring Test Code by Gerard Meszaros
 - Effective Unit Testing: A guide for Java Developers by Lasse Koskela
 - Refactoring: Improving the Design of Existing Code by Don Roberts, William Opdyke, Kent Beck, Martin Fowler, John Brant 
 - Working Effectively with Legacy Code by Michael Feathers
 - Building Microservices by Sam Newman
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert Martin
+- Code Complete Second Edition by Steve McConnell
 - Getting to Yes - Negotiating Agreement Without Giving In by Roger Fisher, William L. Ury and Bruce Patton
