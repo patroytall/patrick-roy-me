@@ -54,9 +54,11 @@ External third-party backward compatibility is the most constraining because you
 
 ## Architecture refactoring
 
-As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the duplication and divergence will justify an architectural refactoring to bring them back inline. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple sources of truth. This situation can be detected when single logical changes have to be applied in multiple locations in the system.
+As the number of components increases in a system duplication will start to occur. You can also witness deviations from agreed global standards. These can go one for a while but there is a point where the costs of the duplication and divergence will justify an architectural refactoring to rectify the situation. A common symptom is system bugs where the lack of alignment makes feature development difficult because of the confusion from the multiple sources of truth. This situation can be detected when single logical changes have to be made in multiple locations.
 
-TODO - review above paragraph and add more 
+When sharing of common logic is required you might share the code through a library or introduce a dedicated service for example. Regardless of the approach, the cost will be important. Ensuring the shared logic is fully compatible with its consumers requires skilled resources.
+
+The greatest effort arises when state needs to be unified. Extracting state from multiple locations and exposing it through a new common interface is so difficult you will wish you had been reassigned to a green field project. A derivative scenario of the state unification is the migration of legacy applications state to a new architecture. This happens when a system grows and replaces old systems. 
 
 ### Product owners
 
