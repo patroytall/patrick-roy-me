@@ -55,13 +55,17 @@ For emergency production issue debugging, temporary credentials can be handed ov
 
 Production systems are intended to be changed by their applications. We need to differentiate user feature driven changes from administrative functionality. A way to bypass production state change control is to implement administrative functionality in the applications. The administrative functionality is not available to the system's users but can be invoked without elevated permissions to the data state; for example through a VPN access. This is a common compromise to give developers control of their applications in production.
 
-Because administrative functionality in applications goes through the normal development life cycle, it has the warm fuzzy feeling of being safe. It does have a higher probability of being correct but will generally still lack proper predictability and traceability. For example, administrative functionality can be implemented through private REST end points which are only available to developers. The lack of predictability occurs when it is invoked manually. You cannot control when this occurs and how often. The fact it can be invoked in parallel by many people can also cause unexpected behavior.
+Because administrative functionality in applications goes through the normal development life cycle, it has the warm fuzzy feeling of being safe. It does have a higher probability of being correct but will generally still lack proper predictability and traceability. For example, administrative functionality can be implemented through private REST end points which are only available to developers. The lack of predictability occurs when it is invoked manually. You cannot control when this occurs and how often. The data used in the operation is not validated. The fact it can be invoked in parallel by many people can also cause unexpected behavior.
 
 ## Bypass through special feature input
 
 A more subtle way to bypass production state control is through normal feature's special input. It can be sent manually to applications to trigger administrative changes. For example, an end point might accept an optional hidden parameter which triggers the delete of history data. Security becomes an issue. A common scheme to limit access is to tie these administrative functionality to predefined accounts. In many cases though, the only security will be by obscurity; that is not making anyone aware that it is is available.
 
 Special input bypasses being hidden tend to get forgotten and stay in products. They suffer from the same predictability and traceability drawbacks as the administrative functionality bypasses.
+
+## Communication
+
+When manuel bypasses are used to modify a production environment, the change actions must be recorded and communicated. People investigating production issues must be able to know what was done, by whom, and for what purpose. Automated operations must have the same traceability.
 
 ## Summary
 

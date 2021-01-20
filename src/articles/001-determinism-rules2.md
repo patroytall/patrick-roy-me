@@ -117,7 +117,7 @@ Intermittent test failures are a plague. A frequent cause of intermittency is ti
 
 An example of a test relying on timing, is a test writing to an eventually consistent database which reads the value later. This is just one of many pattern of timing dependencies for tests.
 
-An approach to writing timing dependent test cases is to add a time buffer. How much should the buffer be? 2x, 10x, 100x? We ran into a case where an operation could be off by a few milliseconds so we added a second of buffer. A few days later, the build failed again. Over the weeks, we brought the buffer to 10 seconds. We really liked that test. Believe it or not, six months later the test failed on a build server because a thread was starved. Deleting the test was a boon. Buffers slow down your test and cost you precious delivery time.
+An approach to writing timing dependent test cases is to add a time buffer. How much should the buffer be? 2x, 10x, 100x? We ran into a case where an operation could be off by a few milliseconds so we added a second of buffer. A few days later, the build failed again. Over the weeks, we brought the buffer to 10 seconds. We really liked that test. Believe it or not, six months later the test failed on a build server because a thread was starved. Deleting the test was a boon. Buffers slow down your tests and cost you precious delivery time.
 
 Separate your slow timing dependent tests from your fast and deterministic ones. False positive investigation are expensive. Non deterministic tests are like mine in a field. You always have to worry about stepping on one. The partitioning will save you costly debugging.
 
@@ -127,7 +127,7 @@ It is often possible to mock time to implement time dependent tests. This is a g
 
 ## Sum it up
 
-You are driving on the U.S. Route 50 across de desert in a convertible. The wind is refreshing. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going to be a beautiful day.
+You are driving on the U.S. Route 50 across thus desert in a convertible. The wind is refreshing. The road is straight without crossroads. You are cruising way above the speed limit. The sun rising on the left tells you it is going to be a beautiful day.
 
 <br/>
 <p align="center">
