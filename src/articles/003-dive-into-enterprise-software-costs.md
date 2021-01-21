@@ -2,7 +2,7 @@
 Description: This article builds on Martin Fowler article "Is High Quality Software Worth the Cost?". It gives details about scenarios I have experienced where software costs for equivalent features increases with project growth.
 ---
 
-# Dive into enterprise software costs (WIP)
+# Dive into enterprise software costs
 
 <br/>
 <p align="center">
