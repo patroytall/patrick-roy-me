@@ -4,6 +4,8 @@ Workouts and podcasts are perfect together.
 
 ## Candidates
 
+- [An Event-Driven Apps Look Ahead for 2021 - Cloud Cast](https://www.thecloudcast.net/2021/01/an-event-driven-apps-look-ahead-for-2021.html)
+- [A Cloud-First Look Ahead for 2021 - Cloud Cast](https://www.thecloudcast.net/2021/01/a-cloud-first-look-ahead-for-2021.html)
 - [Gitops - Alexis Richardson](https://www.se-radio.net/2020/12/episode-440-alexis-richardson-on-gitops/)
 
 ## Listened
