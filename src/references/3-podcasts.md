@@ -3,12 +3,16 @@
 Workouts and podcasts are perfect together.
 
 ## Candidates
-- [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
-- [An Event-Driven Apps Look Ahead for 2021 - The Cloudcast](https://www.thecloudcast.net/2021/01/an-event-driven-apps-look-ahead-for-2021.html)
-- [Gitops - Alexis Richardson](https://www.se-radio.net/2020/12/episode-440-alexis-richardson-on-gitops/)
+- [Advanced Software Design - Jimmy Koppel](https://corecursive.com/036-jimmy-koppel-advanced-software-design/)
+- [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
+- [Growing as a software engineer - Gergely Orosz](https://changelog.com/podcast/422)
+- [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
 
 ## Listened
 
+- [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
+- [An Event-Driven Apps Look Ahead for 2021 - The Cloudcast](https://www.thecloudcast.net/2021/01/an-event-driven-apps-look-ahead-for-2021.html)
+- [Gitops - Alexis Richardson](https://www.se-radio.net/2020/12/episode-440-alexis-richardson-on-gitops/)
 - [A Cloud-First Look Ahead for 2021 - The Cloudcast](https://www.thecloudcast.net/2021/01/a-cloud-first-look-ahead-for-2021.html)
 - [Seriously Good Software - Marco Faella](https://www.se-radio.net/2020/10/episode-430-marco-faella-on-seriously-good-software/)
 - [Political Tech Landscape, MoveOn’s Architecture, and Scaling Challenges - Ann Lewis Discusses](https://soundcloud.com/infoq-channel/ann-lewis-discusses-the-political-tech-landscape-moveons-architecture-and-scaling-challenges)
