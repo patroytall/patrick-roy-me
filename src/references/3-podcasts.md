@@ -3,13 +3,13 @@
 Workouts and podcasts are perfect together.
 
 ## Candidates
-- [Advanced Software Design - Jimmy Koppel](https://corecursive.com/036-jimmy-koppel-advanced-software-design/)
-- [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
-- [Growing as a software engineer - Gergely Orosz](https://changelog.com/podcast/422)
 - [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
+- [Spotify's open platform for shipping at scale](https://changelog.com/podcast/415)
+- [The 10x developer myth](https://changelog.com/podcast/388)
 
 ## Listened
 
+- [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
 - [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
 - [An Event-Driven Apps Look Ahead for 2021 - The Cloudcast](https://www.thecloudcast.net/2021/01/an-event-driven-apps-look-ahead-for-2021.html)
 - [Gitops - Alexis Richardson](https://www.se-radio.net/2020/12/episode-440-alexis-richardson-on-gitops/)
