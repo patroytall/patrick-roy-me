@@ -2,13 +2,16 @@
 
 Workouts and podcasts are perfect together.
 
-## Candidates
+## Listening queue
+
 - [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
 - [Spotify's open platform for shipping at scale](https://changelog.com/podcast/415)
+- [Microservices - Cynical Developer](https://cynicaldeveloper.com/podcast/146/)
+- [Svelte - Cynical Developer](https://cynicaldeveloper.com/podcast/151/)
+
+## Worth listening
+
 - [The 10x developer myth](https://changelog.com/podcast/388)
-
-## Listened
-
 - [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
 - [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
 - [An Event-Driven Apps Look Ahead for 2021 - The Cloudcast](https://www.thecloudcast.net/2021/01/an-event-driven-apps-look-ahead-for-2021.html)
@@ -27,7 +30,7 @@ Workouts and podcasts are perfect together.
 
 ## Podcast sources
 
-- [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/)
+- a[Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/)
 - [Software Engineering Radio](https://www.se-radio.net/)
 - [CoRecursive](https://corecursive.com/)
 - [The Cloudcast](https://www.thecloudcast.net)
