@@ -4,13 +4,14 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
 - [Spotify's open platform for shipping at scale](https://changelog.com/podcast/415)
-- [Microservices - Cynical Developer](https://cynicaldeveloper.com/podcast/146/)
-- [Svelte - Cynical Developer](https://cynicaldeveloper.com/podcast/151/)
+- [Modern Development for Mordern Developers - Cynical Developer](https://cynicaldeveloper.com/podcast/139/)
 
 ## Worth listening
 
+- [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
+- [Microservices - Cynical Developer](https://cynicaldeveloper.com/podcast/146/)
+- [Svelte - Cynical Developer](https://cynicaldeveloper.com/podcast/151/)
 - [The 10x developer myth](https://changelog.com/podcast/388)
 - [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
 - [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
