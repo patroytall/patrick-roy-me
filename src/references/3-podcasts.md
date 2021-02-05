@@ -5,13 +5,16 @@ Workouts and podcasts are perfect together.
 ## Listening queue
 
 - [Spotify's open platform for shipping at scale](https://changelog.com/podcast/415)
-- [Modern Development for Mordern Developers - Cynical Developer](https://cynicaldeveloper.com/podcast/139/)
+- [Why Projects Fail - Mickey Mantle & Ron Lichty](https://cynicaldeveloper.com/podcast/131/)
+- [Agile back to basics - Robert C. Martin](https://cynicaldeveloper.com/podcast/125/)
+- [20yrs of Pragmatic Programmers - Andy Hunt & Dave Thomas](https://cynicaldeveloper.com/podcast/123/) 
 
 ## Worth listening
 
+- [Modern Development for Modern Developers - Todd Gardner](https://cynicaldeveloper.com/podcast/139/)
 - [GraphQL - Artur Ortega](https://www.case-podcast.org/36-artur-ortega-on-graphql)
-- [Microservices - Cynical Developer](https://cynicaldeveloper.com/podcast/146/)
-- [Svelte - Cynical Developer](https://cynicaldeveloper.com/podcast/151/)
+- [Microservices - Christian Horsdal](https://cynicaldeveloper.com/podcast/146/)
+- [Svelte - Mark Volkmann](https://cynicaldeveloper.com/podcast/151/)
 - [The 10x developer myth](https://changelog.com/podcast/388)
 - [What the web could be (in 2021 and beyond)](https://changelog.com/podcast/426)
 - [Reviewing AWS re:Invent 2020 - The Cloudcast](https://www.thecloudcast.net/2020/12/reviewing-aws-reinvent-2020.html)
@@ -31,7 +34,7 @@ Workouts and podcasts are perfect together.
 
 ## Podcast sources
 
-- a[Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/)
 - [Software Engineering Radio](https://www.se-radio.net/)
 - [CoRecursive](https://corecursive.com/)
 - [The Cloudcast](https://www.thecloudcast.net)
