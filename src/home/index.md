@@ -14,4 +14,8 @@ sitemap:
 
 [Chana Masala - La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/recipe/chana-masala/)
 
-[Chna Masala - Becel](https://www.becel.ca/fr-ca/recipe/chana-masala-204621)
+[Chana Masala - Becel](https://www.becel.ca/fr-ca/recipe/chana-masala-204621)
+
+[Gâteau aux pommes - Savourer](https://savourer.ca/recette/gateau-pommes/)
+
+[« Tajine » de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
