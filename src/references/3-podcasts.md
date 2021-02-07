@@ -5,9 +5,8 @@ Workouts and podcasts are perfect together.
 ## Listening queue
 
 - [Spotify's open platform for shipping at scale](https://changelog.com/podcast/415)
-- [Why Projects Fail - Mickey Mantle & Ron Lichty](https://cynicaldeveloper.com/podcast/131/)
-- [Agile back to basics - Robert C. Martin](https://cynicaldeveloper.com/podcast/125/)
-- [20yrs of Pragmatic Programmers - Andy Hunt & Dave Thomas](https://cynicaldeveloper.com/podcast/123/) 
+- [Why large projects fail and what to do about it - Christin Gorman](https://www.case-podcast.org/37-christin-gorman-on-why-large-projects-fail-and-what-to-do-about-it)
+- [Language Engineering - Markus Völter](https://www.case-podcast.org/35-markus-volter-on-language-engineering)
 
 ## Worth listening
 
@@ -41,4 +40,3 @@ Workouts and podcasts are perfect together.
 - [The Changelog](https://changelog.com/podcast)
 - [CaSE: Conversations about Software Engineering](https://www.case-podcast.org/)
 - [The Cynical Developer](https://cynicaldeveloper.com/podcast/)
-- [Junior Developer Toolbox](https://www.podchaser.com/podcasts/junior-developer-toolbox-570569)
