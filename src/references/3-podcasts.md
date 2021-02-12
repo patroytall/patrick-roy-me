@@ -4,11 +4,11 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Cultivating Architecture Principles - Birgitta Böckeler](https://www.case-podcast.org/34-birgitta-bockeler-on-cultivating-architecture-principles)
-- [Service Meshes and API Gateways for Application Modernization - Daniel Bryant] (https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
+- [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
 
 ## Worth listening
 
+- [Cultivating Architecture Principles - Birgitta Böckeler](https://www.case-podcast.org/34-birgitta-bockeler-on-cultivating-architecture-principles)
 - [Language Engineering - Markus Völter](https://www.case-podcast.org/35-markus-volter-on-language-engineering)
 - [Spotify's open platform for shipping at scale - Jim Haughwout & Stefan Ålund](https://changelog.com/podcast/415)
 - [Modern Development for Modern Developers - Todd Gardner](https://cynicaldeveloper.com/podcast/139/)
