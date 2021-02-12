@@ -1,7 +1,11 @@
 # References (History)
 
 ## Leaders
-- [Mike Cohn](https://www.mountaingoatsoftware.com/blog) ✍
+- [Mike Cohn](https://www.mountaingoatsoftware.com/blog)
+
+- Gergely Orosz - [Pragmatic engineer](https://blog.pragmaticengineer.com/book/)
+  - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+  - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/)
 
 ## Channels
 - [IT Revolution](https://www.youtube.com/c/ITRevolution)

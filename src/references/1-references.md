@@ -14,10 +14,7 @@
   - [Microservices](https://martinfowler.com/articles/microservices.html) 📝
   - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) 📝
   - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html) 📝
-
-- Gergely Orosz - [Pragmatic engineer](https://blog.pragmaticengineer.com/book/) ✍
-  - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ✍
-  - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ✍
+  - [New Edition of Refactoring, Along With Thoughts on Evolutionary Architecture - Martin Fowler](https://soundcloud.com/infoq-channel/martin-fowler-discusses-new-edition-of-refactoring-along-with-thoughts-on-evolutionary-architecture) 🔊
 
 ## Wonders
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) 📽️
