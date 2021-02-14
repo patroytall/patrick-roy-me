@@ -20,6 +20,9 @@ References to people who influenced me. Links to content I recommend.
 # [Documents](/documents)
 Documents about software development organized in a hierarchy.
 
+# [Personal](/home)
+Personal and family content.
+
 **Disclaimer**
 
 Eloquence is not a given. My prose is rough and direct; likely incorrect at times. Nuances are skipped for efficiency reasons.
