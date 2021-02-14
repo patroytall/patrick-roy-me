@@ -44,7 +44,8 @@ module.exports = {
       "/articles/": getSideBarReverse("articles", "Articles"),
       "/home/": getSideBar("home", "Home"),
       "/references/": getSideBar("references", "References"),
-      "/documents/": getSideBar("documents", "Documents"),
+      "/documents/technology/": getSideBar("documents/technology", "Technology"),
+      "/documents/various/": getSideBar("documents/various", "Various"),
     }
   },
 

@@ -5,6 +5,7 @@ Workouts and podcasts are perfect together.
 ## Listening queue
 
 - [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
+- [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
 
 ## Worth listening
 

@@ -24,7 +24,6 @@ Daredevil               | 7 | 2/3 | Netflix | Atmos
 Dark                    | ? | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me              | 7 | 0/2 | Netflix
 Doctor Who              | 7 | 2/8 | Netflix
-Friends from College    | 7 | 2/2 | Netflix
 Good Girls              | 7 | 2/4 | Netflix
 Good Place (The)        | 6 | 3/4 | Netflix
 Good Wife (The)         | 7 | 4/7 
@@ -41,7 +40,6 @@ Life in Pieces          | 7 | 2/3 | Netflix
 Lucifer                 | 7 | 5/5 | Netflix | Atmos
 Luke Cage               | 6 | 2/2 | Netflix
 Mad Men                 | 7 | 6/7 | Netflix
-Modern Family           | 7 | 11/12 | Netflix
 Narcos                  | 8 | 1/3 | Netflix
 OA (The)                | 6 | 1/2 | Netflix
 Orange Is the New Black | 7 | 1/7 | Netflix
@@ -53,7 +51,7 @@ Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
 Sherlock                | 9 | 1/2 | Netflix
-Star Trek               | 7 | 1/3 | Netflix
+Star Trek               | 7 | 2/3 | Netflix
 Stranger Things         | 8 | 1/4 | Netflix
 Witcher (The)           | 8 | 1/2 | Netflix
 
@@ -61,9 +59,7 @@ French television series I am watching or for which I am waiting for new episode
 
 | Name         | Rating | Seasons | Availability | Comments |
 |--------------|--------|---------|--------------|----------|
-Dix pour cent  | 9 | 3/3 | Netflix | Find as "Call My Agent!" 
 Faits divers   | 8 | 3/3 | Tou.tv 
-Lâcher prise   | 8 | 3/4 | Tou.tv 
 
 ## Finished
 
@@ -74,7 +70,9 @@ English television series I have finished watching and which are completed in al
 Breaking Bad                   | 9 | 5
 Downton Abbey                  | 8 | 6
 Friends                        | 8 | 10
+Friends from College           | 7 | 2
 Lost                           | 5 | 6
+Modern Family                  | 6 | 12
 Queen's Gambit (The)           | 10 | 1
 Ritches (The)                  | 7 | 2
 Six Feet Under                 | 8 | 5
@@ -89,7 +87,9 @@ French television series I have finished watching and which are completed in alp
 
 | Name          | Rating | Seasons
 | --------------|--------|--------
+Dix pour cent   | 9 | 3/3 | Netflix | Find as "Call My Agent!" 
 Hubert et Fanny | 7 | 1
+Lâcher prise    | 8 | 4 
 Trop            | 7 | 3
 
 ## Dropped
@@ -101,10 +101,10 @@ English television series I have watched but do not plan to finish in alphabetic
 Arrested Development | 7 | 3/5 | Too crazy
 Bones                | 7 | 2/12 | Repetitive.
 Colony               | 8 | 1/3 | Boring plot.
-Dexter               | 7 | 4/8 | Non sense plot.
+Dexter               | 7 | 4/8 | Nonsense plot.
 House of Cards       | 9 | 4/5 | Heartless plot
 Once Upon a Time     | 6 | 3/6 | Far fetch plot
-Riverdale            | 7 | 1/2 | Non sense plot and dark mood
+Riverdale            | 7 | 1/2 | Nonsense plot and dark mood
 
 French television series I have watched but do not plan to finish in alphabetical order:
 
