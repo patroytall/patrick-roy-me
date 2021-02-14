@@ -1,10 +1,17 @@
 # Videos
 
 ## Candidates
-- [Four Distributed Systems Architectural Patterns - Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
-- [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 
-## Viewed
+- [Four Distributed Systems Architectural Patterns - Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
+- [Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
+- [10 Tips for failing badly at Microservices - David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+- [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
+- [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
+- [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+
+## Worth viewing
+
+- [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [TDD, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Empathy - Simon Sinek](https://www.youtube.com/watch?v=IJyNoJCAuzA)
