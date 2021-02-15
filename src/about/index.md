@@ -23,6 +23,8 @@ This performance testing tool company published [my testimony](https://k6.io/tes
 
 Things change. No point trying to predict in which direction.
 
+We can only solve problems if we believe it possible; be optimistic. People hear what leaders say.
+
 Risk is here to stay. Decide and live with the consequences.
 
 Efficiency includes respect and empathy.
@@ -33,7 +35,7 @@ Results is what you leave behind. The sweat and tears dry up.
 
 ## Fundamentals
 
-Respect - We disagree. If not, we would not have jobs. 
+Respect - We disagree. If not, we would not have jobs.
 
 Honesty - The truth hurts sometimes but it leaves you free to focus on the essential.
 
