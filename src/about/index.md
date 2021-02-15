@@ -2,7 +2,7 @@
 
 My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [GitHub](https://github.com/patroytall) and [recent influences](../references/1-references.md). I am fluent in French and English.
 
-I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as an enterprise backend architect. Recent applications deployed to market:
+I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as a senior architect. Recent applications deployed to market:
 
 - [QUB musique](https://musique.qub.ca); 60 million songs - https://musique.qub.ca
 - [TVA+](https://www.qub.ca/tvaplus); top 3 Canadian video service - https://www.qub.ca/tvaplus
