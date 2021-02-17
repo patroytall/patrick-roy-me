@@ -9,6 +9,10 @@
 - [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 - [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
+### Candidate - Channel YouTube
+
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+
 ## Worth viewing
 
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
