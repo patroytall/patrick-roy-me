@@ -24,12 +24,12 @@
 ## Articles
 - [Logging v. instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 - [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
-- [Guide: Writing Testable Code
-](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
+- [Guide: Writing Testable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 - [Microservices and Front-End](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 - [10 Powerful Strategies To Break Down Product Backlog Items in Scrum (with cheatsheet)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 
 ## Documentation
+- [How they SRE](https://github.com/upgundecha/howtheysre)
 - [Scrum Guides](https://www.scrumguides.org/index.html)
 - [The Elements of Style](https://www.crockford.com/style.html)
 
