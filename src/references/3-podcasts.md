@@ -4,11 +4,12 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
+- [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
 - [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
-- [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
 
 ## Worth listening
 
+- [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
 - [Cultivating Architecture Principles - Birgitta Böckeler](https://www.case-podcast.org/34-birgitta-bockeler-on-cultivating-architecture-principles)
 - [Language Engineering - Markus Völter](https://www.case-podcast.org/35-markus-volter-on-language-engineering)
 - [Spotify's open platform for shipping at scale - Jim Haughwout & Stefan Ålund](https://changelog.com/podcast/415)
@@ -41,3 +42,4 @@ Workouts and podcasts are perfect together.
 - [The Changelog](https://changelog.com/podcast)
 - [CaSE: Conversations about Software Engineering](https://www.case-podcast.org/)
 - [The Cynical Developer](https://cynicaldeveloper.com/podcast/)
+- [Full Stack Radio](https://fullstackradio.com/)
