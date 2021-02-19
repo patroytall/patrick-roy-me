@@ -87,6 +87,8 @@ Ensure you invest in focused automated testing at the appropriate layer.
 
 Code reviews; the best teaching tool.
 
+Documentation must be alive; often generated, focused, and close to its consumption and change triggers.
+
 There is no "what if" in agile. Satisfy the requirements with the least amount of work.
 
 If only we could live in a world where the time-quality-cost triangle does not apply.  
