@@ -20,9 +20,10 @@
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) 📽️
 
 ## Architecture
-- [Microservice Patterns - Chris Richardson](https://open.spotify.com/episode/5YKkCC9iNi3idHxqVeBXS0?si=z-2jIT7qTx6UR--twdLJCA) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
+- [The Seven Deadly Sins of Microservices - Daniel Bryant](https://www.infoq.com/presentations/7-sins-microservices/) 📽️
+- [Microservice Patterns - Chris Richardson](https://www.se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/) 🔊
 - [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
-- [Facebook Engineering Process - Kent Beck](https://open.spotify.com/episode/2ke2D0fIRnmuBFf9BcmWOl) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
+- [Facebook Engineering Process - Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/) 🔊
 - [Big Ball of Mud](http://www.laputan.org/mud/) 📝
 - [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📽️
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) 📽️
@@ -40,9 +41,10 @@
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) 📽️
 
 ## Documentation
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) and [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html) 📝
 - [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
 
 ## Books
-- Clean Code by Robert Cecil Martin (Uncle Bob)
 - Release It! Second Edition by Michael T. Nygard
+- Clean Code by Robert Cecil Martin (Uncle Bob)
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman

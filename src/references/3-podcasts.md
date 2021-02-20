@@ -4,14 +4,14 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
-- [Microservices and Domain Driven Design - Daniel Bryant](https://www.infoq.com/podcasts/daniel-bryant/)
 - [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics - Uncle Bob Martin](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/)
 - [Developing a Domain Driven Design First Actor-Based Microservices Framework - Vaughn Vernon](https://www.infoq.com/podcasts/ddd-microservices-framework/)
 - [Architecting for Scale - Bernd Rücker](https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs/)
 
 ## Worth listening
 
+- [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
+- [Microservices and Domain Driven Design - Daniel Bryant](https://www.infoq.com/podcasts/daniel-bryant/)
 - [Domain-Driven Microservices Design - Chris Richardson](https://www.infoq.com/podcasts/chris-richardson/)
 - [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
 - [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
