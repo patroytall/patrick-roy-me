@@ -8,7 +8,6 @@
 - [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 - [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 - [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
-- [The Seven Deadly Sins of Microservices](https://www.infoq.com/presentations/7-sins-microservices/)
 
 ### Candidate - Channel YouTube
 
