@@ -6,12 +6,9 @@ Workouts and podcasts are perfect together.
 
 - [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics - Uncle Bob Martin](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/)
 - [Developing a Domain Driven Design First Actor-Based Microservices Framework - Vaughn Vernon](https://www.infoq.com/podcasts/ddd-microservices-framework/)
-- [Architecting for Scale - Bernd Rücker](https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs/)
 
 ## Worth listening
 
-- [Service Meshes and API Gateways for Application Modernization - Daniel Bryant](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
-- [Microservices and Domain Driven Design - Daniel Bryant](https://www.infoq.com/podcasts/daniel-bryant/)
 - [Domain-Driven Microservices Design - Chris Richardson](https://www.infoq.com/podcasts/chris-richardson/)
 - [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
 - [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
@@ -30,13 +27,17 @@ Workouts and podcasts are perfect together.
 - [A Cloud-First Look Ahead for 2021 - Jeremy Burton](https://www.thecloudcast.net/2021/01/a-cloud-first-look-ahead-for-2021.html)
 - [Seriously Good Software - Marco Faella](https://www.se-radio.net/2020/10/episode-430-marco-faella-on-seriously-good-software/)
 - [Political Tech Landscape, MoveOn’s Architecture, and Scaling Challenges - Ann Lewis](https://soundcloud.com/infoq-channel/ann-lewis-discusses-the-political-tech-landscape-moveons-architecture-and-scaling-challenges)
-- [Agile Growth - Mike Cohn](https://developeronfire.com/podcast/episode-270-mike-cohn-agile-growth)
 - [Microservices - James Lewis](https://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices/)
-- [Orchestrating Microservices with Workflow Management - Bernd Rücker](https://www.se-radio.net/2019/01/episode-351-bernd-rucker-on-orchestrating-microservices-with-workflow-management/)
 - [Architecture and Micro Services - Stefan Tilkov](https://www.se-radio.net/2014/09/episode-210-stefan-tilkov-on-architecture-and-micro-services/)
-- [Modern Front End: React, GraphQL, VR, WebAssembly - Adam Conrad](https://open.spotify.com/episode/1GhGDgVfC8xxG7M3JlbmI6) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
-- [Complacency - Tyler Cowen](https://open.spotify.com/episode/0WTQWfrOXQfVovDC79IeW8) <img src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/vendor/spotify-icon-rgb-green.png" width="12" height="12"/>
+- [Modern Front End: React, GraphQL, VR, WebAssembly - Adam Conrad](https://www.softwaredaily.com/post/5fe287caf58ce4000c74d619/modern-front-end-react-graphql-vr-webassembly-with-adam-conrad-repeat)
+- [Complacency - Tyler Cowen](https://softwareengineeringdaily.com/2017/04/07/complacency-with-tyler-cowen/)
 - [Technical Debt - Sven Johann and Eberhard Wolff](http://www.se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/)
+- Daniel Bryant
+  - [Service Meshes and API Gateways for Application Modernization](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
+  - [Microservices and Domain Driven Design](https://www.infoq.com/podcasts/daniel-bryant/)
+- Bernd Rücker
+  - [Architecting for Scale](https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs/)
+  - [Orchestrating Microservices with Workflow Management](https://www.se-radio.net/2019/01/episode-351-bernd-rucker-on-orchestrating-microservices-with-workflow-management/)
 
 ## Podcast sources
 
