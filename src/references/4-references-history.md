@@ -2,6 +2,7 @@
 
 ## Leaders
 - [Mike Cohn](https://www.mountaingoatsoftware.com/blog)
+  - [Agile Growth](https://developeronfire.com/podcast/episode-270-mike-cohn-agile-growth)
 
 - Gergely Orosz - [Pragmatic engineer](https://blog.pragmaticengineer.com/book/)
   - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
