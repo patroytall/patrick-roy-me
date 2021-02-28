@@ -35,6 +35,7 @@
 - [The Elements of Style](https://www.crockford.com/style.html)
 
 ## Books
+- [Google SRE Books](https://sre.google/books/)
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
 - Implementation Patterns by Kent Beck
 - xUnit Test Patterns Refactoring Test Code by Gerard Meszaros

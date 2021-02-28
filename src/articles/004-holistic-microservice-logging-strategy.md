@@ -38,7 +38,7 @@ Logs can be used to trigger different level of alerts. Properties in the log mod
 
 ## Shared logic
 
-Because many different microservices will be logging, it often a good idea to share the logging logic. For example, using a code library. The library makes it easy to enforce the log model and log conventions.
+Because many different microservices will be logging, it is often a good idea to share the logging logic. For example, using a code library. The library makes it easy to enforce the log model and log conventions.
 
 If alert log triggers are used, the shared logic will facilitate the usage of the alerting logic. For example, method or parameters can be used to defined which kind of alerts can be triggered.
 
@@ -70,6 +70,9 @@ Software components can produce many logs for a single logical events. In a sing
 
 Developers need to change how they build log entries. Single logical events should produce a single log entry. A common case is an error log. The log entry for the error should be the aggregation of all the messages produced by the different areas of code. For example, in Java this can be achieved by enriching an exception as it is re-thrown and log it once at the top.
 
+## Security filter
+
+White or black list ...
 
 ## Pay off
 
