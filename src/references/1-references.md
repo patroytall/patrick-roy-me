@@ -48,3 +48,9 @@
 - Release It! Second Edition by Michael T. Nygard
 - Clean Code by Robert Cecil Martin (Uncle Bob)
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
+
+## Investigating
+
+- Domain-Driven Design: Tackling Complexity in the Heart of Software – Eric Evans and [Presentation](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/roads.pdf) 📝
+- [Bad tests - Good tests](http://kaczanowscy.pl/books/bad_tests_good_tests.html)
+- Coding: On Software Design Process – Jonathan Locke
