@@ -4,8 +4,7 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics - Uncle Bob Martin](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/)
-- [Developing a Domain Driven Design First Actor-Based Microservices Framework - Vaughn Vernon](https://www.infoq.com/podcasts/ddd-microservices-framework/)
+- [Immutable Architecture- Michael Perry](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 
 ## Worth listening
 
