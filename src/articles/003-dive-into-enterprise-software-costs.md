@@ -80,7 +80,7 @@ The most difficult part about the workforce is to complement the organic team gr
 
 ## Testing times increase
 
-The test suites grow to match the component sizes. They take longer to run. The objective is to protect against regression issues. Your development and deployment processes or hindered by the slowing testing.
+The test suites grow to match the component sizes. They take longer to run. The objective is to protect against regression issues. Your development and deployment processes are hindered by the slowing testing.
 
 ## Conclusion
 
