@@ -4,10 +4,11 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Immutable Architecture- Michael Perry](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
+[Bringing Systems into Production and Keeping them there - Eoin Woods](https://www.case-podcast.org/38-eoin-woods-on-bringing-systems-into-production-and-keeping-them-there)
 
 ## Worth listening
 
+- [Immutable Architecture- Michael Perry](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [Domain-Driven Microservices Design - Chris Richardson](https://www.infoq.com/podcasts/chris-richardson/)
 - [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
 - [gRPC - Doug Fawley](https://www.se-radio.net/2020/08/episode-421-doug-fawley-on-grpc/)
