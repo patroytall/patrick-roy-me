@@ -33,7 +33,8 @@
 - [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) 📝
 - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html?m=1) 📝
 
-## Continuous Integration
+## DevOps
+- [The Future of DevOps: 15 Trends for 2021](https://medium.com/faun/the-future-of-devops-15-trends-for-2021-b3b8c59444ff)
 - [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell) 🏠
 
 ## Principles
