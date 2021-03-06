@@ -29,6 +29,7 @@
 - [Guide: Writing Testable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 - [Microservices and Front-End](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 - [10 Powerful Strategies To Break Down Product Backlog Items in Scrum (with cheatsheet)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
+- [Modern-Day Architecture Design Patterns for Software Professionals](https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)
