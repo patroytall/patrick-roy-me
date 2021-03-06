@@ -23,6 +23,7 @@
 - [Kent Beck](https://www.kentbeck.com/)
 
 ## Articles
+- [Strategy of splitting a Monolith into Microservices](https://medium.com/picsart-engineering/strategy-of-splitting-monolith-to-microservices-f5d6b959b457)
 - [Logging v. instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 - [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
 - [Guide: Writing Testable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
