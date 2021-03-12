@@ -4,8 +4,8 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-[Bringing Systems into Production and Keeping them there - Eoin Woods](https://www.case-podcast.org/38-eoin-woods-on-bringing-systems-into-production-and-keeping-them-there)
-[The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
+- [Bringing Systems into Production and Keeping them there - Eoin Woods](https://www.case-podcast.org/38-eoin-woods-on-bringing-systems-into-production-and-keeping-them-there)
+- [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
 
 ## Worth listening
 
