@@ -14,6 +14,10 @@
 ## Blogs
 - [8th Light authors](https://8thlight.com/blog/)
 
+## Coding and interview
+- [HackerRank](https://www.hackerrank.com/)
+- [CoderPad](https://coderpad.io/)
+
 ## Sites
 - [Microservices IO](https://microservices.io/)
 - [GeeksforGeeks - Java](http://www.geeksforgeeks.org/java/)
@@ -23,6 +27,7 @@
 - [Kent Beck](https://www.kentbeck.com/)
 
 ## Articles
+- [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
 - [Strategy of splitting a Monolith into Microservices](https://medium.com/picsart-engineering/strategy-of-splitting-monolith-to-microservices-f5d6b959b457)
 - [Logging v. instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 - [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
@@ -30,6 +35,7 @@
 - [Microservices and Front-End](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 - [10 Powerful Strategies To Break Down Product Backlog Items in Scrum (with cheatsheet)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+- [Distributed nature of Microservices and things we should be wary of!](https://chatrakesh.medium.com/distributed-nature-of-microservices-and-things-we-should-be-wary-of-d8ea66567fba)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)

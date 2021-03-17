@@ -1,9 +1,5 @@
 # References
 
-## News
-- [Hacker News](https://news.ycombinator.com/) 🏠
-- [Slashdot](https://slashdot.org/) 🏠
-
 ## Leaders
 - Robert C. Martin (Uncle Bob)
   - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
@@ -29,6 +25,23 @@
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) 📽️
 - [What I Wish I Had Known Before Scaling Uber to 1000 Services - Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY) 📽️
 
+## Principles
+- [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
+- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) 📽️
+
+## Agile
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) and [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html) 📝
+- [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
+- [Why Story Pointing Needs to Die](https://medium.com/swlh/why-story-pointing-needs-to-die-e60a775f9d37) 📝
+
+## News
+- [Hacker News](https://news.ycombinator.com/) 🏠
+- [Slashdot](https://slashdot.org/) 🏠
+- [Ars Technica](https://arstechnica.com/) 🏠
+
+## Coding
+- [LeetCode](https://leetcode.com/problemset/all/)
+
 ## Testing
 - [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) 📝
 - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html?m=1) 📝
@@ -37,21 +50,12 @@
 - [The Future of DevOps: 15 Trends for 2021](https://medium.com/faun/the-future-of-devops-15-trends-for-2021-b3b8c59444ff)
 - [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell) 🏠
 
-## Principles
-- [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
-- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) 📽️
-
-## Documentation
-- [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) and [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html) 📝
-- [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
-
 ## Books
 - Release It! Second Edition by Michael T. Nygard
 - Clean Code by Robert Cecil Martin (Uncle Bob)
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 
-## Investigating
-
+### Books - Investigating
 - Domain-Driven Design: Tackling Complexity in the Heart of Software – Eric Evans and [Presentation](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/roads.pdf) 📝
 - [Bad tests - Good tests](http://kaczanowscy.pl/books/bad_tests_good_tests.html)
 - Coding: On Software Design Process – Jonathan Locke
