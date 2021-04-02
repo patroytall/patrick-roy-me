@@ -36,6 +36,7 @@
 - [10 Powerful Strategies To Break Down Product Backlog Items in Scrum (with cheatsheet)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Distributed nature of Microservices and things we should be wary of!](https://chatrakesh.medium.com/distributed-nature-of-microservices-and-things-we-should-be-wary-of-d8ea66567fba)
+- [A Crash Course in CQRS Patterns](https://jc1175.medium.com/a-crash-course-in-cqrs-patterns-a8511f2a9b27)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)

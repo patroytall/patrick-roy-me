@@ -24,6 +24,8 @@
 - [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0) 📽️
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) 📽️
 - [What I Wish I Had Known Before Scaling Uber to 1000 Services - Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY) 📽️
+- [Implementing a workflow for your Architecture Decisions Records](https://asiermarques.medium.com/implementing-a-workflow-for-your-architecture-decisions-records-ab5b55ee2a9d) 📝
+- [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) 🗄️
 
 ## Principles
 - [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
