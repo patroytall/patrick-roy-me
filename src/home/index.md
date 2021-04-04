@@ -6,9 +6,12 @@ sitemap:
 
 # Home
 
-## [Games](./games.md)
+## [Games](./games)
+
+## [Restaurants](./restaurants.md)
 
 ## [Television Series](./television-series.md)
+
 
 ## Cooking
 

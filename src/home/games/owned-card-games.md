@@ -1,4 +1,4 @@
-# Card games
+# Owned Card games
 
 Card games I own in alphabetical order:
 
