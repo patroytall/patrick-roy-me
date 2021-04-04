@@ -1,6 +1,6 @@
 # Owned Card games
 
-Card games I own in alphabetical order:
+Games based primarily on cards I own in alphabetical order:
 
 ## [6 nimmt!](https://boardgamegeek.com/boardgame/432/6-nimmt)
 <p>
