@@ -1,6 +1,6 @@
 # Software Aficionado
 
-This is the repository for the web site [softwareaficionado.com](https://softwareaficionado.me) which is also reachable using [patrickroy.me](https://patrickroy.me). It is a VuePress site deployed in the Google Firebase environment.
+This is the repository for the web site [softwareaficionado.com](https://softwareaficionado.com) which is also reachable using [patrickroy.me](https://patrickroy.me). It is a VuePress site deployed in the Google Firebase environment.
 
 # Project setup
 
