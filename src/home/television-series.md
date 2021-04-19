@@ -41,11 +41,12 @@ Lucifer                 | 7 | 5/5 | Netflix | Atmos
 Luke Cage               | 6 | 2/2 | Netflix
 Mad Men                 | 7 | 6/7 | Netflix
 Narcos                  | 8 | 1/3 | Netflix
+New Amsterdam           | 8 | 1/5 | Netflix
 OA (The)                | 6 | 1/2 | Netflix
 Orange Is the New Black | 7 | 1/7 | Netflix
 Ozark                   | 7 | 3/4 | Netflix
 Peaky Blinders          | ? | 1/5 | Netflix
-Rake                    | 8  | 2/5 | Netflix
+Rake                    | 8 | 2/5 | Netflix
 Santa Clarita Diet      | 6 | 0/2 | Netflix
 Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
@@ -57,9 +58,10 @@ Witcher (The)           | 8 | 1/2 | Netflix
 
 French television series I am watching or for which I am waiting for new episodes in alphabetical order:
 
-| Name         | Rating | Seasons | Availability | Comments |
-|--------------|--------|---------|--------------|----------|
-Faits divers   | 8 | 3/3 | Tou.tv 
+| Name             | Rating | Seasons | Availability | Comments |
+|------------------|--------|---------|--------------|----------|
+Faits divers       | 8 | 3/3 | TOU.TV
+Les beaux malaises | 8 | 2/2 | TVA
 
 ## Finished
 
@@ -85,11 +87,12 @@ West Wing (The)                | 8 | 7
 
 French television series I have finished watching and which are completed in alphabetical order:
 
-| Name          | Rating | Seasons
-| --------------|--------|--------
-Dix pour cent   | 9 | 3/3 | Netflix | Find as "Call My Agent!" 
+| Name          | Rating | Seasons | Comment |
+| --------------|--------|---------|---------|
+Dix pour cent   | 9 | 3 | Find as "Call My Agent!"
 Hubert et Fanny | 7 | 1
-Lâcher prise    | 8 | 4 
+Lâcher prise    | 8 | 4
+Mon ex à moi    | 8 | 2
 Trop            | 7 | 3
 
 ## Dropped
