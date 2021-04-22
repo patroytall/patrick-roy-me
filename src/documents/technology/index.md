@@ -1,3 +1,3 @@
 # Technology
 
-Use menu to select document.
+Use the menu to select document.
