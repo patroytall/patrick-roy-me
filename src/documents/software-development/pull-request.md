@@ -10,7 +10,7 @@ A PR should generally not last more than a few days. Most PRs should be merged w
 
 When a PR is created with reviewers, it starts the first review round. Reviewers will make comments on lines, files, or global to the PR. Once the author of the PR believes that no more comments are likely to be added, he should answer all comments by either (exclusive):
 
-- Making a code change addressing the comment. Most PR tool will mark the comment as `needing action`. There is generally no need to justify a code change with an additional comment. Making the code change speaks. Assume the review understands your context and justifications. If he does not understand, he can easily ask a question.
+- Making a code change addressing the comment. Most PR tool will mark the comment as `addressed` automatically by the code change. There is generally no need to justify a code change with an additional comment. Making the code change speaks. Assume the reviewer understands your context and justifications. If he does not understand, he can easily ask a question.
 - Reply to the reviewer. Replies must be made directly on the original comment; generally by clicking on a button of the comment. Only reply when you do not make a code change to answer a comment.
 
 The idea is being terse. You will read and write thousands of comments in your career. Every comment saved helps.
