@@ -45,7 +45,7 @@ module.exports = {
       "/home/games/": getSideBar("home/games", "Games"),
       "/references/": getSideBar("references", "References"),
       "/documents/technology/": getSideBar("documents/technology", "Technology"),
-      "/documents/various/": getSideBar("documents/various", "Various"),
+      "/documents/software-development/": getSideBar("documents/software-development", "Software Development"),
     }
   },
 

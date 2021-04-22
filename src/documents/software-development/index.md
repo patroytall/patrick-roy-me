@@ -1,6 +1,6 @@
-# Development
+# Software Development
 
-Use the menu to select a document to read.
+Use menu to select document.
 
 ## LeetCode
 
