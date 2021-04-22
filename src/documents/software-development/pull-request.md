@@ -10,14 +10,14 @@ A PR should generally not last more than a few days. Most PRs should be merged w
 
 When a PR is created with reviewers, it starts the first review round. Reviewers will make comments on lines, files, or global to the PR. Once the author of the PR believes that no more comments are likely to be added, he should answer all comments by either (exclusive):
 
-- Making a code change addressing the comment. Most PR tool will mark the comment as `needing action`. There is generally no need to justify a code change with an additional comment. Making the code change speaks. Assume the review understands your context and justifications. If he does not understand, he can easily ask.
-- Reply to the reviewer. Replies must be made directly on the original comment; generally by clicking on a button of the comment. Most tool configuration will have comments generate an email to reviewers. Only reply when you do not make a code change to answer a comment.
+- Making a code change addressing the comment. Most PR tool will mark the comment as `needing action`. There is generally no need to justify a code change with an additional comment. Making the code change speaks. Assume the review understands your context and justifications. If he does not understand, he can easily ask a question.
+- Reply to the reviewer. Replies must be made directly on the original comment; generally by clicking on a button of the comment. Only reply when you do not make a code change to answer a comment.
 
 The idea is being terse. You will read and write thousands of comments in your career. Every comment saved helps.
 
 In the rare cases where you need to answer a comment by making both a code change and a reply, make the reply first then push the code. 
 
-Push all the commits as answers comments in a single push. The act of pushing code in a PR starts a new review round. Reviewers get an email when code is pushed. The reviewers will expect all comments to have been addressed.
+Push all the commits as answers to comments in a single push. The act of pushing code in a PR starts the next review round. A normal configuration will have the reviewers receive an email when code is pushed. The reviewers will expect all comments to have been addressed either from a reply or a code change. If you are not answering all comments, explain why with a global comment.
 
 ## Friendly replies and justifications
 
