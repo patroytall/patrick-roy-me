@@ -1,11 +1,11 @@
 # Documents
 
-## [Technology](./technology/index.md)
+## [Software Development](./software-development/index.md)
 
-## [Various](./various/index.md)
+## [Technology](./technology/index.md)
 
 <br/>
 
 ### About the documents
 
-The programming documents contain subjective guidelines. They should be taken in the context of what worked for me in large enterprises with maintenance in mind.
+The programming documents in this section contain subjective guidelines. They should be taken in the context of what worked for me in large enterprises with maintenance in mind.
