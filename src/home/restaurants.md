@@ -57,6 +57,7 @@ Restaurant Frida                                                                
 [Santa Lucia](https://santalucia.restaurant/)                                                 | Centre ville | | Italien
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar
 [Sésame](https://sesamerestaurant.ca/)                                                        | | Marché Atwater | Asiatique
+[Shay Express](https://www.shayexpress.com/)                                                  | Griffintown | | Libanais
 [Siam](https://www.restaurantsiam.com/menus-siam-centre-ville)                                | Centre ville | | Asiatique
 [Spanel Crepes & Gourmets](http://www.spanel.ca/en/)                                          | | Notre-Dame
 [Sud West Giros and Cie](https://www.sudwest.ca/)                                             | | Notre-Dame
