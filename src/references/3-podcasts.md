@@ -4,11 +4,14 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Bringing Systems into Production and Keeping them there - Eoin Woods](https://www.case-podcast.org/38-eoin-woods-on-bringing-systems-into-production-and-keeping-them-there)
-- [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
+- [Blazor - Daniel Roth](https://www.se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/)
+- [DevOps Anti Patterns - Jeffery D Smith](https://www.se-radio.net/2021/04/episode-457-jeffery-d-smith-on-devops-anti-patterns/)
+- [Data Lakes - Tomer Shiran](https://www.se-radio.net/2021/04/episode-456-tomer-shiran-on-data-lakes/)
+- [Software Telemetry - Jamie Riedesel](https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/)
 
 ## Worth listening
 
+- [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
 - [Immutable Architecture- Michael Perry](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [Domain-Driven Microservices Design - Chris Richardson](https://www.infoq.com/podcasts/chris-richardson/)
 - [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
