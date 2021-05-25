@@ -1,5 +1,7 @@
 # Pull Request
 
+**Document intent:** This document is not an article. It is a gathering of pull request process suggestions I have gathered in enterprise context to improve team productivity.
+
 Pull requests (PR's) are created to merge a set of commits from one branch to an other. A key feature of PR's is that the set of commits can be reviewed using an aggregated view which can be compared to the previous version.
 
 ## Duration
@@ -18,6 +20,18 @@ The idea is being terse. You will read and write thousands of comments in your c
 In the rare cases where you need to answer a comment by making both a code change and a reply, make the reply first then push the code. 
 
 Push all the commits as answers to comments in a single push. The act of pushing code in a PR starts the next review round. A normal configuration will have the reviewers receive an email when code is pushed. The reviewers will expect all comments to have been addressed either from a reply or a code change. If you are not answering all comments, explain why with a global comment.
+
+## Comment level
+
+PR reviewers will have different level of certainty when making comments. They will generally fall within these four categories:
+- question - Reviewer needs more information to understand the PR.
+- suggestion - Light comment suggesting a better way of doing something.
+- should - Typical comment asking the author to make a change but welcoming opinions.
+- must - Strong comment where the author is requiring the author to make a change. Not making the change will require a counter argument from the author. Sometimes used by senior team members to enforce various conformance. 
+
+Some teams will adopt a wording conventions aligning to these levels. I do not believe this to be necessary. Informal conventions will automatically emerge from PRs based on the frequent exchanges within teams.
+
+PR authors should keep in mind that some reviewers will have partial knowledge when reviewing PRs. Some comments will not be relevant due to this limited knowledge. They are still valuable and should not be discouraged as long as constructive. It is up to the reviewers to assess the impact vs knowledge ratio when make such comments. If the impact would be high even though the knowledge is low the comment can be justified.
 
 ## Friendly replies and justifications
 
@@ -55,7 +69,9 @@ Comments are made in the context of the line they are attached to. The comment a
 Use file or global comments if they apply to more than a line.
 
 ## Optional Comments
+
 If you want to give the author information but do not request for changes to be made to the pull requests, enter your comments then approve the PR. Author should ensure he reads all comments even when a pull request has been approved.
 
 ## Automatic approval removal
+
 It is often a good idea to configure your repository to automatically remove approvals when new code is pushed.
