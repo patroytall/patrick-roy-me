@@ -57,6 +57,14 @@ PR should be as small as possible. Primary reason is to help reviewers get a com
 
 Changes that affect a large number of files should not be mixed with other changes. For example, moving a class called by many classes from one package to an other should usually be done in a dedicated PR.
 
+## Single purpose
+
+To help reviewers, PRs should be focused on a single purpose. A single mind context makes it easier to review changes since one can assume all changes are for the same goal.
+
+A purpose does not necessarily align with a business feature. Features can be decomposed into multiple contributing PRs where many will not have any visible effects on the product. The invisible code can be deployed in production thus mitigating risks by introducing smaller changes at a time.
+
+A common change in PRs is refactoring where the objective is to obtain the same behavior but with cleaner code. Refactoring PRs can affect a large numbers of files sometimes in the hundreds. Refactoring PRs affecting many files should have a single fine grained purpose. For example, renaming a class. These PRs should documented the intent of the refactoring to make it clear to the reviewers that they do not need to review the individual changes. It is important not to include any other changes in such PRs as they would go unnoticed.
+
 ## Friendly replies and justifications
 
 PRs are not the place for polite or friendly replies since such replies will create noise for all reviewers. For example, avoid replying "thank you". 
@@ -82,7 +90,7 @@ Mandatory approvals can be required for default reviewers. The blocking aspect o
 
 ## Discussion PRs
 
-It is generally not a good idea to create PRs just for getting opinions. For example, a PR to discuss an idea. PRs are public and should be used when a merge is intended. If a PR is used for something other than a merge, its description should make this clear and it should have no reviewers. If you need to review a group of commits to discuss a design, repository tools allow you to view the aggregation of commits by looking at branches through the user interface.
+It is generally not a good idea to create PRs just for discussing a design or getting opinions. As their name states, pull requests are public and should be used when a merge is intended. If a PR is used for something other than a merge, its description should make this clear and it should have no reviewers. If you need to review a group of commits to discuss a design, repository tools allow you to view the aggregation of commits by looking at branches through the user interface.
 
 ## Automatic approval removal
 
@@ -94,4 +102,4 @@ Critical elements of software development are APIs between components. It is a g
 
 ## New hire effect
 
-It is not uncommon to see a PR with 10s or sometimes over a 100 comments when new people are hired. Do not get discouraged by this. It is normal. The team has years of standards and knowledge which new hire need to catch up to. Try to celebrate the merge of such PRs to underline the hard word that went into it. The rate of comments reduces quickly; often by 80% after the first few PRs.
+It is not uncommon to see a PR with 10s or sometimes over a 100 comments when new people are hired. Do not get discouraged by this. It is normal. The team has years of standards and knowledge which new hires need to catch up to. Try to celebrate the merge of such PRs to underline the hard word that went into it. The rate of comments reduces quickly; often by 80% or more after the first few PRs.
