@@ -24,3 +24,5 @@ sitemap:
 [« Tajine » de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
 
 [Le meilleur Mac’n Cheese au monde](https://lynestemarie.com/a-la-une/le-meilleur-macn-cheese-au-monde/)
+
+[Linguines au saumon fumé](https://www.recettes.qc.ca/recettes/recette/linguines-au-saumon-fume-138179)

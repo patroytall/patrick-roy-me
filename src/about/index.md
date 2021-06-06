@@ -59,6 +59,16 @@ Being in a great team is a privilege you earn by building trust and making diffi
 
 I love to make people smile with my not so funny humour. They seem to enjoy it so I keep going at it.
 
+## Management
+
+There is an infinite amount of work; do some yourself, delegate most of it, and ignore the rest.
+
+Build solid relationships. You will need them to face the storms and reach far away lands.
+
+Gratification comes from seeing your product improve; the work of countless people toward a common objective.
+
+The movie would be a thousand shades of grey; every decision is based on partial information.
+
 ## Software
 
 Software is never perfect; it must be good enough to generate revenue exceeding its development costs.
