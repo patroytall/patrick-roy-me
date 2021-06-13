@@ -23,7 +23,7 @@ Crown                   | 8 | 4/4 | Netflix
 Daredevil               | 7 | 2/3 | Netflix | Atmos
 Dark                    | ? | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me              | 7 | 0/2 | Netflix
-Doctor Who              | 7 | 2/8 | Netflix
+Doctor Who              | 7 | 2/8 | ?
 Good Girls              | 7 | 2/4 | Netflix
 Good Place (The)        | 6 | 3/4 | Netflix
 Good Wife (The)         | 7 | 4/7 
@@ -33,6 +33,7 @@ Homeland                | 7 | 2/8 | Netflix
 Imposters               | 7 | 2/2 | Netflix
 Iron Fist               | 4 | 0/1 | Netflix | Atmos
 Jessica Jones           | 7 | 0/2 | Netflix | Atmos
+Kim's Convenience       | 7 | 1/5 | Netflix
 Kimmy Schmidt           | 6 | 1/4 | Netflix
 Last Man on Earth       | 6 | 1/4 | Netflix
 Lie to Me               | 7 | 2/3 | ?
@@ -52,7 +53,7 @@ Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
 Sherlock                | 9 | 1/2 | Netflix
-Star Trek               | 7 | 2/3 | Netflix
+Star Treck: Enterprise  | 7 | 2/4 | Netflix
 Stranger Things         | 8 | 1/4 | Netflix
 Witcher (The)           | 8 | 1/2 | Netflix
 
@@ -73,6 +74,7 @@ Breaking Bad                   | 9 | 5
 Downton Abbey                  | 8 | 6
 Friends                        | 8 | 10
 Friends from College           | 7 | 2
+Kominsky Method (The)          | 9 | 3
 Lost                           | 5 | 6
 Modern Family                  | 6 | 12
 Queen's Gambit (The)           | 10 | 1
@@ -80,6 +82,7 @@ Ritches (The)                  | 7 | 2
 Six Feet Under                 | 8 | 5
 Schitt's Creek                 | 8 | 6
 Sopranos (The)                 | 8 | 6
+Star Trek                      | 7 | 3
 Star Trek: The Next Generation | 8 | 7
 Suits                          | 6 | 9
 Weeds                          | 7 | 8
