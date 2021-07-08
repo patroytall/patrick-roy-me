@@ -37,6 +37,7 @@
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Distributed nature of Microservices and things we should be wary of!](https://chatrakesh.medium.com/distributed-nature-of-microservices-and-things-we-should-be-wary-of-d8ea66567fba)
 - [A Crash Course in CQRS Patterns](https://jc1175.medium.com/a-crash-course-in-cqrs-patterns-a8511f2a9b27)
+- [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)
@@ -44,6 +45,7 @@
 - [The Elements of Style](https://www.crockford.com/style.html)
 
 ## Books
+- [Awesome Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
 - [Google SRE Books](https://sre.google/books/)
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
 - Implementation Patterns by Kent Beck
