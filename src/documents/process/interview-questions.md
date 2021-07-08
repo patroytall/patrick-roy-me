@@ -90,13 +90,21 @@ Slower string builder performance compare to explicit string builder. Should be 
 
 Increases system predictability, even across threads. Cached hash code. Can be re-used. Greater security. Literals are pooled in JVM scope.
 
-### Class
+### Class & methods
 
 **What are the two categories of nested classes?**
 
 Static nested classes and non-static inner classes.
 
+**Can you overload a method using different return types?**
+
+No. Call binding is based on parameter signature.
+
 ### Final
+
+**Can an interface be declared final**
+
+No. Interfaces must be implemented.
 
 **What is the advantage of final fields? Give Java limits with final fields initialization?**
 
@@ -137,6 +145,28 @@ Volatile ensure correct thread visibility. Atomic guaranties read/write atomicit
 
 The class instance is locked.
 
+
+## Software Development
+
+**Describe your last difficult software design.**
+
+The original problem, the process, and the solution.
+
+**As a team lead, give key elements to delivering successful software.**
+
+Clean code. Requirement alignment. Automated development tests. Great tools to manage tasks and code. Lightweight processes. Happy
+developers.
+
+**Name three favorite coding conventions**
+
+Factorized code. Short methods. Camel casing. Mandatory code formatting. Class name as variable name. Short public method names, longer
+privates. Comments for API and non-obvious logic.
+
+**There is an article titled [Object-Oriented Programming — The Trillion Dollar Disaster](https://betterprogramming.pub/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7). What is your opion on OOP and its return on investment?**
+
+State and function separation. Complexity. Real world modeling. Testing. Refactoring.
+
+
 ## JSON
 
 **What does JSON stands for? What are its main advantages?**
@@ -154,6 +184,7 @@ Difficult to extend and manage versions.
 **What is a BNF?**
 
 Backus-Naur Form. Metasyntactic notation to specify syntax. Rule set with expressions, symbols, and terminals.
+
 
 ## Spring
 
@@ -181,9 +212,6 @@ CSRF is an attack which forces an end user to execute unwanted actions on a web 
 
 To prevent dictionary attacks.
 
-**Why use BCrypt instead of standard hashing when storing passwords? Anything better?**
-
-BCrypt needs constant memory, thus more difficult to run concurrently on hardware, and runs configurable multiple iterations. SCrypt uses exponential memory.
 
 ## REST
 
@@ -199,17 +227,9 @@ Usually 204 NO CONTENT.
 
 An idempotent method can be called many times without different outcomes. GET, PUT, and DELETE
 
+
 ## Aspect-oriented programming
 
-Senior - What is aspect-oriented programming? When is it useful?
-Handle crosscutting concerns. Global logging and validation.
+**What is aspect-oriented programming? When is it useful?**
 
-## Software Development
-Junior - Describe your last difficult software design.
-The original problem, the process, and the solution.
-Intermediate - As a team lead, give key elements to delivering successful software.
-Clean code. Requirement alignment. Automated development tests. Great tools to manage tasks and code. Lightweight processes. Happy
-developers.
-Intermediate - Three favorite coding conventions
-Factorized code. Short methods. Camel casing. Mandatory code formatting. Class name as variable name. Short public method names, longer
-privates. Comments for API and non-obvious logic.
+Handle crosscutting concerns. Global logging and validation.
