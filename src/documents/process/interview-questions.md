@@ -92,6 +92,10 @@ Increases system predictability, even across threads. Cached hash code. Can be r
 
 ### Class & methods
 
+**How do you create a singleton class?**
+
+Private constructor.
+
 **What are the two categories of nested classes?**
 
 Static nested classes and non-static inner classes.
@@ -99,6 +103,10 @@ Static nested classes and non-static inner classes.
 **Can you overload a method using different return types?**
 
 No. Call binding is based on parameter signature.
+
+**Can you override a private or static method in Java?**
+
+No. You can hide a method a static.
 
 ### Final
 
