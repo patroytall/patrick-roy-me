@@ -2,17 +2,17 @@
 
 | Name                                                                                        | Location | Street | Nationality & Style | Comment|
 |---------------------------------------------------------------------------------------------|----------|--------|---------------------|--------|
-[Abreuvoir (L')](http://www.abreuvoir.ca/)                                                    | Centre Ville | Ontario | | Bar
-[Avenue (L')](http://restolavenue.ca/accueil)                                                 | Plateau Mont-Royal| | | Déjeuner
-[Bar Darling Plateau](https://www.instagram.com/bar.darling/)                                 | | | | Cider
+[Abreuvoir (L')](http://www.abreuvoir.ca/)                                                    | Centre Ville | Ontario | | bar
+[Avenue (L')](http://restolavenue.ca/accueil)                                                 | Plateau Mont-Royal| | | déjeuner
+[Bar Darling Plateau](https://www.instagram.com/bar.darling/)                                 | | | | cidre
 Bar Social                                                                                    | Verdun | Wellington
 [Belle et le Boeuf (La)](https://belleetboeuf.com/belle-et-la-boeuf-1620-ste-catherine-ouest) | Centre ville | St-Catherine | | DJ
 [Bird Bar](https://lebirdbar.com/fr)                                                          | Griffintown | | | Poulet
-[Bistro Pub NYK's](https://www.nyks.ca/)                                                      | Centre ville | St-Catherine | | Gros Tigre
+[Bistro Pub NYK's](https://www.nyks.ca/)                                                      | Centre ville | St-Catherine | | bière Gros Tigre
 [Bistro Richmond (Le)](http://lerichmond.com/en/marche-italien/)                              | Griffintown | | Italien
 [Blackstrap BBQ](https://blackstrapbbq.ca/)                                                   | Verdun | Wellington
 [Boca Boa Grill](https://www.facebook.com/bocaboagrill/)                                      | Pointe St-Charles | Centre | Portugais
-[Boris Bistro](http://borisbistro.com/fr/)                                                    | Vieux-Port | | | Terrasse
+[Boris Bistro](http://borisbistro.com/fr/)                                                    | Vieux-Port | | | terrasse
 Boucan Smokehouse (Le)                                                                        | Petite-Patrie
 [Brasseurs de Montreal](https://brasseurdemontreal.com/)                                      | Griffintown
 [Brigade Pizza](http://brigadepizza.com/)                                                     | Centre ville | | Italien
@@ -21,11 +21,12 @@ Boucan Smokehouse (Le)                                                          
 [Cafe Cantina](http://www.cafe-cantina.ca/)                                                   | Verdun | | Mexicain
 [Cafe Farina](https://www.caffefarina.com/)                                                   | Little Burgundy | | Italien
 [Carolos & Pepes](http://www.carlospepes.com/)                                                | Centre ville | | Mexicain
-[Dilallo Burger Original 1929](http://www.dilalloburger.ca/)                                  | Little Burgundy
+[Dilallo Burger Original 1929](http://www.dilalloburger.ca/)                                  | Montréal
+[Duc de Lorraine](https://ducdelorraine.ca/)                                                  | Côte-des-Neiges | | Français | stationnement 
 [El Sabor de Mexico](https://www.elsabordemexico.ca/)                                         | Verdun | Wellington | Mexicain
-[Enfants Terribles (Les)](https://www.jesuisunenfantterrible.com/)                            | Centre Ville | | | Vue!
+[Enfants Terribles (Les)](https://www.jesuisunenfantterrible.com/)                            | Centre Ville | | | vue!
 [Enoteca Monza Downtown](http://www.restaurantmonza.com/)                                     | Centre ville | | Italien
-[Entrepôt (L')](https://entrepot-montroyal.com/)                                              | Plateau | | | Bon prix
+[Entrepôt (L')](https://entrepot-montroyal.com/)                                              | Plateau | | | bon prix
 [Escondite](http://www.escondite.ca/)                                                         | Centre Ville | | Mexicain
 [Express (L')](http://restaurantlexpress.com/en/)                                             | Plateau | St-Denis
 [Fugazzi](https://www.fugazzimtl.com/)                                                        | Point-St-Charles | Centre | Italien - Pizza
