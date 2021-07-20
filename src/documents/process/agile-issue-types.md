@@ -35,12 +35,15 @@ Implementation suggestions can be given but must be identified as such.
 Acceptance criteria should define the done conditions of the story.
 
 ### Priority
+
 A story's priority is based on it position in the backlog. The highest the most important. Once in a sprint this order priority does not apply.
 
 ### Resolving
+
 Stories should be resolved its associated code has been merge to the master, or equivalent, branch. If the stories has sub-tasks, all of its sub-tasks must be resolved prior to the story being resolved.
 
 ### Closing
+
 Stories should be closed by the author when the requirements are considered met in a deployed version of the software. The requirements are met when the acceptance criterion are all satisfied. The author closing responsibility can be delegated to a verification team which will close the story after running test cases which covers the acceptance criterion. 
 
 ## Bug
