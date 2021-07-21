@@ -104,7 +104,13 @@ No. Call binding is based on parameter signature.
 
 **Can you override a private or static method in Java?**
 
-No. You can hide a method a static.
+No. You can hide a static method.
+
+[Stack Overflow](https://stackoverflow.com/questions/16313649/what-is-method-hiding-in-java-even-the-javadoc-explanation-is-confusing)
+
+**Why does Java not support multiple inheritance?**
+
+Diamond ambiguity. Design complexity with low real world value.
 
 ## Final
 
