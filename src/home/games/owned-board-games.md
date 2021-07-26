@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: true
+---
+
 # Owned Board games
 
 Board games I own in alphabetical order:

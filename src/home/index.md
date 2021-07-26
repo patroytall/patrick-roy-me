@@ -1,5 +1,4 @@
 ---
-search: false
 sitemap:
   exclude: true
 ---

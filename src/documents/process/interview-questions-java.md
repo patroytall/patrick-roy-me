@@ -42,7 +42,7 @@ AutoCloseable is not idempotent.
 
 Yes, unboxing a Long null value used in long context.
 
-## Variables and Arguments
+## Variables
 
 **What is a transient variable?**
 
@@ -53,6 +53,12 @@ Transient variables are not serialized.
 Yes, as an array. `T...` is syntactic sugar for a `T[]`.
 
 [Stack Overflow](https://stackoverflow.com/questions/9863742/how-to-pass-an-arraylist-to-a-varargs-method-parameter)
+
+**What is local variable type inference? Syntax? Introduced in which version of Java? Is var a keyword?**
+
+Explicit type can be replaced by the reserved type name var for local variable declarations that have initializers. var. Java 10. No.
+
+[Oracle documentation](https://docs.oracle.com/en/java/javase/13/language/local-variable-type-inference.html)
 
 ## Reflection
 

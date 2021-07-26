@@ -29,6 +29,7 @@ Boucan Smokehouse (Le)                                                          
 [Entrepôt (L')](https://entrepot-montroyal.com/)                                              | Plateau | | | bon prix
 [Escondite](http://www.escondite.ca/)                                                         | Centre Ville | | Mexicain
 [Express (L')](http://restaurantlexpress.com/en/)                                             | Plateau | St-Denis
+[Fiorellino](http://fiorellino.ca/petite-bourgogne.html)                                      | Petite Bourgogne | Notre-Dame | Italien - Pizza
 [Fugazzi](https://www.fugazzimtl.com/)                                                        | Point-St-Charles | Centre | Italien - Pizza
 [Furco (bar)](http://www.barfurco.com/)                                                       | Centre Ville | | | Bar
 [Geppetto Piza](http://geppettopizza.com/)                                                    | Rosemont-la-petite-patrie and Griffintown | Beaubien et Notre-Dame | Italien
@@ -55,6 +56,7 @@ Paris Crêpe                                                                    
 [Rasoï](http://www.rasoimontreal.com/)                                                        |Griffintown | Notre-Dame | Indien
 Restaurant Frida                                                                              | | Atwater | Mexicain
 [Robin des Bois](https://robindesbois.ca/en/)                                                 | Plateau
+[Rockaberry Griffintown](https://www.rockaberry.ca/)                                          | Griffintown | note-Dame | | Dessert
 [Sana](http://www.sanarestaurant.ca/)                                                         | Centre ville | Crescent | Indien
 [Santa Lucia](https://santalucia.restaurant/)                                                 | Centre ville | | Italien
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar

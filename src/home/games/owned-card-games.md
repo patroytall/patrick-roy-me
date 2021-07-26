@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: true
+---
+
 # Owned Card games
 
 Games based primarily on cards I own in alphabetical order:

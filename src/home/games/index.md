@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: true
+---
+
 # Games
 
 ## [Owned Board Games](./owned-board-games.md)
