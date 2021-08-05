@@ -16,6 +16,7 @@ English television series I am watching or for which I am waiting for new episod
 30 Rock                 | 7 | 5/7 | ?
 Altered Carbon          | 7 | 0/1 | Netflix | Atmos
 Black Mirror            | 7 | ? | Netflix
+Blindspot               | 8 | 2/5 | Netflix
 Bodyguard               | 7 | 1/2 | Netflix
 Brooklyn Nine-Nine      | 7 | 3/5 | Netflix
 Crown                   | 8 | 4/4 | Netflix
@@ -37,10 +38,12 @@ Kimmy Schmidt           | 6 | 1/4 | Netflix
 Last Man on Earth       | 6 | 1/4 | Netflix
 Lie to Me               | 7 | 2/3 | ?
 Life in Pieces          | 7 | 2/3 | Netflix
-Lucifer                 | 7 | 5/5 | Netflix | Atmos
+Lucifer                 | 7 | 5/6 | Netflix | Atmos
+Lupin                   | 8 | 2/3 | Netflix
 Luke Cage               | 6 | 2/2 | Netflix
 Mad Men                 | 7 | 6/7 | Netflix
 Narcos                  | 8 | 1/3 | Netflix
+Never Hava I Ever       | 7 | 1/2 | Netflix
 New Amsterdam           | 8 | 1/5 | Netflix
 OA (The)                | 6 | 1/2 | Netflix
 Orange Is the New Black | 7 | 1/7 | Netflix
@@ -99,7 +102,7 @@ Trop            | 7 | 3
 
 ## Dropped
 
-English television series I have watched but do not plan to finish in alphabetical order:
+English television series I have stopped watching after the first season in alphabetical order:
 
 | Name               | Rating | Watched/Existing Seasons | Comments |
 |--------------------|--------|--------------------------|----------|
