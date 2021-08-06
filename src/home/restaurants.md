@@ -69,6 +69,7 @@ Restaurant Frida                                                                
 TABOO Cuisine Rebelle                                                                         | Centre ville
 [Tacos Frida](http://tacosfrida.ca/)                                                          | St-Henry | | Mexicain
 [Tasty Food Pizza](http://www.tastyfoodpizza.com/francais.html)                               | | Décarie
+[Terrase Places d'Armes](https://www.terrasseplacedarmes.com/)                                | Vieux port
 [Taverne Gaspar](http://tavernegaspar.com/en/ourmenus/)                                       | Vieux port
 Thali                                                                                         | Centre Ville | | Indien
 [Torches (Les)](https://www.lestorches.com/)                                                  | Plateau
