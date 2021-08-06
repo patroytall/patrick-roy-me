@@ -12,29 +12,19 @@ Can only call one as the first statement.
 
 [Stack Overflow](https://stackoverflow.com/questions/285177/how-do-i-call-one-constructor-from-another-in-java).
 
+
 ## Generic
 
-**What is the syntax to declare a generic type? What are the two types of generic?**
+**What is the syntax to declare a generic type? Generics can be used in the definition of which elements? Which two types can be passed as parameters to generics?**
 
-`ClassName<T>`. Class or interface.
+`ClassName<T>`. Definition of classes, interfaces and methods. Classes and interfaces as parameters.
 
 **In a generic `class X<T>`, can you create an instance of type T? For example, `new T()`**
 
 No, unless you have a reference to a class object of T.
 
-[Stack Overflow](https://stackoverflow.com/questions/75175/create-instance-of-generic-type-in-java)
+[Stack Overflow](https://stackoverflow.com/questions/75175/create-instance-of-generic-type-in-java) and [Oracle](https://docs.oracle.com/javase/tutorial/java/generics/why.html)
 
-## Closeable
-
-**What is the `Closeable/AutoCloseable` interface used for? What syntax can take advantage of it?**
-
-A Closeable is a source or destination of data that can be closed. Try with resource.
-
-**What is the difference between a Closeable and AutoCloseable?**
-
-AutoCloseable is not idempotent.
-
-[GeeksForGeeks](https://www.geeksforgeeks.org/closeable-interface-in-java/#:~:text=Closeable%20extends%20IOException%20whereas%20AutoCloseable,try%2Dwith%2Dresources%20statements.)
 
 ## Primitives
 
@@ -60,6 +50,7 @@ Explicit type can be replaced by the reserved type name var for local variable d
 
 [Oracle documentation](https://docs.oracle.com/en/java/javase/13/language/local-variable-type-inference.html)
 
+
 ## Reflection
 
 **What is reflection? Give an example.**
@@ -71,6 +62,7 @@ ability to inspect and dynamically call classes, methods, attributes, etc. at ru
 Performance: code cannot be optimized. Security: permission required. Internals exposure: private can be modified.
 
 [Stack Overflow](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful) and [GeeksForGeeks](https://www.geeksforgeeks.org/reflection-in-java/)
+
 
 ## Collections
 
@@ -84,6 +76,7 @@ Mostly never.
 
 `hashCode` group in buckets. `equals` find the exact element. Poor `hashCode results` in linear search.
 
+
 ## Strings
 
 **How is `String str3 = "a" + str1 + "b" + str2 + "c"` handled by the JVM? Should it be used? Performance optimization?**
@@ -93,6 +86,7 @@ Slower string builder performance compare to explicit string builder. Should be 
 **Why are Java strings immutable? How are string literals handled by the JVM?**
 
 Increases system predictability, even across threads. Cached hash code. Can be re-used. Greater security. Literals are pooled in JVM scope.
+
 
 ## Class & methods
 
@@ -118,6 +112,7 @@ No. You can hide a static method.
 
 Diamond ambiguity. Design complexity with low real world value.
 
+
 ## Final
 
 **Can an interface be declared final**
@@ -128,6 +123,7 @@ No. Interfaces must be implemented.
 
 Final fields lead to immutable objects. Class logic is easy to understand. Only the field reference is final, object can still be modified. Final fields cannot be initialized in methods other than constructor.
 
+
 ## JVM
 
 **How does Java achieve "write once and run anywhere"?**
@@ -137,6 +133,7 @@ Portable byte code.
 **What is Just In Time (JIT) compilation ?**
 
 Byte code compiled at runtime to improve performance
+
 
 ## Exceptions
 
@@ -162,3 +159,15 @@ Volatile ensure correct thread visibility. Atomic guaranties read/write atomicit
 **How does synchronized on a static method work?**
 
 The class instance is locked.
+
+## Closeable
+
+**What is the `Closeable/AutoCloseable` interface used for? What syntax can take advantage of it?**
+
+A Closeable is a source or destination of data that can be closed. Try with resource.
+
+**What is the difference between a Closeable and AutoCloseable?**
+
+AutoCloseable is not idempotent.
+
+[GeeksForGeeks](https://www.geeksforgeeks.org/closeable-interface-in-java/#:~:text=Closeable%20extends%20IOException%20whereas%20AutoCloseable,try%2Dwith%2Dresources%20statements.)

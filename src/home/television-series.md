@@ -55,7 +55,6 @@ Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
 Sherlock                | 9 | 1/2 | Netflix
-Star Treck: Enterprise  | 7 | 2/4 | Netflix
 Stranger Things         | 8 | 1/4 | Netflix
 Witcher (The)           | 8 | 1/2 | Netflix
 
@@ -69,6 +68,7 @@ Les beaux malaises | 8 | 2/2 | TVA
 ## Finished
 
 English television series I have finished watching and which are completed in alphabetical order:
+
 | Name                         | Rating | Seasons |
 |------------------------------|--------|---------|
 24                             | 5 | 8
@@ -85,6 +85,7 @@ Six Feet Under                 | 8 | 5
 Schitt's Creek                 | 8 | 6
 Sopranos (The)                 | 8 | 6
 Star Trek                      | 7 | 3
+Star Trek: Enterprise          | 7 | 4
 Star Trek: The Next Generation | 8 | 7
 Suits                          | 6 | 9
 Weeds                          | 7 | 8
