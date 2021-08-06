@@ -5,7 +5,7 @@ sitemap:
 
 # Home
 
-## [Games](./games)
+## [Board Games](./board-games.md)
 
 ## [Restaurants](./restaurants.md)
 
