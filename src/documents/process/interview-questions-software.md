@@ -20,6 +20,10 @@ privates. Comments for API and non-obvious logic.
 
 State and function separation. Complexity. Real world modeling. Testing. Refactoring.
 
+**Do you have a personnal programming projet? Do you read or watch training articles or videos?**
+
+A site, public code contributions or articles.
+
 
 ## JSON
 
@@ -27,17 +31,17 @@ State and function separation. Complexity. Real world modeling. Testing. Refacto
 
 JavaScript Object Notation. Data exchange. Simple easy to read (debugging) syntax. Easy to parse and create. Interoperability. Openness.
 
-**What are JSON's limits?**
-
-Difficult to extend and manage versions.
-
-**How to express a unicode character in a JSON representation? JSON home site?**
+**How to express a unicode character in a JSON representation? Have you visited the JSON home site?**
 
 "\ua1b2" in JSON's BNF at json.org.
 
 **What is a BNF?**
 
 Backus-Naur Form. Metasyntactic notation to specify syntax. Rule set with expressions, symbols, and terminals.
+
+**What are JSON's limits? Why has JSON replaced XML in so many contexts? What does Protocol Buffers add?**
+
+JSON is difficult to extend and manage versions. JSON fast and easy to read for humans.
 
 
 ## Spring

@@ -41,8 +41,9 @@
 - [Slashdot](https://slashdot.org/) 🏠
 - [Ars Technica](https://arstechnica.com/) 🏠
 
-## Coding
-- [LeetCode](https://leetcode.com/problemset/all/)
+## Programming
+- [LeetCode](https://leetcode.com/problemset/all/) 🏠
+- [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/) 📝
 
 ## Testing
 - [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) 📝

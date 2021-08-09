@@ -32,6 +32,7 @@ No, unless you have a reference to a class object of T.
 
 Yes, unboxing a Long null value used in long context.
 
+
 ## Variables
 
 **What is a transient variable?**
@@ -150,6 +151,7 @@ Only when the caller needs to handle an expected failure. Catch uncheck to commu
 When the behavior of an external component is optional. Even then, a log entry is often required. Exception in normal logic can have a
 performance cost and are misleading.
 
+
 ## Threads
 
 **What is the difference between volatile and atomic variables?**
@@ -159,6 +161,7 @@ Volatile ensure correct thread visibility. Atomic guaranties read/write atomicit
 **How does synchronized on a static method work?**
 
 The class instance is locked.
+
 
 ## Closeable
 
