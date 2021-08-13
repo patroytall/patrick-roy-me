@@ -78,6 +78,18 @@ Mostly never.
 `hashCode` group in buckets. `equals` find the exact element. Poor `hashCode results` in linear search.
 
 
+## Functional programming
+
+**Syntax to reduce a list to an other list with only elements starting with 'a'?**
+
+list.stream().filter(element -> element.startsWith("a")).collect(Collectors.toList())
+
+
+**What is a functional interface? How can it be enforced? Default functional interfaces where? Does Java provide builtin functional interfaces?**
+
+A functional interface is an interface that contains only one abstract method. Annotation @FunctionalInterface. Yes, in package java.util.function .
+
+
 ## Strings
 
 **How is `String str3 = "a" + str1 + "b" + str2 + "c"` handled by the JVM? Should it be used? Performance optimization?**

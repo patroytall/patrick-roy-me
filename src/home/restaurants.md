@@ -21,7 +21,8 @@ Boucan Smokehouse (Le)                                                          
 [Cafe Cantina](http://www.cafe-cantina.ca/)                                                   | Verdun | | Mexicain
 [Cafe Farina](https://www.caffefarina.com/)                                                   | Little Burgundy | | Italien
 [Carolos & Pepes](http://www.carlospepes.com/)                                                | Centre ville | | Mexicain
-[Dilallo Burger Original 1929](http://www.dilalloburger.ca/)                                  | Montréal
+[Devile Dinerbar](http://devilledinerbar.com/)                                                | Montréal
+[Dilallo Burger Original 1929](http://www.dilalloburger.ca/)                                  | Centre ville
 [Duc de Lorraine](https://ducdelorraine.ca/)                                                  | Côte-des-Neiges | | Français | stationnement 
 [El Sabor de Mexico](https://www.elsabordemexico.ca/)                                         | Verdun | Wellington | Mexicain
 [Enfants Terribles (Les)](https://www.jesuisunenfantterrible.com/)                            | Centre Ville | | | vue!
