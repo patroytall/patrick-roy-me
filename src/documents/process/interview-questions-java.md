@@ -96,6 +96,10 @@ A functional interface is an interface that contains only one abstract method. A
 
 Slower string builder performance compare to explicit string builder. Should be used because clear and simple syntax. Java 9 introduced `invokedynamic`.
 
+**How do you force a computed string to use the string pool**
+
+.inter() method of String class.
+
 **Why are Java strings immutable? How are string literals handled by the JVM?**
 
 Increases system predictability, even across threads. Cached hash code. Can be re-used. Greater security. Literals are pooled in JVM scope.
@@ -146,6 +150,10 @@ Portable byte code.
 **What is Just In Time (JIT) compilation ?**
 
 Byte code compiled at runtime to improve performance
+
+**What are the types of memory references?**
+
+Strong, weak, soft, and phantom references.
 
 
 ## Exceptions
