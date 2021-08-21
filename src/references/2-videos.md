@@ -9,6 +9,7 @@
 - [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 - [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
+- [Software Engineering; Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
 
 ### Candidate - Channel YouTube
 
