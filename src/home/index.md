@@ -14,6 +14,8 @@ sitemap:
 
 ## Cooking
 
+[Agneau Tikka Massala](https://www.safrangourmand.fr/agneau-tikka-massala/)
+
 [Chana Masala - La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/recipe/chana-masala/)
 
 [Chana Masala - Becel](https://www.becel.ca/fr-ca/recipe/chana-masala-204621)

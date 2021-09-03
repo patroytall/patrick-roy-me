@@ -4,18 +4,29 @@
 
 - [Four Distributed Systems Architectural Patterns - Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
 - [Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
-- [10 Tips for failing badly at Microservices - David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 - [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 - [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
 - [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 - [Software Engineering; Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
+- [Real world serverless - architecture, patterns and lessons learned - David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
+- [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
+- [Voxxed CERN 2019 • Keynote - Robert "Uncle Bob" Martin](https://www.youtube.com/watch?v=LmRl0D-RkPU)
+- [Using sagas to maintain data consistency in a microservice architecture by Chris Richardson](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
+- [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz](https://www.youtube.com/watch?v=IR1NLfaq7PU)
 
 ### Candidate - Channel YouTube
 
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
 ## Worth viewing
+
+### David Schmitz
+
+- [10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=r8mtXJh3hzM)
+- [Event Sourcing - You are doing it wrong](https://www.youtube.com/watch?v=rdB9Q8GouKI)
+
+### Others
 
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
