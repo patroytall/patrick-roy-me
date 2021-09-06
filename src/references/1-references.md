@@ -5,6 +5,7 @@
   - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
   - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📽️ and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📽️
   - [Agile back to basics - Cynical Developer](https://cynicaldeveloper.com/podcast/125/) and [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/) 🔊
+  - Programmer's profession future: [Voxxed](https://www.youtube.com/watch?v=LmRl0D-RkPU), [goto;](https://www.youtube.com/watch?v=Tng6Fox8EfI), and [AgileMontreal](https://www.youtube.com/watch?v=FedQ2NlgxMI) 📽️
 
 - [Martin Fowler (ThoughtWorks)](https://martinfowler.com/tags/index.html) 🏠
   - [Microservices](https://martinfowler.com/articles/microservices.html) 📝
