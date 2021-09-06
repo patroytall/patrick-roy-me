@@ -97,7 +97,7 @@ When acronyms are used in this convention people tend to write them in upper cas
 
 Other forms of ambiguity arise in compound words like filename, bus stop, or ice-axe. They can have alternate valid syntaxes with or without spaces and hyphens.
 
-Absolute solution is to camel case all words all the time: `htmlLand`, `fileName`, and `iceAxe`. The only time I have seen this absolute adopted is when I imposed it. I like it but it is clearly not a consensus.
+The absolute solution is to camel case all words all the time: `htmlUrl`, `recordId`, `fileName`, and `iceAxe`. The only time I have seen this absolute adopted is when I imposed it. I like it but it is clearly not a consensus.
 
 ### 0 warning policy
 
