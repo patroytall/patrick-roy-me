@@ -9,7 +9,7 @@ footer: Software development a chaos of art, science, and engineering
 ---
 
 # [About](/about)
-About me. Software ~~architect~~, ~~craftsman~~, aficionado; a person who is very knowledgeable and enthusiastic about a subject.
+About me. Software ~~architect~~, ~~craftsman~~, aficionado; a person who is ~~very~~ knowledgeable and enthusiastic about a subject.
 
 # [Articles](/articles)
 Opinions in the form of short articles about software development.
