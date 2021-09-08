@@ -2,7 +2,7 @@
 
 ## Software Development
 
-**Describe your last difficult software design.**
+**Describe your last difficult software design with technical details.**
 
 The original problem, the process, and the solution.
 
@@ -20,9 +20,22 @@ privates. Comments for API and non-obvious logic.
 
 State and function separation. Complexity. Real world modeling. Testing. Refactoring.
 
-**Do you have a personnal programming projet? Do you read or watch training articles or videos?**
+**Do you have a personnal programming projet? 
 
-A site, public code contributions or articles.
+GitHub, Bitbucket or live site.
+
+**Do you read, listen or watch training articles, podcasts, or videos?**
+
+Hacker News, Slash Dot, YouTube, etc.
+
+
+## Architecture
+
+**Given an application system composed of backend services with databases fronted by an HTTP services serving clients load balanced by a reverse proxy, speculate on why clicking on a button in the client can freeze the application for 60 seconds.**
+
+Database contention, erroneous load balancing, algoritmic complexity, service coupling, etc.
+
+[YouTube](https://www.youtube.com/watch?v=bDIB2eIzIC8)
 
 
 ## JSON
@@ -53,10 +66,9 @@ No. Beans must be instantiated by the spring context.
 **Explain autowiring.**
 
 Required beans from the application context container are automatically injected into the fields other beans.
-Intermediate - How do you use encrypted passwords for authentication? What encryption types are
-supported?
-Provide a PasswordEncoder bean to the authenication manager. Standard and BCrypt.
-Senior - On which class elements can the @Autowired annotation be used?
+
+**On which class elements can the @Autowired annotation be used?**
+
 Field, setter, or constructor.
 
 
