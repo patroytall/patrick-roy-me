@@ -13,12 +13,13 @@
 - [Using sagas to maintain data consistency in a microservice architecture by Chris Richardson](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 - [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz](https://www.youtube.com/watch?v=IR1NLfaq7PU)
 
-### Candidates - YouTube Channels
+## YouTube Channels
 
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+  - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&t=577s)
 
-## Worth viewing
+## Video Selection
 
 ### David Schmitz
 
@@ -26,7 +27,7 @@
 - [Event Sourcing - You are doing it wrong](https://www.youtube.com/watch?v=rdB9Q8GouKI)
 - [Real world serverless - architecture, patterns and lessons learned - David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 
-### Others
+### Others Authors
 
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)

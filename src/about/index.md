@@ -7,7 +7,7 @@ I am a technical leader with broad enterprise software development experience fr
 Recently released the  [QUB](https://www.qub.ca/) application on [web](https://www.qub.ca/), [iOS](https://apps.apple.com/ca/app/qub/id942494435), and [Android](https://play.google.com/store/apps/details?id=com.netcosports.andjdm), Apple TV, Android TV, Chromecast, and Comcast X1 (Helix) composed of:
 - [QUB info](https://www.qub.ca/info) - largest Québec news source
 - [QUB musique](https://www.qub.ca/musique) - 70 million songs - [iOS](https://apps.apple.com/ca/app/qub-musique/id1489964737) - [Android](https://play.google.com/store/apps/details?id=com.numeriq.qub.musique)
-- [QUB vidéo](https://www.qub.ca/videos) - top Canadian video and live content service; includes TVA+ and Vrai - [iOS](https://apps.apple.com/ca/app/tva/id1150619411) - [Android](https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor)
+- [QUB vidéo](https://www.qub.ca/videos) - top Canadian video and live content service; TVA+ and Vrai - [iOS](https://apps.apple.com/ca/app/tva/id1150619411) - [Android](https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor)
 - [QUB radio](https://www.qub.ca/radio) - podcast and live radio service
 
 An accomplishment I am proud of in the Québecor project is the delivery of the cache and cache invalidation solution by my team which has allowed the QUB platform to scale with minimal load on the backend services and support live updates.
