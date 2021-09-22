@@ -21,6 +21,7 @@ Boucan Smokehouse (Le)                                                          
 [Cafe Cantina](http://www.cafe-cantina.ca/)                                                   | Verdun | | Mexicain
 [Cafe Farina](https://www.caffefarina.com/)                                                   | Little Burgundy | | Italien
 [Carolos & Pepes](http://www.carlospepes.com/)                                                | Centre ville | | Mexicain
+[Central (le)](https://lecentral.ca/)                                                         | Centre ville | St-Laurent | | 25 restaurants
 [Devile Dinerbar](http://devilledinerbar.com/)                                                | Montréal
 [Dilallo Burger Original 1929](http://www.dilalloburger.ca/)                                  | Centre ville
 [Duc de Lorraine](https://ducdelorraine.ca/)                                                  | Côte-des-Neiges | | Français | stationnement 
@@ -39,6 +40,7 @@ Greenspot                                                                       
 [Juliette et Chocolat](https://www.julietteetchocolat.com/pages/notre-menu)                   | Centre ville | St-Denis
 [Knox Taverne](http://www.knoxtaverne.com/)                                                   | Pointe-St-Charles | Centre
 [Kuto](https://kuto.ca/emplacement/griffintown/)                                              | Griffintown | Peel | Tartare et pokebol
+[Labarake](http://labarake.com/)                                                              | Angus | Rachel | |
 [Le Mile Public House](https://www.milepublichouse.com/brossard/)                             | Brossard | | | Dix/30
 [Lola Rosa](https://lolarosa.ca/)                                                             | Centre ville | St-Catherine | | Végétarien
 [Lord William](https://lordwilliampub.com/)                                                   | Griffintown | | | English pub
@@ -58,6 +60,7 @@ Paris Crêpe                                                                    
 Restaurant Frida                                                                              | | Atwater | Mexicain
 [Robin des Bois](https://robindesbois.ca/en/)                                                 | Plateau
 [Rockaberry Griffintown](https://www.rockaberry.ca/)                                          | Griffintown | note-Dame | | Dessert
+[Sainte-Élisabeth (Le)](http://www.ste-elisabeth.com/)                                        | Centre Ville | Sainte-Elisabeth | Pub Européen
 [Sana](http://www.sanarestaurant.ca/)                                                         | Centre ville | Crescent | Indien
 [Santa Lucia](https://santalucia.restaurant/)                                                 | Centre ville | | Italien
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar

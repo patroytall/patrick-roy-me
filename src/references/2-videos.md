@@ -9,7 +9,6 @@
 - [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 - [Software Engineering; Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/videos)
-- [Real world serverless - architecture, patterns and lessons learned - David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Using sagas to maintain data consistency in a microservice architecture by Chris Richardson](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 - [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz](https://www.youtube.com/watch?v=IR1NLfaq7PU)
@@ -25,6 +24,7 @@
 
 - [10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=r8mtXJh3hzM)
 - [Event Sourcing - You are doing it wrong](https://www.youtube.com/watch?v=rdB9Q8GouKI)
+- [Real world serverless - architecture, patterns and lessons learned - David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 
 ### Others
 
