@@ -9,6 +9,7 @@ Golf courses we have played:
 
 | Name                                                                                | Location       | Description | Comment|
 |-------------------------------------------------------------------------------------|----------------|-------------|--------|
+[Club de golf Les Légendes](http://www.golfleslegendes.com/)                          |  Saint-Jean-sur-Richelieu | 18
 [Golf des Arpents Verts](http://www.golfdesarpentsverts.ca/)                          | St-Matias-deBeloeil | 2 x 9
 [Golf Château-Bromont](https://chateaubromont.com/en/golf-chateau-bromont/)           | Bromont | 18
 [Golf des Iles](https://www.golfdesiles.com/)                                         | Boucherville   | 18          |bateau

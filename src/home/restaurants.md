@@ -50,6 +50,7 @@ Greenspot                                                                       
 [Masala](http://www.masalacuisine.ca/masalacuisine.ca/masala.html)                            | Pointe-St-Charles | | Indien
 [Mechant Boeuf](http://mechantboeuf.com/)                                                     | Vieux Montreal
 [Miso](http://go.restaurantmiso.com/en/)                                                      | Centre ville | St-Catherine | Asiatique Fusion
+[Mauvais Garçons](https://www.restomauvaisgarcons.ca/)                                        | Griffintown | | | Tapas
 [Moxies](https://moxies.com/restaurant-locations/qc/montreal-restaurant/montreal)             | Centre ville
 Paris Crêpe                                                                                   | Centre ville | St-Catherine
 [Pizzeria Caldo](https://www.pizzeriacaldo.com/)                                              | Rosemont-la-petite-patrie | | Italien
