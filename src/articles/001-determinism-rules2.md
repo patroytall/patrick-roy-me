@@ -87,7 +87,7 @@ static String color(int position) {
     return position > 1 ? "red" : "green";
 }
 ```
-Although much more concise, I have found that developers tend to avoid the ternary operator. In this case, the vertical scrolling gain is significant: 5 lines to 1. As well as the single point of exit. It can take many months of code reviews for it to become a habit.
+Although much more concise, I have found that developers tend to avoid the ternary operator. In this case, the vertical scrolling gain is significant: 5 lines to 1. As well as the single point of exit. It can take many months of code reviews for it to become a habit in a team. [Jesse Duffield](https://jesseduffield.com/about/) shares the same position and explains it well in this [blog entry](https://jesseduffield.com/Gos-Shortcomings-4/).
 
 ### Extreme camel case naming
 
