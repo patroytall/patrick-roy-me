@@ -18,6 +18,9 @@
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
   - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&t=577s)
+- [IT Revolution](https://www.youtube.com/c/ITRevolution)
+- [Continuous Delivery - Dave Farley](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
+  - [The Problem With Microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI&t=417s)
 
 ## Video Selection
 

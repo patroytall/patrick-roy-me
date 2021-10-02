@@ -15,6 +15,7 @@
 
 ## Wonders
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) 📽️
+- [The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE) 📽️
 
 ## Architecture
 - [The Seven Deadly Sins of Microservices - Daniel Bryant](https://www.infoq.com/presentations/7-sins-microservices/) 📽️
@@ -54,8 +55,9 @@
 - [The Future of DevOps: 15 Trends for 2021](https://medium.com/faun/the-future-of-devops-15-trends-for-2021-b3b8c59444ff) 📝
 - [Are you really doing continuous integration](https://techbeacon.com/devops/are-you-really-doing-continuous-integration-heres-how-tell) 🏠
 
-## Database
+## Data
 - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw) 📽️
+- Event sourcing documentation - [Confluent blog](https://www.confluent.io/blog) ✍ and [Confluent resources](https://www.confluent.io/resources-v2/?language=english) 📝
 
 ## Books
 - Release It! Second Edition by Michael T. Nygard

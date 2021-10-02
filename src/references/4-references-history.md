@@ -8,9 +8,6 @@
   - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
   - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/)
 
-## Channels
-- [IT Revolution](https://www.youtube.com/c/ITRevolution)
-
 ## Blogs
 - [8th Light authors](https://8thlight.com/blog/)
 
@@ -19,12 +16,11 @@
 - [CoderPad](https://coderpad.io/)
 
 ## Sites
+- [Andreas Mehlsen - Web Skills](https://andreasbm.github.io/web-skills/)
 - [Microservices IO](https://microservices.io/)
 - [GeeksforGeeks - Java](http://www.geeksforgeeks.org/java/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
-- [Steve McConnell](http://www.stevemcconnell.com/index.htm) - commercial biased
-- [Jim Coplien](http://www.stevemcconnell.com/index.htm)
-- [Kent Beck](https://www.kentbeck.com/)
+- [Steve McConnell](http://www.stevemcconnell.com/index.htm)
 
 ## Articles
 - [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
