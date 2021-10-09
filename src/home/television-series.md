@@ -24,7 +24,6 @@ Daredevil               | 7 | 2/3 | Netflix | Atmos
 Dark                    | ? | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me              | 7 | 0/2 | Netflix
 Doctor Who              | 7 | 2/8 | ?
-Good Girls              | 7 | 2/4 | Netflix
 Good Place (The)        | 6 | 3/4 | Netflix
 Good Wife (The)         | 7 | 4/7 
 Grace and Frankie       | 7 | 4/4 | Netflix
@@ -51,6 +50,7 @@ Ozark                   | 7 | 3/4 | Netflix
 Peaky Blinders          | ? | 1/5 | Netflix
 Rake                    | 8 | 2/5 | Netflix
 Santa Clarita Diet      | 6 | 0/2 | Netflix
+Seinfeld                | 8 | 1/9 | Netflix
 Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
@@ -64,6 +64,7 @@ French television series I am watching or for which I am waiting for new episode
 |------------------|--------|---------|--------------|----------|
 Faits divers       | 8 | 3/3 | TOU.TV
 Les beaux malaises | 8 | 2/2 | TVA
+…Moi non plus!     | 8 | 1/1 | Noovo
 
 ## Finished
 
@@ -76,6 +77,7 @@ Breaking Bad                   | 9 | 5
 Downton Abbey                  | 8 | 6
 Friends                        | 8 | 10
 Friends from College           | 7 | 2
+Good Girls                     | 7 | 4
 Kominsky Method (The)          | 9 | 3
 Lost                           | 5 | 6
 Modern Family                  | 6 | 12
