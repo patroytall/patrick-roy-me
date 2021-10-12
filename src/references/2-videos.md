@@ -16,6 +16,9 @@
 ## YouTube Channels
 
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences)
+  - [SaaS Deep Dive: Designing and Building Multi-Tenant Solutions - Tod Golding](https://www.youtube.com/watch?v=joz0DoSQDNw)
+  - [Agility is Inefficient - Klaus Bucka-Lassen](https://www.youtube.com/watch?v=q6sq5ktP_3g&t=875s)
+
 - [Continuous Delivery - Dave Farley](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
   - [The Problem With Microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI&t=417s)
   - [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
