@@ -35,6 +35,7 @@
 - [Distributed nature of Microservices and things we should be wary of!](https://chatrakesh.medium.com/distributed-nature-of-microservices-and-things-we-should-be-wary-of-d8ea66567fba)
 - [A Crash Course in CQRS Patterns](https://jc1175.medium.com/a-crash-course-in-cqrs-patterns-a8511f2a9b27)
 - [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+- [A tactical approach to manage Technical Debt in a feature team](https://medium.com/doctolib/a-tactical-approach-to-manage-technical-debt-in-a-feature-team-f9bde883d731)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)
