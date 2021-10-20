@@ -5,7 +5,6 @@ Workouts and podcasts are perfect together.
 ## Listening queue
 
 - [Blazor - Daniel Roth](https://www.se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/)
-- [DevOps Anti Patterns - Jeffery D Smith](https://www.se-radio.net/2021/04/episode-457-jeffery-d-smith-on-devops-anti-patterns/)
 - [Data Lakes - Tomer Shiran](https://www.se-radio.net/2021/04/episode-456-tomer-shiran-on-data-lakes/)
 - [Software Telemetry - Jamie Riedesel](https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/)
 
@@ -36,6 +35,7 @@ Workouts and podcasts are perfect together.
 - [Modern Front End: React, GraphQL, VR, WebAssembly - Adam Conrad](https://www.softwaredaily.com/post/5fe287caf58ce4000c74d619/modern-front-end-react-graphql-vr-webassembly-with-adam-conrad-repeat)
 - [Complacency - Tyler Cowen](https://softwareengineeringdaily.com/2017/04/07/complacency-with-tyler-cowen/)
 - [Technical Debt - Sven Johann and Eberhard Wolff](http://www.se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/)
+- [DevOps Anti Patterns - Jeffery D Smith](https://www.se-radio.net/2021/04/episode-457-jeffery-d-smith-on-devops-anti-patterns/)
 - Daniel Bryant
   - [Service Meshes and API Gateways for Application Modernization](https://www.case-podcast.org/32-daniel-bryant-on-service-meshes-and-api-gateways-for-application-modernization)
   - [Microservices and Domain Driven Design](https://www.infoq.com/podcasts/daniel-bryant/)
