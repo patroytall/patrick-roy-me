@@ -4,13 +4,12 @@ Workouts and podcasts are perfect together.
 
 ## Listening queue
 
-- [Blazor - Daniel Roth](https://www.se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/)
 - [Data Lakes - Tomer Shiran](https://www.se-radio.net/2021/04/episode-456-tomer-shiran-on-data-lakes/)
 - [Software Telemetry - Jamie Riedesel](https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/)
+- [Cloud Run: Serverless Applications - Steren Giannini](https://softwareengineeringdaily.com/2021/08/12/cloud-run-serverless-applications-with-steren-giannini/)
 
-## Worth listening
+## Worth listening - technical
 
-- [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
 - [Immutable Architecture- Michael Perry](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [Domain-Driven Microservices Design - Chris Richardson](https://www.infoq.com/podcasts/chris-richardson/)
 - [Building the Right Thing with BDD - Matt Wynne](https://fullstackradio.com/51)
@@ -33,7 +32,6 @@ Workouts and podcasts are perfect together.
 - [Microservices - James Lewis](https://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices/)
 - [Architecture and Micro Services - Stefan Tilkov](https://www.se-radio.net/2014/09/episode-210-stefan-tilkov-on-architecture-and-micro-services/)
 - [Modern Front End: React, GraphQL, VR, WebAssembly - Adam Conrad](https://www.softwaredaily.com/post/5fe287caf58ce4000c74d619/modern-front-end-react-graphql-vr-webassembly-with-adam-conrad-repeat)
-- [Complacency - Tyler Cowen](https://softwareengineeringdaily.com/2017/04/07/complacency-with-tyler-cowen/)
 - [Technical Debt - Sven Johann and Eberhard Wolff](http://www.se-radio.net/2015/04/episode-224-sven-johann-and-eberhard-wolff-on-technical-debt/)
 - [DevOps Anti Patterns - Jeffery D Smith](https://www.se-radio.net/2021/04/episode-457-jeffery-d-smith-on-devops-anti-patterns/)
 - Daniel Bryant
@@ -42,6 +40,15 @@ Workouts and podcasts are perfect together.
 - Bernd Rücker
   - [Architecting for Scale](https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs/)
   - [Orchestrating Microservices with Workflow Management](https://www.se-radio.net/2019/01/episode-351-bernd-rucker-on-orchestrating-microservices-with-workflow-management/)
+
+## Less and non-technical
+
+- [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
+- [Complacency - Tyler Cowen](https://softwareengineeringdaily.com/2017/04/07/complacency-with-tyler-cowen/)
+
+## Propriatery technologies
+
+- [Blazor - Daniel Roth](https://www.se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/)
 
 ## Podcast sources
 

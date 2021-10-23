@@ -1,3 +1,8 @@
+---
+sitemap:
+  exclude: true
+---
+
 # Restaurants
 
 | Name                                                                                        | Location | Street | Nationality & Style | Comment|
@@ -15,6 +20,7 @@ Bar Social                                                                      
 [Boris Bistro](http://borisbistro.com/fr/)                                                    | Vieux-Port | | | terrasse
 Boucan Smokehouse (Le)                                                                        | Petite-Patrie
 [Brasseurs de Montreal](https://brasseurdemontreal.com/)                                      | Griffintown
+[Brasseries les Soeurs Grises](https://www.bblsg.com/fr-ca)                                   | View Port
 [Brigade Pizza](http://brigadepizza.com/)                                                     | Centre ville | | Italien
 [Burgundy Lion](https://www.burgundylion.com/)                                                | Little Burgundy
 [Cafe du nouveau monde](https://www.tnm.qc.ca/cafe-du-nouveau-monde/menu/)                    | Centre ville

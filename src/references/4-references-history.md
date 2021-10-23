@@ -24,6 +24,7 @@
 - [Steve McConnell](http://www.stevemcconnell.com/index.htm)
 
 ## Articles
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/)
 - [Self-documenting Architecture](https://medium.com/nick-tune-tech-strategy-blog/self-documenting-architecture-80c8c2429cb8)
 - [Strategy of splitting a Monolith into Microservices](https://medium.com/picsart-engineering/strategy-of-splitting-monolith-to-microservices-f5d6b959b457)
 - [Logging v. instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)

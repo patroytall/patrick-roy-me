@@ -55,6 +55,7 @@ Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
 Sherlock                | 9 | 1/2 | Netflix
+Sqid Game               | 8 | 0/1 | Netflix
 Stranger Things         | 8 | 1/4 | Netflix
 Witcher (The)           | 8 | 1/2 | Netflix
 
@@ -63,6 +64,7 @@ French television series I am watching or for which I am waiting for new episode
 | Name             | Rating | Seasons | Availability | Comments |
 |------------------|--------|---------|--------------|----------|
 Faits divers       | 8 | 3/3 | TOU.TV
+Family Business    | 6 | 2/3 | Netflix
 Les beaux malaises | 8 | 2/2 | TVA
 …Moi non plus!     | 8 | 1/1 | Noovo
 
