@@ -20,6 +20,7 @@ François                             | Manu Chao / Emerson Lake & Palmer / Phil
 Jean-Claude                          | Plume Latraverse
 Lucie                                | Madonna, Rihanna
 Niveen                               | Charles Aznavour, Enrique Iglesias, Marc Anthony, Michael Bublé, Ricky Martin
+Mark                                 | P'tit Belliveau
 Mario et Johanne                     | Pink Martini, Diana Krall, Norah Jones, Sam Brown, Julien Clerc, Notre-dame-de-Paris, Hauser, Beau Dommage, Yve Duteil, Andréanne A. Mallet, America, John Legend, Sarah McLachlan, Shakira
 Natalie                              | Peter Gabriel, St Germain, Supertramp, Gotan Project, Murray Head
 
@@ -27,4 +28,5 @@ Friend's songs:
 
 | Friend                             | Songs        |
 |------------------------------------|--------------|
+Geneviève                            | Beggin'
 Lucie                                | Wonderwall

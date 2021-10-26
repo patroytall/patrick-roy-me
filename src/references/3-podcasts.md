@@ -5,7 +5,7 @@ Workouts and podcasts are perfect together.
 ## Listening queue
 
 - [Data Lakes - Tomer Shiran](https://www.se-radio.net/2021/04/episode-456-tomer-shiran-on-data-lakes/)
-- [Software Telemetry - Jamie Riedesel](https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/)
+- [Reactive Programming with Spring 5 and Spring WebFlux - Rossen Stoyanchev](https://www.infoq.com/podcasts/rossen-stoyanchev/)
 - [Cloud Run: Serverless Applications - Steren Giannini](https://softwareengineeringdaily.com/2021/08/12/cloud-run-serverless-applications-with-steren-giannini/)
 
 ## Worth listening - technical
@@ -41,7 +41,7 @@ Workouts and podcasts are perfect together.
   - [Architecting for Scale](https://www.infoq.com/podcasts/bernd-rucker-orchestration-cqrs/)
   - [Orchestrating Microservices with Workflow Management](https://www.se-radio.net/2019/01/episode-351-bernd-rucker-on-orchestrating-microservices-with-workflow-management/)
 
-## Less and non-technical
+## Non-technical
 
 - [The Crypto Economy - Brian Armstrong](https://conversationswithtyler.com/episodes/brian-armstrong/)
 - [Complacency - Tyler Cowen](https://softwareengineeringdaily.com/2017/04/07/complacency-with-tyler-cowen/)
@@ -49,6 +49,10 @@ Workouts and podcasts are perfect together.
 ## Propriatery technologies
 
 - [Blazor - Daniel Roth](https://www.se-radio.net/2021/05/episode-458-daniel-roth-on-blazor/)
+
+## Basics
+
+- [Software Telemetry - Jamie Riedesel](https://www.se-radio.net/2021/04/episode-455-jamie-riedesel-on-software-telemetry/)
 
 ## Podcast sources
 

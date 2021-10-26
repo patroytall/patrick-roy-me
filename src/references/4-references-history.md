@@ -37,6 +37,8 @@
 - [A Crash Course in CQRS Patterns](https://jc1175.medium.com/a-crash-course-in-cqrs-patterns-a8511f2a9b27)
 - [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 - [A tactical approach to manage Technical Debt in a feature team](https://medium.com/doctolib/a-tactical-approach-to-manage-technical-debt-in-a-feature-team-f9bde883d731)
+- [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/)
+- [Building Your Own Agile Team Maturity Assessment](https://www.infoq.com/articles/agile-team-maturity-assessment/)
 
 ## Documentation
 - [How they SRE](https://github.com/upgundecha/howtheysre)
