@@ -18,6 +18,7 @@
 - [The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE) 📽️
 
 ## Architecture
+- [Top 10 Tips You Should Know As A Modern Software Architect- Ankur Kumar](https://ankurkumarz.medium.com/top-10-tips-you-should-know-as-a-modern-software-architect-8e602c6c998f) 📝
 - [The Seven Deadly Sins of Microservices - Daniel Bryant](https://www.infoq.com/presentations/7-sins-microservices/) 📽️
 - [Microservice Patterns - Chris Richardson](https://www.se-radio.net/2019/06/episode-370-chris-richardson-on-microservice-patterns/) 🔊
 - [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm) 🏠
