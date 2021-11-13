@@ -55,7 +55,7 @@ Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
 Sherlock                | 9 | 1/2 | Netflix
-Sqid Game               | 8 | 0/1 | Netflix
+Sqid Game               | 8 | 1/1 | Netflix
 Stranger Things         | 8 | 1/4 | Netflix
 Witcher (The)           | 8 | 1/2 | Netflix
 
