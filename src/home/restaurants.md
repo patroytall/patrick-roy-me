@@ -43,6 +43,7 @@ Boucan Smokehouse (Le)                                                          
 [Geppetto Piza](http://geppettopizza.com/)                                                    | Rosemont-la-petite-patrie and Griffintown | Beaubien et Notre-Dame | Italien
 Greenspot                                                                                     | St-Henry | Notre-Dame
 [Hurley's Irish Pub](http://www.hurleysirishpub.com/)                                         | Centre ville | Crescent | English Pub
+[Jardins Sauvages (Les)](https://jardinssauvages.com/)                                        | Saint Roch de l'Achigan | | | gastronomique
 [Juliette et Chocolat](https://www.julietteetchocolat.com/pages/notre-menu)                   | Centre ville | St-Denis
 [Knox Taverne](http://www.knoxtaverne.com/)                                                   | Pointe-St-Charles | Centre
 [Kuto](https://kuto.ca/emplacement/griffintown/)                                              | Griffintown | Peel | Tartare et pokebol
