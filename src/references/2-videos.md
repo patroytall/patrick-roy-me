@@ -19,9 +19,6 @@
   - [SaaS Deep Dive: Designing and Building Multi-Tenant Solutions - Tod Golding](https://www.youtube.com/watch?v=joz0DoSQDNw)
   - [Agility is Inefficient - Klaus Bucka-Lassen](https://www.youtube.com/watch?v=q6sq5ktP_3g&t=875s)
 
-- [Continuous Delivery - Dave Farley](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
-  - [The Problem With Microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI&t=417s)
-  - [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
   - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&t=577s)
 - [IT Revolution](https://www.youtube.com/c/ITRevolution)

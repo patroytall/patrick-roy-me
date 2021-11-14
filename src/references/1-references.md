@@ -7,6 +7,11 @@
   - [Agile back to basics - Cynical Developer](https://cynicaldeveloper.com/podcast/125/) and [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/) 🔊
   - Programmer's profession future: [Voxxed](https://www.youtube.com/watch?v=LmRl0D-RkPU), [goto;](https://www.youtube.com/watch?v=Tng6Fox8EfI), and [AgileMontreal](https://www.youtube.com/watch?v=FedQ2NlgxMI) 📽️
 
+- [Continuous Delivery - Dave Farley](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g) 🏭
+  - [The Problem With Microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI&t=417s) 📽️
+  - [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU) 📽️
+  - [The Pros and Cons of DevOps](https://www.youtube.com/watch?v=1Mcpir3Frtw) 📽️
+
 - [Martin Fowler (ThoughtWorks)](https://martinfowler.com/tags/index.html) 🏠
   - [Microservices](https://martinfowler.com/articles/microservices.html) 📝
   - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) 📝
