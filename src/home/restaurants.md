@@ -42,6 +42,7 @@ Boucan Smokehouse (Le)                                                          
 [Furco (bar)](http://www.barfurco.com/)                                                       | Centre Ville | | | Bar
 [Geppetto Piza](http://geppettopizza.com/)                                                    | Rosemont-la-petite-patrie and Griffintown | Beaubien et Notre-Dame | Italien
 Greenspot                                                                                     | St-Henry | Notre-Dame
+[Hà](https://restaurantha.com/)                                                               | Vieux Montréal | McGill | Asiatique
 [Hurley's Irish Pub](http://www.hurleysirishpub.com/)                                         | Centre ville | Crescent | English Pub
 [Jardins Sauvages (Les)](https://jardinssauvages.com/)                                        | Saint Roch de l'Achigan | | | gastronomique
 [Juliette et Chocolat](https://www.julietteetchocolat.com/pages/notre-menu)                   | Centre ville | St-Denis
@@ -73,7 +74,7 @@ Restaurant Frida                                                                
 [Santa Lucia](https://santalucia.restaurant/)                                                 | Centre ville | | Italien
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar
 [Sésame](https://sesamerestaurant.ca/)                                                        | | Marché Atwater | Asiatique
-[Shay Express](https://www.shayexpress.com/)                                                  | Griffintown | | Libanais
+[Shay](https://www.shaymtl.com/)                                                              | Griffintown | Notre-Dame | Libanais
 [Siam](https://www.restaurantsiam.com/menus-siam-centre-ville)                                | Centre ville | | Asiatique
 [Spanel Crepes & Gourmets](http://www.spanel.ca/en/)                                          | | Notre-Dame
 [Sud West Giros and Cie](https://www.sudwest.ca/)                                             | | Notre-Dame

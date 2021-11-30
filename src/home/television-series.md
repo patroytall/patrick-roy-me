@@ -43,14 +43,15 @@ Luke Cage               | 6 | 2/2 | Netflix
 Mad Men                 | 7 | 6/7 | Netflix
 Narcos                  | 8 | 1/3 | Netflix
 Never Hava I Ever       | 7 | 1/2 | Netflix
-New Amsterdam           | 8 | 1/5 | Netflix
+New Amsterdam           | 8 | 3/5 | Netflix
 OA (The)                | 6 | 1/2 | Netflix
 Orange Is the New Black | 7 | 1/7 | Netflix
 Ozark                   | 7 | 3/4 | Netflix
 Peaky Blinders          | ? | 1/5 | Netflix
+Prodigal Son            | 8 | 1/2 | Netflix
 Rake                    | 8 | 2/5 | Netflix
 Santa Clarita Diet      | 6 | 0/2 | Netflix
-Seinfeld                | 8 | 1/9 | Netflix
+Seinfeld                | 8 | 2/9 | Netflix
 Sense                   | 8 | 1/3 | Netflix
 Sex Education           | 7 | 1/2 | Netflix
 Shameless               | 8 | 2/10 | Netflix
@@ -63,9 +64,11 @@ French television series I am watching or for which I am waiting for new episode
 
 | Name             | Rating | Seasons | Availability | Comments |
 |------------------|--------|---------|--------------|----------|
+Entre deux draps   | 8 | 1/2 | Noovo.ca
 Faits divers       | 8 | 3/3 | TOU.TV
-Family Business    | 6 | 2/3 | Netflix
+Family Business    | 6 | 3/3 | Netflix
 Les beaux malaises | 8 | 2/2 | TVA
+Les mecs           | 7 | 1/2 | TOU.TV
 …Moi non plus!     | 8 | 1/1 | Noovo
 
 ## Finished
