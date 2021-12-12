@@ -17,9 +17,11 @@ sitemap:
 
 [Chana Masala - Becel](https://www.becel.ca/fr-ca/recipe/chana-masala-204621)
 
+[Croquettes de légumes](https://www.joseedistasio.ca/recettes/entrees-accompagnements/croquettes-de-legumes/)
+
 [Gâteau aux pommes - Savourer](https://savourer.ca/recette/gateau-pommes/)
 
-[« Tajine » de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
+[«Tajine» de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
 
 [Le meilleur Mac’n Cheese au monde](https://lynestemarie.com/a-la-une/le-meilleur-macn-cheese-au-monde/)
 

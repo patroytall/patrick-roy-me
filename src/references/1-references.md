@@ -34,6 +34,7 @@
 - [What I Wish I Had Known Before Scaling Uber to 1000 Services - Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY) 📽️
 - [Implementing a workflow for your Architecture Decisions Records](https://asiermarques.medium.com/implementing-a-workflow-for-your-architecture-decisions-records-ab5b55ee2a9d) 📝
 - [Solution Architecture Patterns](https://github.com/chanakaudaya/solution-architecture-patterns) 🗄️
+- [Don't Let the Internet Dupe You, Event Sourcing is Hard](https://chriskiehl.com/article/event-sourcing-is-hard) 📝
 
 ## Principles
 - [My Engineering Axioms - Martin Rue](https://martinrue.com/my-engineering-axioms/) ✍
@@ -41,6 +42,7 @@
 
 ## Agile
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/iso/en/manifesto.html) and [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html) 📝
+- [Continuous Deployment](https://www.scaledagileframework.com/continuous-deployment/) 📝
 - [Agile stories - INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) 📝
 - [Why Story Pointing Needs to Die](https://medium.com/swlh/why-story-pointing-needs-to-die-e60a775f9d37) 📝
 
