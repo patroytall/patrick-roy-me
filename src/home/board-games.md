@@ -5,6 +5,11 @@ sitemap:
 
 # Board Games
 
+Modern board games are a great way to spend quality time with friends. Modern board games are better designed. They account for the reality of busy life and different type of personalities. For example, many of them play relatively quickly. The game mechanics are rich but at the same time easy to learn. I often say that there is a board game for everyone. You just have to find it.
+
+Of special interests are the cooperative board games where players play together to achieve a common goal. You either all loose or all win. They offer a nice change over the competitive games where one player needs to win over the others. I find that global enjoyment of cooperative game surpasses competitive games. It is harder to design a good cooperative game mechanic thus there are fewer gems in this category.
+
+Every board game brings something different to the table. Try many. Let me know if you need suggestions.
 
 ## Board games I own
 
@@ -21,6 +26,8 @@ sitemap:
 | Game                           | Comment |
 |--------------------------------|---------|
 Dés pirates | Also published as Incan Gold. Review ratings for this game are low but the fun with casual gamers was high. Maybe because it is simplistic. There are multiple editions. The latest edition should be favor for the new relics and the chests to put your gems into.
+
+Suggestions from gaming friends: [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
 ## Card game rules
 
