@@ -53,6 +53,7 @@
 
 ## Programming
 - [LeetCode](https://leetcode.com/problemset/all/) 🏠
+- [The Not-So-Scary Guide to Functional Programming](https://www.yld.io/blog/the-not-so-scary-guide-to-functional-programming/) 📝
 - [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/) 📝
 
 ## Testing
