@@ -50,3 +50,7 @@ sitemap:
 [Soupe aux lentilles à la marocaine à la mijoteuse](https://www.journaldemontreal.com/2020/02/08/soupe-aux-lentilles-a-la-marocaine-a-la-mijoteuse)
 
 [Riz Grecque](http://boblechef.com/recettes/riz-a-la-grecque-comme-au-restaurant)
+
+[Sushis de concombres aux fraîcheurs de légumes](https://ici.radio-canada.ca/mordu/recettes/1861/sushis-concombres-fraicheurs-legumes)
+
+[Champignons farcis au fromage de chèvre](https://www.ricardocuisine.com/recettes/3351-champignons-farcis-au-fromage-de-chevre)
