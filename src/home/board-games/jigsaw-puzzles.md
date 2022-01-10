@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-01-02 - 1000 pieces - Costco
+<p align="center">
+<img alt="Costco" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/board-games/puzzle-costco.jpg"/>
+</p>
+
 ## 2021-12-30 - 1000 pieces - Flying Lessons
 <p align="center">
 <img alt="Flying Lessons" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/board-games/puzzle-flying-lessons.jpg"/>

@@ -54,3 +54,5 @@ sitemap:
 [Sushis de concombres aux fraîcheurs de légumes](https://ici.radio-canada.ca/mordu/recettes/1861/sushis-concombres-fraicheurs-legumes)
 
 [Champignons farcis au fromage de chèvre](https://www.ricardocuisine.com/recettes/3351-champignons-farcis-au-fromage-de-chevre)
+
+[Pâtes crémeuses au poireau et au jambon](https://www.coupdepouce.com/cuisine/plats-principaux/recette/pates-cremeuses-au-poireau-et-au-jambon#cxrecs_s)
