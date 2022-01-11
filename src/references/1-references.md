@@ -69,6 +69,8 @@
 - Event sourcing documentation - [Confluent blog](https://www.confluent.io/blog) ✍ and [Confluent resources](https://www.confluent.io/resources-v2/?language=english) 📝
 
 ## Books
+- Modern Software Engineering by David Farley
+- Team Topologies by Matthew Skelton and Manuel Pais
 - Release It! Second Edition by Michael T. Nygard
 - Clean Code by Robert Cecil Martin (Uncle Bob)
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
