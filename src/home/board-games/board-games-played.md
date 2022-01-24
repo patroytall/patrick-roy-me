@@ -20,6 +20,7 @@ Game Name	Cooperative	Comments
 [Pandemic Legacy: Season 1](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1) Yes One play through only
 [Robo Rally](https://boardgamegeek.com/boardgame/18/roborally) No
 [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler) No
+[Sushi Go Party!](https://boardgamegeek.com/boardgame/192291/sushi-go-party)No
 [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido) No
 [Welcome to the Dungeon](https://boardgamegeek.com/boardgame/150312/welcome-dungeon) No
 

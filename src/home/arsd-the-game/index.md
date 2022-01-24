@@ -1,5 +1,38 @@
 # aRSD - a Reason to Sing and Dance - The Game
 
+
+
+
+
+Introduction
+The name
+aRSD is an acronym for a Reason to Sing and Dance. It is pronounced by spelling the letters r, s, and d one after the other. The a is silent and sort of pronounced as part of the r letter.
+
+What is aRSD?
+What is this supposedly new game about? At the core, it is a game where you guess song titles and artists by listening to music. What is new about it is the use of modern music streaming services to deliver a deep and broad experience which anyone can strongly connect to. The technology is combined with a rule set optimized for a single purpose: fun. This text details how the person running the game should orchestrate the people, the music, the accessories, and the rules to achieve the maximum fun effect.
+
+How is it different?
+aRSD as it name says is just a reason to sing and dance. Singing here is an extension of listening while enjoying the music. Music ties itself to our memories. By listening we feel. By singing we relive. By dancing we commune. The trivia aspect is highly diluted to serve as a concrete vehicle for producing fun. The competitive aspect is an illusion managed by the fun master. You will listen to your most beloved songs, sing along, dance if you have the guts led by trivia and spurred by small joyful victories.
+
+Getting Started
+You are a player wanting to get an overview or deep understanding of the game: aRSD - The Game
+
+You are skeptical about this aRSD thing: Testimonies
+
+You are ready to invest, to be responsible for the fun of your music loving friends: Fun Master Guide
+
+You do not have the required environment or the right people: Game Variants
+
+You are a fun master looking for song lists to get a game going quickly: Song Lists
+
+You want to access shared song list or publish some of yours: Structured Song List Names
+
+
+
+
+
+
+
 ## Overview
 
 ### The Name
@@ -83,6 +116,7 @@ Because the purpose of the game is to have fun, the fun master can be lenient wh
 
 Diagram of the game flow. Make sure you read the steps that follow to get the details.
 
+TODO - insert diagram HERE !!!!!!!!!!!!!!!!! t/image/home/arsd-the-game
 
 ### Game Turn
 
