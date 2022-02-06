@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-02-06 - 1000 pieces - Hockey
+<p align="center">
+<img alt="Hockey" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/board-games/puzzle_hockey.jpg"/>
+</p>
+
 ## 2022-01-14 - 1000 pieces - Venice
 <p align="center">
 <img alt="Venice" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/board-games/puzzle-venice.jpg"/>
