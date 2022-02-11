@@ -20,6 +20,7 @@ Bar Social                                                                      
 [Boris Bistro](http://borisbistro.com/fr/)                                                    | Vieux-Port | | | terrasse
 Boucan Smokehouse (Le)                                                                        | Petite-Patrie
 [Brasseurs de Montreal](https://brasseurdemontreal.com/)                                      | Griffintown
+[Brasserie 701](https://brasserie701.com/)                                                    | View-Port | | Français
 [Brasseries les Soeurs Grises](https://www.bblsg.com/fr-ca)                                   | View Port
 [Brigade Pizza](http://brigadepizza.com/)                                                     | Centre ville | | Italien
 [Burgundy Lion](https://www.burgundylion.com/)                                                | Little Burgundy
