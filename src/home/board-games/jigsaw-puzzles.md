@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-02-12 - 2000 pieces - Living Room
+<p align="center">
+<img alt="Living Room" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-living-room.jpg"/>
+</p>
+
 ## 2022-02-10 - 2000 pieces - Windows (Owned)
 <p align="center">
 <img alt="Windows" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-windows.jpg"/>
