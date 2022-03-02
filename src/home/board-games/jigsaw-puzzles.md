@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-03-01 - 1000 pieces - Parked Boats
+<p align="center">
+<img alt="Parked Boats" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-parked-boats.jpg"/>
+</p>
+
 ## 2022-02-22 - 1000 pieces - Busy Street
 <p align="center">
 <img alt="Busy Street" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-busy-street.jpg"/>
