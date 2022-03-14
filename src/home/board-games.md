@@ -21,6 +21,8 @@ Every board game brings something different to the table. Try many. Let me know 
 [6 nimmt!](https://boardgamegeek.com/boardgame/432/6-nimmt) | <img alt="Deterministic dices" width="50" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/games/owned-card-games/6nimmt-a-1.webp"/>
 [Skip-Bo](https://boardgamegeek.com/boardgame/1269/skip-bo) | <img alt="Deterministic dices" width="50" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/games/owned-card-games/skipbo-a-1.jpg"/>
 
+[Milles Bornes](https://boardgamegeek.com/boardgame/590/mille-bornes) | No
+
 
 Hanabi   https://boardgamegeek.com/boardgame/98778/hanabi
 Machi Koro https://boardgamegeek.com/boardgame/143884/machi-koro

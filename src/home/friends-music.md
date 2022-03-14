@@ -17,68 +17,27 @@ Friend's artists:
 |------------------------------------|----------------|
 Caroline                             | Norah Jones, Mika, Léonard Cohen, Jack johnson, Beatles, Grease, Cabrel, Diane Tell, Harmonium
 François                             | Manu Chao / Emerson Lake & Palmer / Phil Colins / Joe Dassin / Queen
-Jean-Claude                          | Plume Latraverse
-Lucie                                | Madonna, Rihanna
+Jean-Claude                          | Plume Latraverse, Creed, Charlesanavour, Groovy Ardvack, Plume Latraverse
+Lucie                                | Madonna, Rihanna, Daniel Boucher, Les respectables
 Niveen                               | Charles Aznavour, Enrique Iglesias, Marc Anthony, Michael Bublé, Ricky Martin
+Marie B.                             | Queen, Withney Houston
 Mark                                 | P'tit Belliveau
 Mario et Johanne                     | Pink Martini, Diana Krall, Norah Jones, Sam Brown, Julien Clerc, Notre-dame-de-Paris, Hauser, Beau Dommage, Yve Duteil, Andréanne A. Mallet, America, John Legend, Sarah McLachlan, Shakira
 Natalie                              | Peter Gabriel, St Germain, Supertramp, Gotan Project, Murray Head
+Sean V.  | Bush, OutKast
+Mireille | Marvin Gaye, Kate Ryan, ColdPlay
 
 Friend's songs:
 
 | Friend                             | Songs        |
 |------------------------------------|--------------|
 Geneviève                            | Beggin'
-Lucie                                | Wonderwall
+Lucie                                | Wonderwall, Borderline, Don’t stop the Music, La desise
+Jean-Claude     | Torn, Emmenez moi, Petit bonheur, Chanson Jean Claude
+Marie B. | We will Rock You, My heart will go on
+Sean V. | Machine Head, Hey ya
+Mireille | Ain’t no mountain High Enough, Ella Ella (radio version)
 
-
-
-Lucie
-
-Madonna - Borderline
-
-Don’t stop the Music - Rihanna
-
-Daniel Boucher - La desise
-
-Les respectables
-
-
-Jean-Claude
-
-Creed - Torn
-
-Charlesanavour - Emmenez moi
-
-Groovy Ardvack - Petit bonheur
-
-Plume Latraverse - Chanson Jean Claude
-
- 
-
-Marie Bdrdn
-
-Queen - We will Rock You
-
-Withney Houston - My heart will go on
-
- 
-
-Sean Viens
-
-Bush - Machine Head
-
-OutKast - Hey ya
-
- 
-
-Mireille
-
-Marvin Gaye - Ain’t no mountain High Enough
-
-Kate Ryan - Ella Ella (radio version)
-
- 
 
 Christian
 

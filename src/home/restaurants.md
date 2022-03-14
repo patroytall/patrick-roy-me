@@ -66,6 +66,7 @@ Paris Crêpe                                                                    
 [Pizzeria Caldo](https://www.pizzeriacaldo.com/)                                              | Rosemont-la-petite-patrie | | Italien
 [Pizzeria NO.900](https://no900.com/)                                                         | Griffintown | | Italien
 [Philémon bar](https://www.philemonbar.com/)                                                  | Vieux Montréal | | | Bar
+[Pub McCarold](https://pubmccarold.com/en/home/)                                              | Côte-des-Neiges
 [Quai #4](https://www.quaino4.ca/)                                                            | Rosemont-la-petite-patrie | Beaubien
 [Rasoï](http://www.rasoimontreal.com/)                                                        |Griffintown | Notre-Dame | Indien
 Restaurant Frida                                                                              | | Atwater | Mexicain

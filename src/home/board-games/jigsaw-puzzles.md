@@ -5,6 +5,12 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-03-13 - 1000 pieces - Paris
+<p align="center">
+<img alt="Paris" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-paris.jpg"/>
+</p>
+
+
 ## 2022-03-01 - 1000 pieces - Parked Boats
 <p align="center">
 <img alt="Parked Boats" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-parked-boats.jpg"/>
