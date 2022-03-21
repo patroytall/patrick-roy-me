@@ -2,7 +2,7 @@
 
 ## Leaders
 - Robert C. Martin (Uncle Bob)
-  - [Clean Coder](http://blog.cleancoder.com/)  ✍ and [Uncle Bob](http://butunclebob.com/) ✍
+  - [Clean Coder](http://blog.cleancoder.com/) ✍ and [Uncle Bob](http://butunclebob.com/) ✍
   - [Last Programming Language](https://cleancoders.com/episode/clean-code-episode-0/show) 📽️ and [Clean Coders](https://cleancoders.com/episode/clean-code-episode-1/show) 📽️
   - [Agile back to basics - Cynical Developer](https://cynicaldeveloper.com/podcast/125/) and [Clean Software, Craftsperson, Origins of SOLID, DDD, & Software Ethics](https://www.infoq.com/podcasts/uncle-bob-solid-ddd/) 🔊
   - Programmer's profession future: [Voxxed](https://www.youtube.com/watch?v=LmRl0D-RkPU), [goto;](https://www.youtube.com/watch?v=Tng6Fox8EfI), and [AgileMontreal](https://www.youtube.com/watch?v=FedQ2NlgxMI) 📽️
@@ -12,7 +12,7 @@
   - [Object Oriented Programming vs Functional Programming](https://www.youtube.com/watch?v=wyABTfR9UTU) 📽️
   - [The Pros and Cons of DevOps](https://www.youtube.com/watch?v=1Mcpir3Frtw) 📽️
 
-- [Martin Fowler (ThoughtWorks)](https://martinfowler.com/tags/index.html) 🏠
+- [Martin Fowler](https://martinfowler.com/tags/index.html) 🏠 and [ThoughtWorks](https://www.thoughtworks.com/) 🏠
   - [Microservices](https://martinfowler.com/articles/microservices.html) 📝
   - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) 📝
   - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html) 📝
@@ -69,8 +69,8 @@
 - Event sourcing documentation - [Confluent blog](https://www.confluent.io/blog) ✍ and [Confluent resources](https://www.confluent.io/resources-v2/?language=english) 📝
 
 ## Books
-- Modern Software Engineering by David Farley
 - Team Topologies by Matthew Skelton and Manuel Pais
+- Modern Software Engineering by David Farley
 - Release It! Second Edition by Michael T. Nygard
 - Clean Code by Robert Cecil Martin (Uncle Bob)
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman

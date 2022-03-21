@@ -24,7 +24,7 @@ Daredevil               | 7 | 2/3 | Netflix | Atmos
 Dark                    | ? | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me              | 7 | 0/2 | Netflix
 Doctor Who              | 7 | 2/8 | ?
-Emily in Paris          | 7 | 1/2
+Emily in Paris          | 7 | 2/2 | Netflix
 F1: Drive to Survive    | 8 | 1/4 | Netflix | Atmos
 Good Place (The)        | 6 | 3/4 | Netflix
 Good Wife (The)         | 7 | 4/7 
