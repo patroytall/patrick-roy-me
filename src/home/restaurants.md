@@ -77,6 +77,7 @@ Restaurant Frida                                                                
 [Santa Lucia](https://santalucia.restaurant/)                                                 | Centre ville | | Italien
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar
 [Sésame](https://sesamerestaurant.ca/)                                                        | | Marché Atwater | Asiatique
+[Sir Winston Churcill Pub Complex](https://www.swcpc.com/)                                    | Centre Ville | Crescent | English Pub
 [Shay](https://www.shaymtl.com/)                                                              | Griffintown | Notre-Dame | Libanais
 [Siam](https://www.restaurantsiam.com/menus-siam-centre-ville)                                | Centre ville | | Asiatique
 [Spanel Crepes & Gourmets](http://www.spanel.ca/en/)                                          | | Notre-Dame

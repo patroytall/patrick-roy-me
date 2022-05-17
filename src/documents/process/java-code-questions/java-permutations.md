@@ -30,46 +30,19 @@ import java.io.*;
 import java.util.*;
 
 class Solution {
-  public static List<String> fizzBuzz(int n) {
-    return new ArrayList<String>();
+  public static List<List<Integer>> permute(int[] nums) {
+    return new ArrayList<List<Integer>>();
   }
- 
+
   public static void main(String[] args) {
-    System.out.println(fizzBuzz(3));
+    System.out.println(permute(new int[]{1,2,3}));
   }
 }
 ```
+
 https://leetcode.com/problems/permutations/
 
 ## Solution - Reverse String
-
-```javascript
-/**
- * @param {number[]} nums
- * @return {number[][]}
- */
-var permute = function(nums) {
-  return rec(nums);
-};
-
-function rec(nums) {
-  if (nums.length === 1) {
-    return nums;
-  }
-  const first = nums[0];
-  const rest = nums.slice(1);
-  const result = [];
-  for (let i = 0; i < nums.length; i++) {
-    const subs = rest.length > 1 ? rec(rest) : [rest];
-    for (sub of subs) {
-      const sub2 = sub.slice();
-      sub2.splice(i, 0, first);
-      result.push(sub2);
-    }
-  }
-  return result;
-}
-```
 
 ```java
 import java.util.ArrayList;

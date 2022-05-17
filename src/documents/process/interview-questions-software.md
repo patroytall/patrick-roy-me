@@ -20,7 +20,7 @@ privates. Comments for API and non-obvious logic.
 
 State and function separation. Complexity. Real world modeling. Testing. Refactoring.
 
-**Do you have a personnal programming projet? 
+**Do you have a personnal programming projet?**
 
 GitHub, Bitbucket or live site.
 

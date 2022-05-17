@@ -1,6 +1,6 @@
 # About Me
 
-My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [GitHub](https://github.com/patroytall) and [influences](../references/index.md). I am fluent in French and English.
+My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [influences](../references/index.md), [My LeetCode](https://github.com/patroytall/leetcode), [GitHub](https://github.com/patroytall). I am fluent in French and English.
 
 I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, and security. I currently work for Québecor Média as a lead architect.
 

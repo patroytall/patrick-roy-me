@@ -30,7 +30,7 @@ import java.util.*;
 
 class Solution {
   public static char[] reverseString(char[] s) {
-    return "".toCharArray();
+    return s;
   }
 
   public static void main(String[] args) {
