@@ -26,11 +26,23 @@ No, unless you have a reference to a class object of T.
 [Stack Overflow](https://stackoverflow.com/questions/75175/create-instance-of-generic-type-in-java) and [Oracle](https://docs.oracle.com/javase/tutorial/java/generics/why.html)
 
 
-## Primitives
+## Primitives and Objects
 
 **Can autoboxing or unboxing return a null pointer exception? If yes, when?**
 
 Yes, unboxing a Long null value used in long context.
+
+**What is the value of `Math.min(Double.MIN_VALUE, 0.0d)`**
+
+0.0
+
+[Java Documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/Double.html)
+
+**What does the expression `1.0/0.0` return? will it throw Exception? compile-time error?**
+
+`Double.INFINITY`
+
+[Stack Overflow](https://stackoverflow.com/questions/14137989/java-division-by-zero-doesnt-throw-an-arithmeticexception-why)
 
 
 ## Variables
@@ -102,7 +114,18 @@ Slower string builder performance compare to explicit string builder. Should be 
 
 **Why are Java strings immutable? How are string literals handled by the JVM?**
 
-Increases system predictability, even across threads. Cached hash code. Can be re-used. Greater security. Literals are pooled in JVM scope.
+Increases system predictability, even across threads. Cached hash code for HashMap. Can be re-used. Greater security. Literals are pooled in JVM scope.
+
+[Stack Overflow](https://stackoverflow.com/questions/22397861/why-is-string-immutable-in-java)
+
+
+## Operators
+
+**Why Java does not support Operator Overloading**
+
+Compiler and software design simplicity. Clearer syntax for readable code. String and numeric '+' are different operators.
+
+[Stack Overflow](https://stackoverflow.com/questions/3559563/why-doesnt-java-need-operator-overloading)
 
 
 ## Class & methods
@@ -181,6 +204,18 @@ Volatile ensure correct thread visibility. Atomic guaranties read/write atomicit
 **How does synchronized on a static method work?**
 
 The class instance is locked.
+
+**Why wait and notify is declared in Object class instead of Thread?**
+
+If they were on the Thread instead then each thread would have to know the status of every other thread. Monitor is assigned to the object.
+
+[Stack Overflow](https://stackoverflow.com/questions/17840397/concept-behind-putting-wait-notify-methods-in-object-class)
+
+**Why wait and notify called from a synchronized method in Java?**
+
+Semantically, you never just wait(). You need a condition to be satsified by an other thread.
+
+[Stack Overflow](https://stackoverflow.com/questions/2779484/why-must-wait-always-be-in-synchronized-block)
 
 
 ## Closeable
