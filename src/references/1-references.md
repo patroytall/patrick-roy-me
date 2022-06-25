@@ -20,6 +20,7 @@
 
 ## Wonders
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) 📽️
+- [The Road to General AI - Danny Lange](https://www.youtube.com/watch?v=mnstO5j65gI) 📽️
 - [The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE) 📽️
 
 ## Architecture

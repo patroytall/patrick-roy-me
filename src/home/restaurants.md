@@ -35,7 +35,7 @@ Boucan Smokehouse (Le)                                                          
 [El Sabor de Mexico](https://www.elsabordemexico.ca/)                                         | Verdun | Wellington | Mexicain
 [Enfants Terribles (Les)](https://www.jesuisunenfantterrible.com/)                            | Centre Ville | | | vue!
 [Enoteca Monza Downtown](http://www.restaurantmonza.com/)                                     | Centre ville | | Italien
-[Entrepôt (L')](https://entrepot-montroyal.com/)                                              | Plateau | | | bon prix
+[Entrepôt (L')](https://entrepot-montroyal.com/)                                              | Plateau | Mont-Royal et St-Laurent | | bon prix
 [Escondite](http://www.escondite.ca/)                                                         | Centre Ville | | Mexicain
 [Express (L')](http://restaurantlexpress.com/en/)                                             | Plateau | St-Denis
 [Fiorellino](http://fiorellino.ca/petite-bourgogne.html)                                      | Petite Bourgogne | Notre-Dame | Italien - Pizza
@@ -93,4 +93,5 @@ Thali                                                                           
 [Trevi Pizerria](https://www.trevi-restobar.com/)                                             | Verdun | | | Karaoke
 [Universel Déjeuners et Grillades](http://stecatherine.resto-universel.com/en/)               | Centre ville
 [Vallier Bistro](https://vallierbistro.com/en/)                                               | Vieux Montréal | | French
+[Wolf and Workman](https://www.wolfandworkman.com/)                                           | View Montréal | | Pub
 [Zibo](https://www.restaurantszibo.com/the-restos/centre-ville)                               | Griffintown

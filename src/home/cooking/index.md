@@ -13,11 +13,15 @@ sitemap:
 
 [Boulettes Asiatique](https://foodlavie.com/recettes/boulettes-a-l-asiatique)
 
+[Champignons farcis au fromage de chèvre](https://www.ricardocuisine.com/recettes/3351-champignons-farcis-au-fromage-de-chevre)
+
 [Chana Masala - La cuisine de Jean-Philippe](https://www.lacuisinedejeanphilippe.com/recipe/chana-masala/)
 
 [Chana Masala - Becel](https://www.becel.ca/fr-ca/recipe/chana-masala-204621)
 
 [Croquettes de légumes](https://www.joseedistasio.ca/recettes/entrees-accompagnements/croquettes-de-legumes/)
+
+[Galets de crevettes nordiques et aïoli](https://ici.radio-canada.ca/mordu/recettes/6035/galets-crevettes-nordiques-aioli)
 
 [Gâteau aux pommes - Savourer](https://savourer.ca/recette/gateau-pommes/)
 
@@ -30,6 +34,8 @@ sitemap:
 [Marinade Grecque - Poulet](http://www.recettes.qc.ca/recettes/recette/marinade-a-la-grecque-b-b-q-279)
 
 [Pain ménage de nos grands-mères](https://chefcuisto.com/recette/pain-menage-de-nos-grands-meres/)
+
+[Pâtes crémeuses au poireau et au jambon](https://www.coupdepouce.com/cuisine/plats-principaux/recette/pates-cremeuses-au-poireau-et-au-jambon#cxrecs_s)
 
 [Patates Grecques](http://www.recettes.qc.ca/recettes/recette/patates-grecques-215493)
 
@@ -49,10 +55,9 @@ sitemap:
 
 [Soupe aux lentilles à la marocaine à la mijoteuse](https://www.journaldemontreal.com/2020/02/08/soupe-aux-lentilles-a-la-marocaine-a-la-mijoteuse)
 
+[Soupe indienne de lentilles rouges](https://www.joseedistasio.ca/recettes/soupes-potages/soupe-indienne-de-lentilles-rouges/)
+
 [Riz Grecque](http://boblechef.com/recettes/riz-a-la-grecque-comme-au-restaurant)
 
 [Sushis de concombres aux fraîcheurs de légumes](https://ici.radio-canada.ca/mordu/recettes/1861/sushis-concombres-fraicheurs-legumes)
 
-[Champignons farcis au fromage de chèvre](https://www.ricardocuisine.com/recettes/3351-champignons-farcis-au-fromage-de-chevre)
-
-[Pâtes crémeuses au poireau et au jambon](https://www.coupdepouce.com/cuisine/plats-principaux/recette/pates-cremeuses-au-poireau-et-au-jambon#cxrecs_s)
