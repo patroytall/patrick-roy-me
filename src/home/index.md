@@ -11,5 +11,4 @@ sitemap:
 
 ## [Television Series](./television-series.md)
 
-# [Cooking](./cooking.md)
-
+# [Cooking](./cooking/index.md)
