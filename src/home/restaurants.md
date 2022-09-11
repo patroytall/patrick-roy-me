@@ -13,6 +13,7 @@ sitemap:
 Bar Social                                                                                    | Verdun | Wellington
 [Belle et le Boeuf (La)](https://belleetboeuf.com/belle-et-la-boeuf-1620-ste-catherine-ouest) | Centre ville | St-Catherine | | DJ
 [Bird Bar](https://lebirdbar.com/fr)                                                          | Griffintown | | | Poulet
+[Biiru](https://www.restomontreal.ca/resto/biiru-montreal/7237/en/)                           | Centre ville | | Japonais
 [Bistro Pub NYK's](https://www.nyks.ca/)                                                      | Centre ville | St-Catherine | | bière Gros Tigre
 [Bistro Richmond (Le)](http://lerichmond.com/en/marche-italien/)                              | Griffintown | | Italien
 [Blackstrap BBQ](https://blackstrapbbq.ca/)                                                   | Verdun | Wellington

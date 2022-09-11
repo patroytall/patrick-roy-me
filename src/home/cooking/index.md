@@ -21,17 +21,17 @@ sitemap:
 
 [Croquettes de légumes](https://www.joseedistasio.ca/recettes/entrees-accompagnements/croquettes-de-legumes/)
 
+[Filets de porc aux pommes, farcis aux oignons caramélisés](https://www.ricardocuisine.com/recettes/2293-filets-de-porc-aux-pommes-farcis-aux-oignons-caramelises)
+
 [Galets de crevettes nordiques et aïoli](https://ici.radio-canada.ca/mordu/recettes/6035/galets-crevettes-nordiques-aioli)
 
 [Gâteau aux pommes - Savourer](https://savourer.ca/recette/gateau-pommes/)
 
-[«Tajine» de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
-
-[Le meilleur Mac’n Cheese au monde](https://lynestemarie.com/a-la-une/le-meilleur-macn-cheese-au-monde/)
-
 [Linguines au saumon fumé](https://www.recettes.qc.ca/recettes/recette/linguines-au-saumon-fume-138179)
 
 [Marinade Grecque - Poulet](http://www.recettes.qc.ca/recettes/recette/marinade-a-la-grecque-b-b-q-279)
+
+[Meilleur Mac’n Cheese au monde (Le)](https://lynestemarie.com/a-la-une/le-meilleur-macn-cheese-au-monde/)
 
 [Pain ménage de nos grands-mères](https://chefcuisto.com/recette/pain-menage-de-nos-grands-meres/)
 
@@ -45,19 +45,22 @@ sitemap:
 
 [Poulet à l'indienne (Ricardo)](https://www.ricardocuisine.com/recettes/4509-poulet-a-l-indienne)
 
+[Riz Grecque](http://boblechef.com/recettes/riz-a-la-grecque-comme-au-restaurant)
+
+[Riz mexicain](https://www.5ingredients15minutes.com/fr/recettes/accompagnements/riz-mexicain/)
+
+[Sauce Pad Thai facile](https://www.auboutdelalangue.com/2017/01/15/sauce-a-pad-thai-facile/)
+
 [Salade de brocoli et pois chiches grillés](https://www.kpourkatrine.com/fr/recettes/salade-de-brocolis-et-pois-chiches-grilles/)
 
 [Salade Grecque](https://www.ricardocuisine.com/recettes/5551-salade-grecque)
-
-[Filets de porc aux pommes, farcis aux oignons caramélisés](https://www.ricardocuisine.com/recettes/2293-filets-de-porc-aux-pommes-farcis-aux-oignons-caramelises)
-
-[Sauce Pad Thai facile](https://www.auboutdelalangue.com/2017/01/15/sauce-a-pad-thai-facile/)
 
 [Soupe aux lentilles à la marocaine à la mijoteuse](https://www.journaldemontreal.com/2020/02/08/soupe-aux-lentilles-a-la-marocaine-a-la-mijoteuse)
 
 [Soupe indienne de lentilles rouges](https://www.joseedistasio.ca/recettes/soupes-potages/soupe-indienne-de-lentilles-rouges/)
 
-[Riz Grecque](http://boblechef.com/recettes/riz-a-la-grecque-comme-au-restaurant)
-
 [Sushis de concombres aux fraîcheurs de légumes](https://ici.radio-canada.ca/mordu/recettes/1861/sushis-concombres-fraicheurs-legumes)
 
+[Tacos aux crevettes et salsa à la mangue](https://www.ricardocuisine.com/recettes/8384-tacos-aux-crevettes-et-salsa-a-la-mangue)
+
+[«Tajine» de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
