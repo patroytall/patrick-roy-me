@@ -19,17 +19,19 @@ I strongly believe in continuous delivery because it increases average feature a
 
 I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications with high availability. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
 
+No estimates advocate: [Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms&t=29s), [David Farley](https://www.youtube.com/watch?v=v21jg8wb1eU&t=267s), and [SWAG wiki](https://en.wikipedia.org/wiki/Scientific_wild-ass_guess#:~:text=Scientific%20wild%2Dass%20guess%20(SWAG,portmanteau%20of%20guess%20and%20estimate).
+
 I am an avid learner. Every day, through books, articles, videos, podcasts, and discussions, I continue the infinite journey of trying to be a relevant software architect. Recent books: [Team Topologies](https://teamtopologies.com/), [Modern Software Engineering](https://www.youtube.com/watch?v=80LbSyTCKas), and [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/).
 
 This performance testing tool company published [my testimony](https://k6.io/testimonials).
 
 ## Lessons
 
-Things change. No point trying to predict in which direction.
+Things change. No point trying to predict in which direction. Introducing change is hard; something to do with human nature I think.
 
 We can only solve problems if we believe it possible; be optimistic. People hear what leaders say.
 
-Risk is here to stay. Decide and live with the consequences.
+Risk is everywhere. Decide and live with the consequences.
 
 Efficiency includes respect and empathy.
 
@@ -116,6 +118,8 @@ Deliver fast and often so you can fix without costly investigation. Production m
 Cloud based applications is the largest paradigm shift I have experienced. A mesh of services tied with a small amount of code to deliver massive functionality.
 
 AI; Intriguing these black box models but so powerful when accurate. Although new, it is still all about the data.
+
+Event driven systems are like purring cats. Silence is the alarm bell.
 
 Configuration as code brings much needed automation and traceability but not everything is idempotent. You will need to get creative. Automate, automate, automate.
 

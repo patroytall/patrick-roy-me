@@ -28,6 +28,7 @@ Boucan Smokehouse (Le)                                                          
 [Cafe du nouveau monde](https://www.tnm.qc.ca/cafe-du-nouveau-monde/menu/)                    | Centre ville
 [Cafe Cantina](http://www.cafe-cantina.ca/)                                                   | Verdun | | Mexicain
 [Cafe Farina](https://www.caffefarina.com/)                                                   | Little Burgundy | | Italien
+[Cantina (La)](https://www.facebook.com/lacantina514/)                                        | Centre ville | | Mexicain
 [Carolos & Pepes](http://www.carlospepes.com/)                                                | Centre ville | | Mexicain
 [Central (le)](https://lecentral.ca/)                                                         | Centre ville | St-Laurent | | 25 restaurants
 [Devile Dinerbar](http://devilledinerbar.com/)                                                | Montréal
@@ -53,6 +54,7 @@ Greenspot                                                                       
 [Kuto](https://kuto.ca/emplacement/griffintown/)                                              | Griffintown | Peel | Tartare et pokebol
 [Labarake](http://labarake.com/)                                                              | Angus | Rachel | |
 [Le Mile Public House](https://www.milepublichouse.com/brossard/)                             | Brossard | | | Dix/30
+[Lime](https://www.limegriffintown.ca/index_english.html)                                     | Griffintown | | Asiatique
 [Lola Rosa](https://lolarosa.ca/)                                                             | Centre ville | St-Catherine | | Végétarien
 [Lord William](https://lordwilliampub.com/)                                                   | Griffintown | | | English pub
 [Lounge L'un et l'autre](http://lun-lautre.com/)                                              | Village | | | Bar

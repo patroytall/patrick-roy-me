@@ -64,3 +64,7 @@ sitemap:
 [Tacos aux crevettes et salsa à la mangue](https://www.ricardocuisine.com/recettes/8384-tacos-aux-crevettes-et-salsa-a-la-mangue)
 
 [«Tajine» de poulet sur une plaque](https://www.ricardocuisine.com/recettes/6504-tajine-de-poulet-sur-une-plaque)
+
+[Plum Torte](https://leitesculinaria.com/57048/recipes-plum-torte.html)
+
+[BURRATA COULANTE AUX TOMATES CERISES ET AUX HERBES FINES](https://www.jeanfrancoisplante.ca/entr%C3%A9es)
