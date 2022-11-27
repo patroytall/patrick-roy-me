@@ -68,3 +68,11 @@ sitemap:
 [Plum Torte](https://leitesculinaria.com/57048/recipes-plum-torte.html)
 
 [BURRATA COULANTE AUX TOMATES CERISES ET AUX HERBES FINES](https://www.jeanfrancoisplante.ca/entr%C3%A9es)
+
+[Sauce Chimichurri](https://www.ricardocuisine.com/recettes/9096-sauce-chimichurri)
+
+[Salade de riz aux pommes et au poivron](https://www.ricardocuisine.com/recettes/6422-salade-de-riz-aux-pommes-et-au-poivron)
+
+[Tarte pommes sirop erable simplissime](https://missioncuisineurbaine.com/tarte-pommes-sirop-erable-simplissime/)
+
+[Healthy Lemon Blueberry Cake](https://thebigmansworld.com/healthy-lemon-blueberry-loaf-cake/)
