@@ -71,7 +71,7 @@ Paris Crêpe                                                                    
 [Philémon bar](https://www.philemonbar.com/)                                                  | Vieux Montréal | | | Bar
 [Pub McCarold](https://pubmccarold.com/en/home/)                                              | Côte-des-Neiges
 [Quai #4](https://www.quaino4.ca/)                                                            | Rosemont-la-petite-patrie | Beaubien
-[Rasoï](http://www.rasoimontreal.com/)                                                        |Griffintown | Notre-Dame | Indien
+[Rasoï](http://www.rasoimontreal.com/)                                                        | Griffintown | Notre-Dame | Indien
 Restaurant Frida                                                                              | | Atwater | Mexicain
 [Robin des Bois](https://robindesbois.ca/en/)                                                 | Plateau
 [Rockaberry Griffintown](https://www.rockaberry.ca/)                                          | Griffintown | note-Dame | | Dessert
@@ -81,6 +81,7 @@ Restaurant Frida                                                                
 [Santos](https://www.ilovesantos.ca/)                                                         | Vieux Montreal | | | Trendy bar
 [Sésame](https://sesamerestaurant.ca/)                                                        | | Marché Atwater | Asiatique
 [Sir Winston Churcill Pub Complex](https://www.swcpc.com/)                                    | Centre Ville | Crescent | English Pub
+[Shack Attakk](https://shackattakk.com/)                                                      | Rosemont-la-petite-patrie | Beaubien
 [Shay](https://www.shaymtl.com/)                                                              | Griffintown | Notre-Dame | Libanais
 [Siam](https://www.restaurantsiam.com/menus-siam-centre-ville)                                | Centre ville | | Asiatique
 [Spanel Crepes & Gourmets](http://www.spanel.ca/en/)                                          | | Notre-Dame

@@ -5,6 +5,16 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2022-12-30 - 1000 pieces - Mont Saint-Michel
+<p align="center">
+<img alt="Mountain Village Winter" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-mont-saint-michel.jpg"/>
+</p>
+
+## 2022-11-12 - 1000 pieces - Birds
+<p align="center">
+<img alt="Mountain Village Winter" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-birds.jpg"/>
+</p>
+
 ## 2022-03-19 - 1000 pieces - Mountain Village Winter
 <p align="center">
 <img alt="Mountain Village Winter" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-mountain-village-winter.jpg"/>

@@ -18,10 +18,12 @@
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences)
   - [SaaS Deep Dive: Designing and Building Multi-Tenant Solutions - Tod Golding](https://www.youtube.com/watch?v=joz0DoSQDNw)
   - [Agility is Inefficient - Klaus Bucka-Lassen](https://www.youtube.com/watch?v=q6sq5ktP_3g&t=875s)
-
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Engineering with Utsav](https://www.youtube.com/@EngineeringwithUtsav)
+- [ArjanCodes](https://www.youtube.com/@ArjanCodes)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-  - [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&t=577s)
 - [IT Revolution](https://www.youtube.com/c/ITRevolution)
+- [Devoxx](https://www.youtube.com/@DevoxxForever)
 
 ## Video Selection
 
@@ -31,8 +33,14 @@
 - [Event Sourcing - You are doing it wrong](https://www.youtube.com/watch?v=rdB9Q8GouKI)
 - [Real world serverless - architecture, patterns and lessons learned - David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 
+### AWS
+
+- [AWS re:Invent 2022 Keynote - Dr. Werner Vogels](https://www.youtube.com/watch?v=RfvL_423a-I)
+- [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&t=577s)
+
 ### Others Authors
 
+- [Team Topologies, Software Architecture & Complexity - James Lewis](https://www.youtube.com/watch?v=izLg4NkJQO4&t=817s)
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [TDD, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)

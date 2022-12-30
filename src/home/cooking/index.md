@@ -76,3 +76,5 @@ sitemap:
 [Tarte pommes sirop erable simplissime](https://missioncuisineurbaine.com/tarte-pommes-sirop-erable-simplissime/)
 
 [Healthy Lemon Blueberry Cake](https://thebigmansworld.com/healthy-lemon-blueberry-loaf-cake/)
+
+[Cretons (les meilleurs)](https://www.ricardocuisine.com/recettes/7620-cretons-les-meilleurs)
