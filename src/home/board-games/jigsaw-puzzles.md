@@ -5,6 +5,17 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2023-02-01 - 1000 pieces - Ski
+<p align="center">
+<img alt="Ski" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-ski.jpg"/>
+</p>
+
+## 2023-01-19 - 1000 pieces - Swiss
+<p align="center">
+<img alt="Swiss" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-swiss.jpg"/>
+</p>
+
+
 ## 2023-01-01 - 1000 pieces - London (Owned)
 <p align="center">
 <img alt="London" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-london.jpg"/>

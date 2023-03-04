@@ -25,7 +25,7 @@ Dark                       | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me                 | 0/2 | Netflix
 Doctor Who                 | 4/8 | Crave
 Emily in Paris             | 2/2 | Netflix
-F1: Drive to Survive       | 4/4 | Netflix | Atmos
+F1: Drive to Survive       | 5/6 | Netflix | Atmos
 Good Place (The)           | 3/4 | Netflix
 Good Wife (The)            | 4/7 | ?
 Grace and Frankie          | 4/4 | Netflix
@@ -53,18 +53,19 @@ Ozark                      | 3/4 | Netflix
 Peaky Blinders             | 1/5 | Netflix
 Prodigal Son               | 2/2 | Netflix
 Rake                       | 2/5 | Netflix
-Santa Clarita Diet         | 0/2 | Netflix
-Seinfeld                   | 2/9 | Netflix
+Seinfeld                   | 4/9 | Netflix
 Sense                      | 1/3 | Netflix
 Sex Education              | 3/3 | Netflix
-Sex Lives of College Girls | 1/1 | Crave
+Sex Lives of College Girls | 2/2 | Crave
 Shameless                  | 2/10 | Netflix
 Sherlock                   | 1/2 | Netflix
 Sqid Game                  | 1/1 | Netflix
 Stranger Things            | 1/4 | Netflix
-Wednesday                  | 0/1 | Netflix
+Succession                 | 0/4 | Crave
+Wednesday                  | 1/1 | Netflix
+White Lotus (The)          | 2/3 | Crave
 Witcher (The)              | 1/2 | Netflix
-Young Sheldon              | 2/6 | Netflix
+Young Sheldon              | 4/6 | Netflix
 
 French television series I am watching or for which I am waiting for new episodes in alphabetical order:
 
@@ -95,6 +96,7 @@ Lost                           | 5 | 6
 Modern Family                  | 6 | 12
 Queen's Gambit (The)           | 10 | 1
 Ritches (The)                  | 7 | 2
+Santa Clarita Diet             | 6 | 3
 Six Feet Under                 | 8 | 5
 Schitt's Creek                 | 8 | 6
 Sopranos (The)                 | 8 | 6
@@ -102,6 +104,7 @@ Star Trek                      | 7 | 3
 Star Trek: Enterprise          | 7 | 4
 Star Trek: The Next Generation | 8 | 7
 Suits                          | 6 | 9
+Unorthodox                     | 8 | 1
 Weeds                          | 7 | 8
 West Wing (The)                | 8 | 7
 

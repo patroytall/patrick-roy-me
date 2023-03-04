@@ -16,6 +16,7 @@
 ## YouTube Channels
 
 - [GOTO Conference](https://www.youtube.com/user/GotoConferences)
+  - [Prioritizing Technical Debt as If Time & Money Matters - Adam Tornhill](https://www.youtube.com/watch?v=w9YhmMPLQ4U&t=638s)
   - [SaaS Deep Dive: Designing and Building Multi-Tenant Solutions - Tod Golding](https://www.youtube.com/watch?v=joz0DoSQDNw)
   - [Agility is Inefficient - Klaus Bucka-Lassen](https://www.youtube.com/watch?v=q6sq5ktP_3g&t=875s)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
