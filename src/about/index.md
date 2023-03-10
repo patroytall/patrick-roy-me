@@ -2,16 +2,19 @@
 
 My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [influences](../references/index.md), [My LeetCode](https://github.com/patroytall/leetcode), [GitHub](https://github.com/patroytall). I am fluent in French and English.
 
-I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, security, and quality assurance. I currently work for Morgan Stanley as a senior architect. Prior to this role, I was working for Québecor Media as a lead architect for the QUB project where we released the [QUB](https://www.qub.ca/) application on [web](https://www.qub.ca/), [iOS](https://apps.apple.com/ca/app/qub/id942494435), and [Android](https://play.google.com/store/apps/details?id=com.netcosports.andjdm), Apple TV, Android TV, Fire TV, and Comcast X1 (Helix) composed of:
+I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, security, and quality assurance.
+I currently work for Morgan Stanley as a senior architect. We are building a risk management platform using a microservice and realtime event base architecture. My primary responsability has been the deployment, scalling, high availability, and observability of the platform. q
+
+Prior to Morgan Stanley, I was working for Québecor Media as a lead architect for the QUB project where we released the [QUB](https://www.qub.ca/) application on [web](https://www.qub.ca/), [iOS](https://apps.apple.com/ca/app/qub/id942494435), and [Android](https://play.google.com/store/apps/details?id=com.netcosports.andjdm), Apple TV, Android TV, Fire TV, and Comcast X1 (Helix) composed of:
 - [QUB info](https://www.qub.ca/info) - largest Québec news source
 - [QUB musique](https://www.qub.ca/musique) - 70 million songs - [iOS](https://apps.apple.com/ca/app/qub-musique/id1489964737) - [Android](https://play.google.com/store/apps/details?id=com.numeriq.qub.musique)
-- [QUB vidéo](https://www.qub.ca/videos) - top Canadian video and live content service; TVA+ and Vrai - [iOS](https://apps.apple.com/ca/app/tva/id1150619411) - [Android](https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor)
+- [QUB vidéo](https://www.qub.ca/videos) - in top Canadian video and live content services; TVA+ and Vrai - [iOS](https://apps.apple.com/ca/app/tva/id1150619411) - [Android](https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor)
 - [QUB radio](https://www.qub.ca/radio) - podcast and live radio service
 - [QUB livre](https://qublivre.ca/) - a Shopify+ bookstore
 
 An accomplishment I am proud of in the Québecor project is the delivery of the cache and cache invalidation solution by my team which has allowed the QUB platform to scale with minimal load on the backend services and support live updates.
 
-A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection also referred as being hands-on. 
+A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver most value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection which for me comes from being hands-on. 
 
 My guiding principles for software development are **simplicity** and **agility** which I summarizes with these mottos: "code costs" and "there is no 'what if' in agile". I share a rising opinion (for example [Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&t=1267s) and [Ben Hosking](https://itnext.io/agile-projects-have-become-waterfall-projects-with-sprints-536141801856)) that agile development often diverges from its root principles in the [agile manifesto](https://agilemanifesto.org/). Agility applies to software architecture as well as to product features.
 
@@ -19,7 +22,8 @@ I strongly believe in continuous delivery because it increases average feature a
 
 I hopefully believe in microservices because we need to divide work across teams, be flexible, and scale applications with high availability. State management is more difficult; you will miss your [ACID](https://en.wikipedia.org/wiki/ACID). You will argue about service separation, freedom vs standardization, size, and of course testing; experiment slowly.
 
-No estimates advocate: [Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms&t=29s), [David Farley](https://www.youtube.com/watch?v=v21jg8wb1eU&t=267s), and [SWAG wiki](https://en.wikipedia.org/wiki/Scientific_wild-ass_guess#:~:text=Scientific%20wild%2Dass%20guess%20(SWAG,portmanteau%20of%20guess%20and%20estimate). Use projections to stay in business.
+No estimates advocate: [Allen Holub](https://www.youtube.com/watch?v=QVBlnCTu9Ms&t=29s), [David Farley](https://www.youtube.com/watch?v=v21jg8wb1eU&t=267s), and
+[SWAG wiki](https://en.wikipedia.org/wiki/Scientific_wild-ass_guess#:~:text=Scientific%20wild%2Dass%20guess%20%40SWAG,portmanteau%20of%20guess%20and%20estimate). Use projections to stay in business.
 
 I am an avid learner. Every day, through books, articles, videos, podcasts, and discussions, I continue the infinite journey of trying to be a relevant software architect. Recent books: [Team Topologies](https://teamtopologies.com/), [Modern Software Engineering](https://www.youtube.com/watch?v=80LbSyTCKas), and [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/).
 
