@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2023-03-26 - 1000 pieces - Snow Children
+<p align="center">
+<img alt="Snow Children" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-snow-children.jpg"/>
+</p>
+
 ## 2023-02-01 - 1000 pieces - Ski
 <p align="center">
 <img alt="Ski" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-ski.jpg"/>

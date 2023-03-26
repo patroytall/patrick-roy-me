@@ -96,3 +96,7 @@ sitemap:
 [Mayonnaise épicée](https://www.coupdepouce.com/cuisine/sauces-et-condiments/recette/mayonnaise-epicee-1)
 
 [Cake au citron et aux graines de pavot](https://www.ricardocuisine.com/recettes/7866-cake-au-citron-et-aux-graines-de-pavot-le-meilleur)
+
+[Gâteau irlandais aux pommes pour la Saint Patrick](https://cuisine.journaldesfemmes.fr/recette/1017599-gateau-irlandais-aux-pommes-pour-la-saint-patrick-vegan)
+
+[Galets de crevettes nordiques et aïoli](https://ici.radio-canada.ca/mordu/recettes/6035/galets-crevettes-nordiques-aioli)
