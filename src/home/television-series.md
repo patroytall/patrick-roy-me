@@ -20,6 +20,7 @@ Blindspot                  | 2/5 | Netflix
 Bodyguard                  | 1/2 | Netflix
 Brooklyn Nine-Nine         | 3/5 | Netflix
 Crown                      | 4/4 | Netflix
+Dance 100                  | 1/1 | Netflix
 Daredevil                  | 2/3 | Netflix | Atmos
 Dark                       | 0/1 | Netflix | Listen in German, Atmos
 Dead to Me                 | 0/2 | Netflix
@@ -32,12 +33,12 @@ Grace and Frankie          | 4/4 | Netflix
 Grinder                    | 1/1 | Netflix
 Homeland                   | 2/8 | Netflix
 Imposters                  | 2/2 | Netflix
-Inventing Anna             | 0/1 | Netflix
 Iron Fist                  | 0/1 | Netflix | Atmos
 Jessica Jones              | 0/2 | Netflix | Atmos
 Kim's Convenience          | 1/5 | Netflix
 Kimmy Schmidt              | 1/4 | Netflix
 Last Man on Earth          | 1/4 | Netflix
+Leo                        | 4/? | TVA
 Lie to Me                  | 2/3 | ?
 Life in Pieces             | 2/3 | Netflix
 Lucifer                    | 5/6 | Netflix | Atmos
@@ -51,6 +52,7 @@ OA (The)                   | 1/2 | Netflix
 Orange Is the New Black    | 1/7 | Netflix
 Ozark                      | 3/4 | Netflix
 Peaky Blinders             | 1/5 | Netflix
+Physical 100               | 1/1 | Netflix
 Prodigal Son               | 2/2 | Netflix
 Rake                       | 2/5 | Netflix
 Seinfeld                   | 4/9 | Netflix
@@ -61,7 +63,7 @@ Shameless                  | 2/10 | Netflix
 Sherlock                   | 1/2 | Netflix
 Sqid Game                  | 1/1 | Netflix
 Stranger Things            | 1/4 | Netflix
-Succession                 | 0/4 | Crave
+Succession                 | 2/4 | Crave
 Wednesday                  | 1/1 | Netflix
 White Lotus (The)          | 2/3 | Crave
 Witcher (The)              | 1/2 | Netflix
@@ -88,9 +90,11 @@ English television series I have finished watching and which are completed in al
 24                             | 5 | 8
 Breaking Bad                   | 9 | 5
 Downton Abbey                  | 8 | 6
+Extraordinary Attorney Woo     | 7 | 1
 Friends                        | 8 | 10
 Friends from College           | 7 | 2
 Good Girls                     | 7 | 4
+Inventing Anna                 | 8 | 1
 Kominsky Method (The)          | 9 | 3
 Lost                           | 5 | 6
 Modern Family                  | 6 | 12
@@ -139,4 +143,4 @@ French television series I have watched but do not plan to finish in alphabetica
 
 | Name      | Rating | Watched/Existing Seasons | Comments |
 |-----------|--------|--------------------------|----------|
-District 31 | 7  | 0/2 | Slow
+District 31 | 7      | 0/2 | Slow

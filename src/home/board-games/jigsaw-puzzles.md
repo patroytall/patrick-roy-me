@@ -5,6 +5,11 @@ sitemap:
 
 # Jigsaw Puzzles
 
+## 2023-05-01 - 1000 pieces - Fur Home
+<p align="center">
+<img alt="Fur Home" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-fur-home.jpg"/>
+</p>
+
 ## 2023-03-26 - 1000 pieces - Snow Children
 <p align="center">
 <img alt="Snow Children" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-snow-children.jpg"/>

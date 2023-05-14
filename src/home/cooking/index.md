@@ -100,3 +100,7 @@ sitemap:
 [Gâteau irlandais aux pommes pour la Saint Patrick](https://cuisine.journaldesfemmes.fr/recette/1017599-gateau-irlandais-aux-pommes-pour-la-saint-patrick-vegan)
 
 [Galets de crevettes nordiques et aïoli](https://ici.radio-canada.ca/mordu/recettes/6035/galets-crevettes-nordiques-aioli)
+
+[CARI DE LÉGUMES À L'INDIENNE](https://www.nobleveggies.com/fr/cari-de-legumes-a-indienne/)
+
+[SAUTE DE PORC KORMA](http://www.lesfoodies.com/nininehub/recette/saute-de-porc-korma)
