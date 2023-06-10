@@ -104,3 +104,13 @@ sitemap:
 [CARI DE LÉGUMES À L'INDIENNE](https://www.nobleveggies.com/fr/cari-de-legumes-a-indienne/)
 
 [SAUTE DE PORC KORMA](http://www.lesfoodies.com/nininehub/recette/saute-de-porc-korma)
+
+[Pétoncles à la thaï](https://fr.chatelaine.com/recettes/fruits_de_mer/petoncles-a-la-thai/)
+
+[Raviolis de homard, sauce au beurre au homard](https://www.ricardocuisine.com/recettes/5237-raviolis-de-homard-sauce-au-beurre-au-homard)
+
+[Rouleaux de printemps](https://www.ricardocuisine.com/recettes/491-rouleaux-de-printemps)
+
+[Cocktail au porto blanc et au pamplemousse grillé](https://www.zeste.ca/recettes/cocktail-au-porto-blanc-et-au-pamplemousse-grille)
+
+[Cassolette de la mer au poisson et aux crevettes – Carottes, poireaux et champignons](https://harmoniecuisine.com/mes-recettes/cassolette-de-la-mer-au-poisson-et-aux-crevettes/)
