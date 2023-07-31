@@ -9,7 +9,9 @@ Golf courses we have played:
 
 | Name                                                                                | Location       | Description | Comment|
 |-------------------------------------------------------------------------------------|----------------|-------------|--------|
+[Club de Golf la Seigneurie](https://golflaseigneurie.ca/)                            | Mont St-Hilaire | 18
 [Club de golf Les Légendes](http://www.golfleslegendes.com/)                          |  Saint-Jean-sur-Richelieu | 18
+[Club de golf St-Lambert](https://golfstlambert.com/)                                 |  Saint-Lambert | 9
 [Fairmont Le Manoir Richelieu Golf Club](https://www.fairmont.com/richelieu-charlevoix/golf/club-de-golf-fairmont-le-manoir-richelieu/)| La Malbaie | 3 x 9
 [Golf des Arpents Verts](http://www.golfdesarpentsverts.ca/)                          | St-Matias-deBeloeil | 2 x 9
 [Golf Château-Bromont](https://chateaubromont.com/en/golf-chateau-bromont/)           | Bromont | 18

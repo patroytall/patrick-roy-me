@@ -114,3 +114,7 @@ sitemap:
 [Cocktail au porto blanc et au pamplemousse grillé](https://www.zeste.ca/recettes/cocktail-au-porto-blanc-et-au-pamplemousse-grille)
 
 [Cassolette de la mer au poisson et aux crevettes – Carottes, poireaux et champignons](https://harmoniecuisine.com/mes-recettes/cassolette-de-la-mer-au-poisson-et-aux-crevettes/)
+
+[Tarte fine aux oignons rouges et pomme](https://cuisinez.telequebec.tv/recettes/6557/tarte-fine-aux-oignons-rouges-et-pomme)
+
+[BURRATA COULANTE AUX TOMATES CERISES ET AUX HERBES FINES](https://www.jeanfrancoisplante.ca/entr%C3%A9es)
