@@ -1,5 +1,11 @@
-# Welcome to my website
+# Patrick Roy's Site
 
-This is my first page using **Lume,** a static site generator for Deno.
+# UNDER CONSTRUCTION
 
-I hope you enjoy it.
+## This site is currently being re-written using Deno Lume
+
+# [Professional](./professional)
+
+# [Jigsaw Puzzles](./jigsaw-puzzles)
+
+# [Television Series](./television-series)

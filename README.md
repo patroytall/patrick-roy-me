@@ -1,5 +1,5 @@
 
-Start server:
+Start development server:
 ```bash
 deno task serve
 ```
