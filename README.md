@@ -1,1 +1,5 @@
-# patrick-roy-me
+
+Start server:
+```bash
+deno task serve
+```
