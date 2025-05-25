@@ -1,5 +1,7 @@
 # About Me
 
+## [BACK to parent page](..)
+
 My name is Patrick Roy. For 30 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [influences](../references/index.md), [My LeetCode](https://github.com/patroytall/leetcode), [GitHub](https://github.com/patroytall). I am fluent in French and English.
 
 I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance test, security, and automated quality assurance.
@@ -125,3 +127,5 @@ Testing strategies in microservice environments need to be adapted. Consumer-dri
 [Kubernetes](https://kubernetes.io/), the defacto container orchestration, is not your friend; it will cost you an arm and a leg in configuration and maintenance. Consider hosted versions or better a more managed platform if you can.
 
 Code is still the precious. Nurture it with best practices and it will give you back for years.
+
+## [BACK to parent page](..)
