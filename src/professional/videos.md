@@ -1,3 +1,7 @@
+---
+layout: layout.vto
+---
+
 # Videos
 
 ## [BACK to parent page](..)

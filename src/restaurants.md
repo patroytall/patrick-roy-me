@@ -1,3 +1,7 @@
+---
+layout: layout.vto
+---
+
 # Restaurants
 
 ## [BACK to parent page](..)

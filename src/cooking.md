@@ -1,3 +1,7 @@
+---
+layout: layout.vto
+---
+
 # Cooking
 
 ## [BACK to parent page](..)

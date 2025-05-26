@@ -1,3 +1,7 @@
+---
+layout: layout.vto
+---
+
 # Jigsaw Puzzles
 
 ## [BACK to parent page](..)

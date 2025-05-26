@@ -1,3 +1,7 @@
+---
+layout: layout.vto
+---
+
 # References (History)
 
 ## [BACK to parent page](..)

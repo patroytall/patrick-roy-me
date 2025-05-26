@@ -4,4 +4,6 @@ const site = lume({
   src: "./src",
 });
 
+site.copy("styles.css");
+
 export default site;
